@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Program on Diplomantky.cz</title>
-    <link>https://gajdosik.org/diplomantky.cz/programme/</link>
+    <link>http://diplomantky.cz/programme/</link>
     <description>Recent content in Program on Diplomantky.cz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2020 15:02:56 +0200</lastBuildDate><atom:link href="https://gajdosik.org/diplomantky.cz/programme/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Aug 2020 15:02:56 +0200</lastBuildDate><atom:link href="http://diplomantky.cz/programme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Akce</title>
-      <link>https://gajdosik.org/diplomantky.cz/programme/events/</link>
+      <link>http://diplomantky.cz/programme/events/</link>
       <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
       
-      <guid>https://gajdosik.org/diplomantky.cz/programme/events/</guid>
+      <guid>http://diplomantky.cz/programme/events/</guid>
       <description></description>
     </item>
     
