@@ -1,0 +1,9 @@
+{{ define "content"}}
+
+  {{ range .Pages }}
+    <div class="g-item small">
+      <a class="button" href="{{ .Permalink }}"> {{ .Title }} </a>
+    </div>
+  {{ end }}
+
+{{ end }}
