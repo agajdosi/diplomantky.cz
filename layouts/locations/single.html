@@ -16,7 +16,7 @@
   <img src="/locations/byt.png">
 
 
-  {{ range where .Site.Pages "Params.location" .Title }}
+  {{ range where .Site.Pages "Params.location" .File.TranslationBaseName }}
     <div class="g-item small">
       <a class="button button-white" href="{{ .Permalink }}"> {{ .Title }} </a>
     </div>
