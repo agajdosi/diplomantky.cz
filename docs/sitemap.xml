@@ -3,76 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://gajdosik.org/diplomantky.cz/home/</loc>
+    <loc>https://gajdosik.org/diplomantky.cz/students/</loc>
+    <lastmod>2020-08-17T16:02:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gajdosik.org/diplomantky.cz/</loc>
+    <lastmod>2020-08-17T16:02:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gajdosik.org/diplomantky.cz/programme/events/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gajdosik.org/diplomantky.cz/programme/events/</loc>
+    <loc>https://gajdosik.org/diplomantky.cz/locations/byt/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gajdosik.org/diplomantky.cz/locations/byt/</loc>
+    <loc>https://gajdosik.org/diplomantky.cz/locations/kunstat/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gajdosik.org/diplomantky.cz/</loc>
+    <loc>https://gajdosik.org/diplomantky.cz/locations/skola/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gajdosik.org/diplomantky.cz/locations/kunstat/</loc>
+    <loc>https://gajdosik.org/diplomantky.cz/locations/klubovna/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gajdosik.org/diplomantky.cz/locations/skola/</loc>
+    <loc>https://gajdosik.org/diplomantky.cz/locations/kanal/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gajdosik.org/diplomantky.cz/locations/klubovna/</loc>
+    <loc>https://gajdosik.org/diplomantky.cz/locations/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gajdosik.org/diplomantky.cz/locations/kanal/</loc>
+    <loc>https://gajdosik.org/diplomantky.cz/students/cab_martin/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gajdosik.org/diplomantky.cz/locations/</loc>
+    <loc>https://gajdosik.org/diplomantky.cz/locations/zahradka/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gajdosik.org/diplomantky.cz/students/cab_martin/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <loc>https://gajdosik.org/diplomantky.cz/programme/</loc>
+    <lastmod>2020-08-16T15:02:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gajdosik.org/diplomantky.cz/programme/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <loc>https://gajdosik.org/diplomantky.cz/categories/</loc>
   </url>
   
   <url>
-    <loc>http://gajdosik.org/diplomantky.cz/students/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://gajdosik.org/diplomantky.cz/locations/zahradka/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://gajdosik.org/diplomantky.cz/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://gajdosik.org/diplomantky.cz/tags/</loc>
+    <loc>https://gajdosik.org/diplomantky.cz/tags/</loc>
   </url>
   
 </urlset>
