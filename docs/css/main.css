@@ -1,3 +1,12 @@
+img {
+    max-width: 100%;
+    max-height: 70vh;
+}
+
+a {
+    text-decoration: none;
+}
+
 .main {
     max-width: 980px;
     margin: 0 auto;
@@ -21,7 +30,7 @@
     width: 100%;
 }
 
-.button {
+.button{
     border-radius: 10px;
     color: rgba(255, 255, 255, 1);
     background: rgba(0, 0, 0, 1);
@@ -30,4 +39,10 @@
 
     padding: .5em 1em;
     border: none;
+}
+
+.button-white {
+    background: rgba(255, 255, 255, 1);
+    color: rgba(0, 0, 0, 1);
+    border: 2px solid rgba(0, 0, 0, 1);
 }
