@@ -1,3 +1,4 @@
-baseURL = "http://diplomantky.cz/"
+baseURL = "http://gajdosik.org/diplomantky.cz/"
 languageCode = "en-us"
 title = "Diplomantky.cz"
+publishDir = "./docs"
