@@ -1,0 +1,12 @@
+baseURL : http://diplomantky.cz
+languageCode : cs
+title : Diplomantky.cz
+publishDir : ./docs
+DefaultContentLanguage: cs
+languages:
+  cs:
+    languageName: Česky
+    weight: 1
+  en:
+    languageName: English
+    weight: 2
