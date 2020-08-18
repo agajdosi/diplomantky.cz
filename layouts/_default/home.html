@@ -2,7 +2,7 @@
 
   {{ range .Pages }}
   <div class="g-item small">
-    <a class="button" href="{{ .Permalink }}"> {{ .Title }} </a>
+    <a class="button" href="{{ .Permalink }}"> {{ .Params.ShortTitle }} </a>
   </div>
   {{ end }}
 
