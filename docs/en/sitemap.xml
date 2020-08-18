@@ -3,6 +3,111 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://diplomantky.cz/en/students/</loc>
+    <lastmod>2020-08-17T16:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://diplomantky.cz/students/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://diplomantky.cz/en/students/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://diplomantky.cz/en/students/turzo/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://diplomantky.cz/students/turzo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://diplomantky.cz/en/students/turzo/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://diplomantky.cz/en/students/venturova/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://diplomantky.cz/students/venturova/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://diplomantky.cz/en/students/venturova/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://diplomantky.cz/en/students/matejova/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://diplomantky.cz/students/matejova/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://diplomantky.cz/en/students/matejova/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://diplomantky.cz/en/students/demovicova/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://diplomantky.cz/students/demovicova/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://diplomantky.cz/en/students/demovicova/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://diplomantky.cz/en/students/ruzickova/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://diplomantky.cz/students/ruzickova/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://diplomantky.cz/en/students/ruzickova/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://diplomantky.cz/en/locations/kanal/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://diplomantky.cz/locations/kanal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://diplomantky.cz/en/locations/kanal/"
+                />
+  </url>
+  
+  <url>
     <loc>http://diplomantky.cz/en/locations/byt/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -48,32 +153,62 @@
   </url>
   
   <url>
-    <loc>http://diplomantky.cz/en/locations/skola/</loc>
+    <loc>http://diplomantky.cz/en/locations/favu/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="http://diplomantky.cz/locations/skola/"
+                href="http://diplomantky.cz/locations/favu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://diplomantky.cz/en/locations/skola/"
+                href="http://diplomantky.cz/en/locations/favu/"
                 />
   </url>
   
   <url>
-    <loc>http://diplomantky.cz/en/locations/zahradka/</loc>
+    <loc>http://diplomantky.cz/en/students/gorchakova/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="http://diplomantky.cz/locations/zahradka/"
+                href="http://diplomantky.cz/students/gorchakova/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://diplomantky.cz/en/locations/zahradka/"
+                href="http://diplomantky.cz/en/students/gorchakova/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://diplomantky.cz/en/students/hovezakova/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://diplomantky.cz/students/hovezakova/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://diplomantky.cz/en/students/hovezakova/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://diplomantky.cz/en/students/macenkova/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://diplomantky.cz/students/macenkova/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://diplomantky.cz/en/students/macenkova/"
                 />
   </url>
   
@@ -93,6 +228,66 @@
   </url>
   
   <url>
+    <loc>http://diplomantky.cz/en/students/reisova/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://diplomantky.cz/students/reisova/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://diplomantky.cz/en/students/reisova/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://diplomantky.cz/en/students/coufalova/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://diplomantky.cz/students/coufalova/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://diplomantky.cz/en/students/coufalova/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://diplomantky.cz/en/students/kazdova/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://diplomantky.cz/students/kazdova/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://diplomantky.cz/en/students/kazdova/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://diplomantky.cz/en/students/velebova/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://diplomantky.cz/students/velebova/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://diplomantky.cz/en/students/velebova/"
+                />
+  </url>
+  
+  <url>
     <loc>http://diplomantky.cz/en/locations/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -104,6 +299,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://diplomantky.cz/en/locations/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://diplomantky.cz/en/students/sadecka/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://diplomantky.cz/students/sadecka/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://diplomantky.cz/en/students/sadecka/"
                 />
   </url>
   
@@ -138,47 +348,92 @@
   </url>
   
   <url>
-    <loc>http://diplomantky.cz/en/programme/</loc>
+    <loc>http://diplomantky.cz/en/students/jindrak/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="http://diplomantky.cz/programme/"
+                href="http://diplomantky.cz/students/jindrak/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://diplomantky.cz/en/programme/"
+                href="http://diplomantky.cz/en/students/jindrak/"
                 />
   </url>
   
   <url>
-    <loc>http://diplomantky.cz/en/locations/kanal/</loc>
+    <loc>http://diplomantky.cz/en/students/picek/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="http://diplomantky.cz/locations/kanal/"
+                href="http://diplomantky.cz/students/picek/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://diplomantky.cz/en/locations/kanal/"
+                href="http://diplomantky.cz/en/students/picek/"
                 />
   </url>
   
   <url>
-    <loc>http://diplomantky.cz/en/students/</loc>
+    <loc>http://diplomantky.cz/en/students/mitro/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="http://diplomantky.cz/students/"
+                href="http://diplomantky.cz/students/mitro/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://diplomantky.cz/en/students/"
+                href="http://diplomantky.cz/en/students/mitro/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://diplomantky.cz/en/students/kadanka/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://diplomantky.cz/students/kadanka/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://diplomantky.cz/en/students/kadanka/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://diplomantky.cz/en/students/chrastilova/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://diplomantky.cz/students/chrastilova/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://diplomantky.cz/en/students/chrastilova/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://diplomantky.cz/en/locations/zahradka/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://diplomantky.cz/locations/zahradka/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://diplomantky.cz/en/locations/zahradka/"
                 />
   </url>
   
@@ -198,6 +453,21 @@
   </url>
   
   <url>
+    <loc>http://diplomantky.cz/en/students/risianova/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://diplomantky.cz/students/risianova/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://diplomantky.cz/en/students/risianova/"
+                />
+  </url>
+  
+  <url>
     <loc>http://diplomantky.cz/en/students/broz/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -209,6 +479,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://diplomantky.cz/en/students/broz/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://diplomantky.cz/en/programme/</loc>
+    <lastmod>2020-08-16T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://diplomantky.cz/programme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://diplomantky.cz/en/programme/"
                 />
   </url>
   

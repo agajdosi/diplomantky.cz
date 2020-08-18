@@ -1,12 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Diplomantky.cz</title>
+    <title>Diplomantky.cz: exhibition and database of diplomants of FFA BUT 2020 on Diplomantky.cz</title>
     <link>http://diplomantky.cz/en/</link>
-    <description>Recent content on Diplomantky.cz</description>
+    <description>Recent content in Diplomantky.cz: exhibition and database of diplomants of FFA BUT 2020 on Diplomantky.cz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs</language>
     <lastBuildDate>Mon, 17 Aug 2020 15:02:56 +0200</lastBuildDate><atom:link href="http://diplomantky.cz/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adam Turzo</title>
+      <link>http://diplomantky.cz/en/students/turzo/</link>
+      <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
+      
+      <guid>http://diplomantky.cz/en/students/turzo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adéla Venturová</title>
+      <link>http://diplomantky.cz/en/students/venturova/</link>
+      <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
+      
+      <guid>http://diplomantky.cz/en/students/venturova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alina Matějová</title>
+      <link>http://diplomantky.cz/en/students/matejova/</link>
+      <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
+      
+      <guid>http://diplomantky.cz/en/students/matejova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barbora Demovičová</title>
+      <link>http://diplomantky.cz/en/students/demovicova/</link>
+      <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
+      
+      <guid>http://diplomantky.cz/en/students/demovicova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bára Růžičková</title>
+      <link>http://diplomantky.cz/en/students/ruzickova/</link>
+      <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
+      
+      <guid>http://diplomantky.cz/en/students/ruzickova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canal</title>
+      <link>http://diplomantky.cz/en/locations/kanal/</link>
+      <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
+      
+      <guid>http://diplomantky.cz/en/locations/kanal/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>City Flat</title>
       <link>http://diplomantky.cz/en/locations/byt/</link>
@@ -26,20 +80,38 @@
     </item>
     
     <item>
-      <title>Faculty of Fine Arts</title>
-      <link>http://diplomantky.cz/en/locations/skola/</link>
+      <title>Faculty of Fine Arts BUT</title>
+      <link>http://diplomantky.cz/en/locations/favu/</link>
       <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
       
-      <guid>http://diplomantky.cz/en/locations/skola/</guid>
+      <guid>http://diplomantky.cz/en/locations/favu/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Garden</title>
-      <link>http://diplomantky.cz/en/locations/zahradka/</link>
+      <title>Gorchakova Kseniia</title>
+      <link>http://diplomantky.cz/en/students/gorchakova/</link>
       <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
       
-      <guid>http://diplomantky.cz/en/locations/zahradka/</guid>
+      <guid>http://diplomantky.cz/en/students/gorchakova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ilona Hověžáková</title>
+      <link>http://diplomantky.cz/en/students/hovezakova/</link>
+      <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
+      
+      <guid>http://diplomantky.cz/en/students/hovezakova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katarína Maceňková</title>
+      <link>http://diplomantky.cz/en/students/macenkova/</link>
+      <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
+      
+      <guid>http://diplomantky.cz/en/students/macenkova/</guid>
       <description></description>
     </item>
     
@@ -49,6 +121,51 @@
       <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
       
       <guid>http://diplomantky.cz/en/locations/klubovna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kristína Reisová</title>
+      <link>http://diplomantky.cz/en/students/reisova/</link>
+      <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
+      
+      <guid>http://diplomantky.cz/en/students/reisova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kristýna Coufalová</title>
+      <link>http://diplomantky.cz/en/students/coufalova/</link>
+      <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
+      
+      <guid>http://diplomantky.cz/en/students/coufalova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kristýna Kazdová</title>
+      <link>http://diplomantky.cz/en/students/kazdova/</link>
+      <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
+      
+      <guid>http://diplomantky.cz/en/students/kazdova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leona Velebová</title>
+      <link>http://diplomantky.cz/en/students/velebova/</link>
+      <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
+      
+      <guid>http://diplomantky.cz/en/students/velebova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lucia Sádecká</title>
+      <link>http://diplomantky.cz/en/students/sadecka/</link>
+      <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
+      
+      <guid>http://diplomantky.cz/en/students/sadecka/</guid>
       <description></description>
     </item>
     
@@ -71,11 +188,56 @@
     </item>
     
     <item>
-      <title>Sewage</title>
-      <link>http://diplomantky.cz/en/locations/kanal/</link>
+      <title>Matěj Jindrák</title>
+      <link>http://diplomantky.cz/en/students/jindrak/</link>
       <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
       
-      <guid>http://diplomantky.cz/en/locations/kanal/</guid>
+      <guid>http://diplomantky.cz/en/students/jindrak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matěj Picek</title>
+      <link>http://diplomantky.cz/en/students/picek/</link>
+      <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
+      
+      <guid>http://diplomantky.cz/en/students/picek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michal Mitro</title>
+      <link>http://diplomantky.cz/en/students/mitro/</link>
+      <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
+      
+      <guid>http://diplomantky.cz/en/students/mitro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Petr Kadaňka</title>
+      <link>http://diplomantky.cz/en/students/kadanka/</link>
+      <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
+      
+      <guid>http://diplomantky.cz/en/students/kadanka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sabina Chrastilová</title>
+      <link>http://diplomantky.cz/en/students/chrastilova/</link>
+      <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
+      
+      <guid>http://diplomantky.cz/en/students/chrastilova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Garden</title>
+      <link>http://diplomantky.cz/en/locations/zahradka/</link>
+      <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
+      
+      <guid>http://diplomantky.cz/en/locations/zahradka/</guid>
       <description></description>
     </item>
     
@@ -85,6 +247,15 @@
       <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
       
       <guid>http://diplomantky.cz/en/locations/kunstat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zuzana Rišiánová</title>
+      <link>http://diplomantky.cz/en/students/risianova/</link>
+      <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
+      
+      <guid>http://diplomantky.cz/en/students/risianova/</guid>
       <description></description>
     </item>
     
