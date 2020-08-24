@@ -17,5 +17,11 @@
     {{ block "content" .}} {{ end }}
   </div>
 
+  {{ range .Translations }}
+    <a class="lang" href="{{ .Permalink }}">
+      {{.Language}}
+    </a>
+  {{ end}}
+
 </body>
 </html>
