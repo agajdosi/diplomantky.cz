@@ -1,9 +1,23 @@
 {{ define "content"}}
 
-  {{ range .Pages }}
-    <div class="g-item small">
-      <a class="button" href="{{ .Permalink }}"> {{ .Title }} </a>
-    </div>
-  {{ end }}
 
+  {{ range .Pages.GroupByDate "02.01. 2006" "asc" }}
+    
+    {{ .Key }}
+
+    {{ range .Pages }}
+      {{ $link := ""}}
+      {{ range where .Site.Pages ".File.TranslationBaseName" .Params.where }}
+        {{ $link = .Permalink }}
+      {{ end }}
+      
+      <div class="g-item small">
+        <a class="button" href="{{ $link }}"> {{ .Title }} </a>
+      </div>
+
+      {{ .Page.Content }}
+    {{ end }}
+  
+  
+  {{ end }}
 {{ end }}
