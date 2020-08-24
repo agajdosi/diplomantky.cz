@@ -4,19 +4,6 @@
     <div class="button"> {{ .Title }} </div>
   </div>
 
-  {{ $bio := path.Join "static/students" .File.TranslationBaseName "/bio.md"}}
-  {{ $bio = readFile $bio}}
-  {{ .RenderString $bio }}
-
-  {{ $image := path.Join "/students" .File.TranslationBaseName "/1.jpg"}}
-  <img src={{$image}}>
-
-  <div class="g-item small">
-    <div class="button"> {{ .Params.artwork }} </div>
-  </div>
-
-  {{ $anotation := path.Join "static/students" .File.TranslationBaseName "/anotation.md"}}
-  {{ $anotation = readFile $anotation}}
-  {{ .RenderString $anotation}}
+  {{ .Content }}
   
 {{ end }}

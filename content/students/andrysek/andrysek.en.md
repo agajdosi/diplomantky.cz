@@ -6,3 +6,12 @@ draft: false
 artwork: "???"
 location: "kunstat"
 ---
+
+{{< bio >}}
+
+{{< /bio >}}
+
+
+{{< artwork >}}
+
+{{< /artwork >}}
