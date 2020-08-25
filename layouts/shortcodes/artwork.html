@@ -1,18 +1,21 @@
-<div class="g-item small">
-    <div class="button"> {{ .Page.Params.Artwork }} </div>
-</div>
+<div class="artwork">
+  <div class="g-item small">
+      <div class="button"> {{ .Page.Params.Artwork }} </div>
+  </div>
 
-{{ $image := path.Join "/students" .Page.TranslationBaseName "/1.jpg"}}
-<img src={{$image}}>
+  {{ $image := path.Join "/students" .Page.TranslationBaseName "/1.jpg"}}
+  <img src={{$image}}>
 
-{{ .Inner | markdownify }}
 
-{{ $path := .Page.File.Dir }}
-{{ range (readDir (path.Join "content" $path )) }}
-  {{ $image := split .Name "."}}
-  {{ $image_ext := index $image 1 }}
+  {{ .Inner | markdownify }}
 
-  {{ if eq $image_ext "jpg" }}
-    <img src="{{ path.Join `/` $path .Name }}">
+  {{ $path := .Page.File.Dir }}
+  {{ range (readDir (path.Join "content" $path )) }}
+    {{ $image := split .Name "."}}
+    {{ $image_ext := index $image 1 }}
+
+    {{ if eq $image_ext "jpg" }}
+      <img src="{{ path.Join `/` $path .Name }}">
+    {{ end }}
   {{ end }}
-{{ end }}
+</div>
