@@ -5,6 +5,9 @@ draft: false
 
 artwork: "Home-Topia"
 media: "web page, video installation"
+dimensions: "various dimensions"
+year: "2020"
+study: "mga"
 location: "byt"
 ---
 
