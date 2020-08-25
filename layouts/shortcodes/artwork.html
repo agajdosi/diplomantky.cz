@@ -1,21 +1,24 @@
-<div class="artwork">
-  <div class="g-item small">
-      <div class="button"> {{ .Page.Params.Artwork }} </div>
-  </div>
+{{ $images := slice }}
+{{ $path := .Page.File.Dir }}
+{{ range (readDir (path.Join "content" $path )) }}
+  {{ $image := split .Name "."}}
+  {{ $image_ext := index $image 1 }}
 
-  {{ $image := path.Join "/students" .Page.TranslationBaseName "/1.jpg"}}
-  <img src={{$image}}>
-
-
-  {{ .Inner | markdownify }}
-
-  {{ $path := .Page.File.Dir }}
-  {{ range (readDir (path.Join "content" $path )) }}
-    {{ $image := split .Name "."}}
-    {{ $image_ext := index $image 1 }}
-
-    {{ if eq $image_ext "jpg" }}
-      <img src="{{ path.Join `/` $path .Name }}">
-    {{ end }}
+  {{ if eq $image_ext "jpg" }}
+    {{ $images = $images | append .Name }}
   {{ end }}
+{{ end }}
+
+
+<div class="g-item small">
+    <div class="button"> {{ .Page.Params.Artwork }} </div>
 </div>
+
+{{ $image := path.Join "/students" .Page.File.TranslationBaseName "/1.jpg"}}
+<img src="{{ path.Join `/` $path (index $images 0) }}">
+
+{{ .Inner | markdownify }}
+
+{{ range after 1 $images}}
+  <img src="{{ path.Join `/` $path . }}">
+{{ end }}
