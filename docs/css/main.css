@@ -1,6 +1,6 @@
 img {
-    max-width: 100%;
-    max-height: 70vh;
+    width: 100%;
+    margin: 30px 0;
 }
 
 a {
@@ -21,6 +21,8 @@ a {
 
 .g-item {
     padding: 30px 0;
+    text-align: center;
+    margin: 0 auto;
 }
 
 .small {
@@ -46,6 +48,14 @@ a {
     background: rgba(255, 255, 255, 1);
     color: rgba(0, 0, 0, 1);
     border: 2px solid rgba(0, 0, 0, 1);
+}
+
+.bio {
+    text-align: left;
+}
+
+.artwork{
+    text-align: left;
 }
 
 .lang {
