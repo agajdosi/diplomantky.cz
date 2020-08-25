@@ -3,7 +3,7 @@ title: "Martin Cáb"
 date: 2020-08-17T15:02:56+02:00
 draft: false
 
-artwork: ""
+artwork: "???"
 medium: ""
 dimensions: ""
 year: "2020"
@@ -24,7 +24,7 @@ E-mail: martin.cab@email.cz
 * 2011 – 2020 Brno University of Technology, Faculty of Fine Arts, field of study: Studio of Intermedia (Václav Stratil, Pavel Sterec)
 * 2013 University of the Arts London, Central Saint Martin’s, field of study: Fine Art, 4D Pathway; Erasmus programme
 
-### Participation in exhibitions:
+### Participation in exhibitions
 * 2010 Mesiac fotografie, Open gallery, Bratislava
 * 2011 Prague Photo, Mánes, Prague
 * 2011 Současná krajina studentů ITF, Galerie Opera, Ostrava
