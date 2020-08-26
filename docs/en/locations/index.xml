@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Locations on Diplomantky.cz</title>
-    <link>http://diplomantky.cz/en/locations/</link>
+    <link>https://diplomantky.cz/en/locations/</link>
     <description>Recent content in Locations on Diplomantky.cz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cz</language>
-    <lastBuildDate>Mon, 17 Aug 2020 15:02:56 +0200</lastBuildDate><atom:link href="http://diplomantky.cz/en/locations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Aug 2020 15:02:56 +0200</lastBuildDate><atom:link href="https://diplomantky.cz/en/locations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Canal</title>
-      <link>http://diplomantky.cz/en/locations/kanal/</link>
+      <link>https://diplomantky.cz/en/locations/kanal/</link>
       <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
       
-      <guid>http://diplomantky.cz/en/locations/kanal/</guid>
+      <guid>https://diplomantky.cz/en/locations/kanal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>City Flat</title>
-      <link>http://diplomantky.cz/en/locations/byt/</link>
+      <link>https://diplomantky.cz/en/locations/byt/</link>
       <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
       
-      <guid>http://diplomantky.cz/en/locations/byt/</guid>
+      <guid>https://diplomantky.cz/en/locations/byt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Faculty of Fine Arts BUT</title>
-      <link>http://diplomantky.cz/en/locations/favu/</link>
+      <link>https://diplomantky.cz/en/locations/favu/</link>
       <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
       
-      <guid>http://diplomantky.cz/en/locations/favu/</guid>
+      <guid>https://diplomantky.cz/en/locations/favu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Klubovna Gallery</title>
-      <link>http://diplomantky.cz/en/locations/klubovna/</link>
+      <link>https://diplomantky.cz/en/locations/klubovna/</link>
       <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
       
-      <guid>http://diplomantky.cz/en/locations/klubovna/</guid>
+      <guid>https://diplomantky.cz/en/locations/klubovna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Garden</title>
-      <link>http://diplomantky.cz/en/locations/zahradka/</link>
+      <link>https://diplomantky.cz/en/locations/zahradka/</link>
       <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
       
-      <guid>http://diplomantky.cz/en/locations/zahradka/</guid>
+      <guid>https://diplomantky.cz/en/locations/zahradka/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The House of the Lords of Kunštát</title>
-      <link>http://diplomantky.cz/en/locations/kunstat/</link>
+      <link>https://diplomantky.cz/en/locations/kunstat/</link>
       <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
       
-      <guid>http://diplomantky.cz/en/locations/kunstat/</guid>
+      <guid>https://diplomantky.cz/en/locations/kunstat/</guid>
       <description></description>
     </item>
     
