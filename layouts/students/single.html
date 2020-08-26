@@ -1,13 +1,13 @@
 {{ define "pagetitle"}} {{.Title}}: {{.Params.artwork}} {{end}}
 
 {{ define "content"}}
-<div class=profile>
-  <div class="g-item small">
-    <div class="button"> {{ .Title }} </div>
-  </div>
 
-  {{ .Content }}
+<div class="g-item small">
+  <div class="button"> {{ .Title }} </div>
 </div>
+
+{{ .Content }}
+
 
 {{ end }}
 
