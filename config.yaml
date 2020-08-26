@@ -1,4 +1,4 @@
-baseURL : http://diplomantky.cz
+baseURL : https://diplomantky.cz
 languageCode : cz
 title : Diplomantky.cz
 publishDir : ./docs
