@@ -1,4 +1,5 @@
-{{ define "pagetitle"}} {{.Title}}: {{.Params.artwork}} {{end}}
+{{- define "pageimage" -}}{{ $images := slice }}{{ $path := .Page.File.Dir }}{{ range (readDir (path.Join "content" $path )) }}{{ $image := split .Name "."}}{{ $image_ext := index $image 1 }}{{ if eq $image_ext "jpg" }}{{ $images = $images | append .Name }}{{ end }}{{ end }}{{ $ogImage := path.Join `/` $path (index $images 0) }}{{- absURL $ogImage -}}{{- end -}}
+{{- define "pagetitle" -}}{{.Title}}: {{.Params.artwork}}{{end}}
 
 {{ define "content"}}
 
@@ -8,19 +9,4 @@
 
 {{ .Content }}
 
-
 {{ end }}
-
-{{ define "pageimage"}}
-  {{ $images := slice }}
-  {{ $path := .Page.File.Dir }}
-  {{ range (readDir (path.Join "content" $path )) }}
-    {{ $image := split .Name "."}}
-    {{ $image_ext := index $image 1 }}
-
-    {{ if eq $image_ext "jpg" }}
-      {{ $images = $images | append .Name }}
-    {{ end }}
-  {{ end }}
-  {{ path.Join `/` $path (index $images 0) }}
-{{end}}
