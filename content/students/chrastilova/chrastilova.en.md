@@ -3,6 +3,7 @@ title: "Sabina Chrastilová"
 date: 2020-08-17T15:02:56+02:00
 description: "The project questions whether there is a line between pilgrimages and religious tourism today. It examines current principles of religious rituals and reflects upon contemporary approaches to the notion of pilgrimage sites."
 draft: false
+url: "sabina-chrastilova"
 
 artwork: "Pilgrimage Site 2020"
 medium: "video, online gallery, installation"

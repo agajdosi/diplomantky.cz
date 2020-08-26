@@ -3,6 +3,7 @@ title: "Alina Matějová"
 date: 2020-08-17T15:02:56+02:00
 description: "HUMAIN is a project, conference and platform opening up, associating, and connecting themes and experts from the areas of artificial intelligence, art, design and humanities."
 draft: false
+url: "alina-matejova"
 
 artwork: "Humain - On Design, Humanities, Art and Artificial Intelligence"
 medium: "event, printed and online media"

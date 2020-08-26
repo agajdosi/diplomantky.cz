@@ -3,6 +3,7 @@ title: "Petr Kadaňka"
 date: 2020-08-17T15:02:56+02:00
 description: "The central theme of the work is the interpretation of the feelings connected with the problem of disappearing landscape values at the expense of uncontrolled development of suburban areas."
 draft: false
+url: "petr-kadanka"
 
 artwork: "Sasha (Suburbs aka Self-harming Architecture)"
 medium: "short film (digital video)"

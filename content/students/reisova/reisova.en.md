@@ -3,6 +3,7 @@ title: "Kristína Reisová"
 date: 2020-08-17T15:02:56+02:00
 description: "A Hedgehog is Running across the Pavement is a collection of texts about the ordinary beauty of the world, about slowing down and concentration. They are stories seen, perceived and heard by myself. Stories during which I stopped or which made me stop."
 draft: false
+url: "kristina-reisova"
 
 artwork: "A Hedgehog Is Running across the Pavement."
 medium: "book installation"

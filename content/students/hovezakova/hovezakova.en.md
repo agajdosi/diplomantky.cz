@@ -3,6 +3,7 @@ title: "Ilona Hověžáková"
 date: 2020-08-17T15:02:56+02:00
 description: "The diploma work builds on historical facts when cultural exchange between Czechoslovak and Cuban art was a standard component of the operation of state institutions in the past."
 draft: false
+url: "ilona-hovezakova"
 
 artwork: "Dialogue"
 medium: "curatorial project"

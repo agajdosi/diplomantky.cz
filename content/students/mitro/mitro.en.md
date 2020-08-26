@@ -3,6 +3,7 @@ title: "Michal Mitro"
 date: 2020-08-17T15:02:56+02:00
 description: "With the work called Planetary Thermodynamics: Energy Justice I aim to depict the history of a utopia. One which has never happened. But what is more important, one which may happen."
 draft: false
+url: "michal-mitro"
 
 artwork: "Planetary Thermodynamics: Energy Justice"
 medium: "post-media installation

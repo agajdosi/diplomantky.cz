@@ -3,8 +3,9 @@ title: "Martin Cáb"
 date: 2020-08-17T15:02:56+02:00
 description: "This diploma work is based on my personal experience of burnout and stagnation in artistic practice."
 draft: false
+url: "martin-cab"
 
-artwork: "???"
+artwork: "Untitled"
 medium: ""
 dimensions: ""
 year: "2020"

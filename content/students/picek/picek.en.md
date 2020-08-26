@@ -3,6 +3,7 @@ title: "Matěj Picek"
 date: 2020-08-17T15:02:56+02:00
 description: "The main motivation to become involved in the subject stemmed from my long-time general interest in advanced technologies and interior design. I tried to find an interesting way of interconnecting these two areas."
 draft: false
+url: "matej-picek"
 
 artwork: "Generative Furniture"
 medium: "prototype of a low relaxation armchair in 1:1 scale"

@@ -3,6 +3,7 @@ title: "Adam Turzo"
 date: 2020-08-17T15:02:56+02:00
 description: "Lapidarium deals with two fundamental certainties, inevitabilities of physiological and material nature - Food and Shelter, it is based on the correlation of the everyday and the very existence of an individual."
 draft: false
+url: "adam-turzo"
 
 artwork: "Lapidarium: Food and Shelter"
 medium: "mixed media"
