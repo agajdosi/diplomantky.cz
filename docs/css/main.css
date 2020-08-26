@@ -14,7 +14,6 @@ img {
 }
 
 a {
-    text-decoration: none;
     color: black;
 }
 
@@ -25,13 +24,38 @@ a {
     display: flex;
     flex-direction: column;
     font-size: 1.2em;
+}
+
+.main p, ul, h1, h2, h3, h4, h5{
+    text-align: left;
+}
+
+.main h1, h2, h3, h4, h5{
     text-align: center;
+    margin: 40px auto;
+    width: 35%;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 1);
+    color: rgba(0, 0, 0, 1);
+    border: 2px solid rgba(0, 0, 0, 1);
+    display: block;
+    padding: .5em 1em;
+    font-size: 1em;
+    font-weight: normal;
+}
+
+.main ul{
+    padding: 0 0 0 20px;
+    margin: 0 auto 0 0;
 }
 
 .g-item {
     text-align: center;
     margin: 40px auto;
+}
 
+.g-item a {
+    text-decoration: none;
 }
 
 .small {
@@ -57,29 +81,6 @@ a {
     background: rgba(255, 255, 255, 1);
     color: rgba(0, 0, 0, 1);
     border: 2px solid rgba(0, 0, 0, 1);
-}
-
-.profile p, ul, h1, h2, h3, h4, h5{
-    text-align: left;
-}
-
-.profile h1, h2, h3, h4, h5{
-    text-align: center;
-    margin: 40px auto;
-    width: 35%;
-    border-radius: 10px;
-    background: rgba(255, 255, 255, 1);
-    color: rgba(0, 0, 0, 1);
-    border: 2px solid rgba(0, 0, 0, 1);
-    display: block;
-    padding: .5em 1em;
-    font-size: 1em;
-    font-weight: normal;
-}
-
-.profile ul{
-    padding: 0 0 0 20px;
-    margin: 0;
 }
 
 .lang {
