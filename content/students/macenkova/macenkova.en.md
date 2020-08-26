@@ -1,6 +1,7 @@
 ---
 title: "Katarína Maceňková"
 date: 2020-08-17T15:02:56+02:00
+description: "In the work called THE CHANGE I return in memories to my homeland, the small town where I used to live and where I spent most of my life."
 draft: false
 
 artwork: "The Change"

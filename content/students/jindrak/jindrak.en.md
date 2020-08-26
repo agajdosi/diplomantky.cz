@@ -1,6 +1,7 @@
 ---
 title: "Matěj Jindrák"
 date: 2020-08-17T15:02:56+02:00
+description: "My creation process starts by searching for correlations between what is natural, from nature, and what is artificial. I experimented with layering during pencil drawing with a single stroke and the changes caused by the posture of the body or position of the arm."
 draft: false
 
 artwork: "Tender World"

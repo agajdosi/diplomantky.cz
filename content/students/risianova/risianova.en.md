@@ -1,6 +1,7 @@
 ---
 title: "Zuzana Rišiánová"
 date: 2020-08-17T15:02:56+02:00
+description: "The diploma work called Move is the prototype of a digital game with an atmospheric-meditative character. Its interactive content is based on themes such as portraits, painterly quality, a walk and personal mythology."
 draft: false
 
 artwork: "Move"

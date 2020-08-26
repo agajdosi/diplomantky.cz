@@ -1,6 +1,7 @@
 ---
 title: "Kristýna Kazdová"
 date: 2020-08-17T15:02:56+02:00
+description: "The project entitled Stuff That Can Make Me Sad thematicises the content framework of the feeling of physical nonconformity, anxiety and the obsessive feelings of mental discomfort and instability."
 draft: false
 
 artwork: "Stuff That Can Make Me Sad"

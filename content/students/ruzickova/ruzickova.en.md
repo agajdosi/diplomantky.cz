@@ -1,6 +1,7 @@
 ---
 title: "Bára Růžičková"
 date: 2020-08-17T15:02:56+02:00
+description: "In my diploma work I am concerned with working conditions in the field of graphic design, their criticism and searching for ways of setting sustainable conditions for one’s own work and life – i.e. how not be dependent only on commissions by the client and how to diversify one’s work."
 draft: false
 
 artwork: "Credit Cards Accepted"

@@ -1,6 +1,7 @@
 ---
 title: "Gorchakova Kseniia"
 date: 2020-08-17T15:02:56+02:00
+description: "My design addresses the housing problem with the intention of reflecting current demands and requirements with the aid of using serial modular production. Does research into modular prefabricated systems enable us to go beyond the traditional framework of a family home and develop new atypical housing concepts?"
 draft: false
 
 artwork: "Modular Housing"

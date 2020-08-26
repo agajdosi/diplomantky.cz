@@ -1,6 +1,7 @@
 ---
 title: "Leona Velebová"
 date: 2020-08-17T15:02:56+02:00
+description: "The diploma work Maybe She’s Born With It is about my cosmetics. About objects and activities related to superficiality and vanity."
 draft: false
 
 artwork: "Maybe She’s Born With It"

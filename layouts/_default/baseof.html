@@ -9,7 +9,7 @@
   <meta name="author" content="Andreas Gajdosik">
   <meta property="og:type" content="website" />
   <meta property="og:title" content="{{- block `pagetitle` . -}}{{- end -}}" />
-  <meta property="og:description" content="{{ if .Params.summary }}{{ .Params.summary }}{{ else }}{{ .Summary }}{{ end }}" />
+  <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Summary }}{{ end }}" />
   <meta property="og:image" content="{{- block `pageimage` . }}{{- end }}"/>
   <meta property="og:url" content="{{ .Permalink }}"/>
 
