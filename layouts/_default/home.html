@@ -3,9 +3,9 @@
 {{ define "content"}}
 
   {{ range .Pages }}
-  <div class="g-item small">
-    <a class="button" href="{{ .Permalink }}"> {{ .Params.ShortTitle }} </a>
-  </div>
+  <h1 class="small">
+    <a href="{{ .Permalink }}"> {{ .Params.ShortTitle }} </a>
+  </h1>
   {{ end }}
 
 {{ end }}

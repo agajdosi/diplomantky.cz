@@ -4,9 +4,10 @@
 
   {{ range .Pages.GroupByDate "02.01. 2006" "asc" }}
     
-  <div class="g-item small">
-    <div class="button"> {{ .Key }} </div>
-  </div>
+  <div class="event-list">
+    <h1 class="small">
+      {{ .Key }}
+    </h1>
     
 
     {{ range .Pages }}
@@ -15,16 +16,17 @@
         {{ $link = .Permalink }}
       {{ end }}
       
-      <div class="g-item small">
-        <a class="button button-white" href="{{ $link }}"> {{ .Title }} </a>
-      </div>
+      <h2 class="small">
+        <a href="{{ $link }}"> {{ .Title }} </a>
+      </h2>
 
       <div class="event">
         {{ .Page.Content }}
       </div>
+
       
     {{ end }}
-  
+  </div>
   
   {{ end }}
 {{ end }}
