@@ -63,11 +63,11 @@ a {
     font-size: 1.2rem;
 }
 
-.main p, ul, h3, h4, h5{
+p, ul {
     text-align: left;
 }
 
-.main h3, h4, h5{
+.main h3 {
     text-align: center;
     margin: 40px auto;
     width: 35%;
@@ -83,16 +83,6 @@ a {
 
 .main ul{
     padding: 0 0 0 20px;
-    margin: 0 auto 0 0;
-}
-
-.g-item {
-    text-align: center;
-    margin: 40px auto;
-}
-
-.g-item a {
-    text-decoration: none;
 }
 
 .small {
@@ -106,23 +96,6 @@ a {
 .info {
     text-align: center;
     margin: 2rem 0;
-}
-
-.button{
-    border-radius: 10px;
-    color: rgba(255, 255, 255, 1);
-    background: rgba(0, 0, 0, 1);
-
-    display: block;
-
-    padding: .5rem 1rem;
-    border: 2px solid rgba(0, 0, 0, 1);
-}
-
-.button-white {
-    background: rgba(255, 255, 255, 1);
-    color: rgba(0, 0, 0, 1);
-    border: 2px solid rgba(0, 0, 0, 1);
 }
 
 .lang {
@@ -154,3 +127,10 @@ a {
     margin: 0.3rem 0;
     text-align: center;
 }
+
+@media only screen and (max-width: 1024px) {
+    p,ul {
+      margin-left: 4rem;
+      margin-right: 4rem;
+    }
+  }
