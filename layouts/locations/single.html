@@ -2,26 +2,35 @@
 
 {{ define "content"}}
 
-  <div class="g-item small">
-    <div class="button"> {{ .Title }} </div>
+  <h1>
+    {{ .Title }}
+  </h1>
+
+  <div class="info">
+    <div>
+      {{ T "duration" }}: {{ .Params.Duration}}
+    </div>
+    <div>
+      {{ T "hours" }}: {{ .Params.Hours }}
+    </div>
+    <div>
+      {{ T "opening" }}: {{ .Params.Opening }}
+    </div>
   </div>
 
-  <div class="g-item small">
-    <div>V provozu: {{ .Params.Duration}}</div>
-    <div>Otevřeno: {{ .Params.Hours }}</div>
-  </div>
-
-  <div class="g-item small">
-    Vernisáž: {{ .Params.Opening }}
-  </div>
+  <h2>
+    {{ with .GetPage "programme"}}
+      <a href="{{ .Permalink }}">{{ T "programme" }}</a>
+    {{ end }}
+  </h2>
 
   <img src="/locations/byt.png">
 
 
   {{ range where .Site.Pages "Params.location" .File.TranslationBaseName }}
-    <div class="g-item small">
-      <a class="button button-white" href="{{ .Permalink }}"> {{ .Title }} </a>
-    </div>
+    <h2>
+      <a href="{{ .Permalink }}"> {{ .Title }} </a>
+    </h2>
   {{ end }}
 
 {{ end }}

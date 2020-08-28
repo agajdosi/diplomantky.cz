@@ -9,9 +9,9 @@
   {{ end }}
 {{ end }}
 
-<div class="g-item small">
-    <div class="button"> {{ .Page.Params.Artwork }} </div>
-</div>
+<h1>
+  {{ .Page.Params.Artwork }}
+</h1>
 
 {{ $image := path.Join "/students" .Page.File.TranslationBaseName "/1.jpg"}}
 <img src="{{ path.Join `/` $path (index $images 0) }}">
