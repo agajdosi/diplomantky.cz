@@ -6,3 +6,15 @@ draft: false
 
 where: "zahradka"
 ---
+
+### 18:00
+zahájení výstavy
+
+### 18:30
+Adéla Venturová: performance
+
+### 19:00
+Michal Mitro: koncert
+
+### 20:00
+AVA DJ set

@@ -94,3 +94,21 @@ a {
     background: rgba(255, 255, 255, 1);
     color: rgba(0, 0, 0, 1);
 }
+
+.event > h3 {
+    color: rgba(0, 0, 0, 1);
+    background: none;
+    width: unset;
+    padding: 0;
+    border: none;
+    margin: 3rem 0 0 0;
+}
+
+.event > h3:first-child {
+    margin-top: 0;
+}
+
+.event > p {
+    margin: 0.3rem 0;
+    text-align: center;
+}

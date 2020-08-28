@@ -6,3 +6,15 @@ draft: false
 
 where: "kanal"
 ---
+
+### 19:00
+vernisáž
+
+### 20:00
+rapper
+
+### 21:00
+rapper2
+
+### 22:00
+DJ Bingoo

@@ -6,3 +6,9 @@ draft: false
 
 where: "favu"
 ---
+
+### 14:00
+vernisáž výstavy
+
+### 15:00
+koncert (TBA)

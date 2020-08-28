@@ -6,3 +6,9 @@ draft: false
 
 where: "klubovna"
 ---
+
+### 18:00
+vernisáž výstavy
+
+### 19:00
+koncert (TBA)

@@ -7,8 +7,8 @@ draft: false
 where: "byt"
 ---
 
-# 17:00
-vernisáž
+### 18:00
+vernisáž výstavy
 
-18:00-4:00
-DJs
+### 19:00
+koncert (TBA)
