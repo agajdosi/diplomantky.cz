@@ -7,7 +7,7 @@ url: "ilona-hovezakova"
 
 artwork: "Dialogue"
 medium: "curatorial project"
-dimensions: "various dimensions"
+dimensions: ""
 year: "2020"
 study: "mga"
 location: "klubovna"
