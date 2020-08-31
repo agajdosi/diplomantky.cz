@@ -26,4 +26,6 @@ Home—Topia is an ongoing research and exhibition project concentrating on curr
 The trajectory of the research, bibliography and the documentation of events are available to the public on the home-topia.eu platform.
 
 The project was made up of an original interactive video installation exhibited at the Raum für Drastische Maßnahmen gallery in Berlin, which employed elements of extended reality.
+
+http://home-topia.eu/
 {{< /artwork >}}
