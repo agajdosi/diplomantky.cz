@@ -10,16 +10,16 @@ medium: "post-media installation
 
 bespoke monitor range, drones, archaeological specimen, texts, automated gardening system, greenhouse, polycarbonate light wall"
 dimensions: "variable and decentralised
-approximately 30m2"
+approximately 30m²"
 year: "2020"
 study: "mga"
 location: "zahradka"
 ---
 
 {{< bio >}}
-My current creations are characterised by post-media tendencies with an emphasis on sculptural qualities and the visual aesthetic of the work. My approach to work can be described as art research and the outcome as a hybrid “artScience” form. My works resonate with themes of global nature related to the present and the future state of the planet, political-economic order of society and the relationships between man and the surroundings. I also strive to produce a certain type of non-linear narrative in an effort to use a work of art as a specific information medium.
+Post-medial tendencies, sculpturality and visuality are defining pillars of my current practice. My working method is best described as artistic research and its outputs often take a hybrid artScience shape. Topics that resonate often in my works explore present and future states of our planet, politico-economic societal constellations and relationship between human and non-human. I strive to utilise artistic practice as a specific platform for sharing information and for that sake utilise various immersive and narrational strategies. 
 
-In recent years I exhibited in the Czech Republic (Vasulka Kitchen, Studio Letná, Korespondance, Prototyp, DIG gallery), Slovakia (VUNU, Kasárne, Košice) and abroad (Gamma Festival, Saint Petersburg; Mediamatic, Amsterdam; JRM, Paris; Trafó, Budapest; Genius Loci, Weimar; Grey Space, den Haag, AV depot, London). Apart from the above activities I am a member of the STELLA research body,which maps out the penetration of technologies and motion art in the V4 countries, and the curator of ssesi.space.
+In recent years I've exhibitted and performed mainly in Czechia (Vasluka Kitchen, Letna Studio, Korespondance, Prototyp), Slovakia (Kasarne, DIG gallery, VUNU) and generally across Europe (Gamma Festival, Petersburg; Mediamatic, Amsterdam; JRM, Paris; Trafo, Budapest; Genius Loci, Weimar; Grey Space, den Haag, AV depot, London). Besides being an active art practitioner, I'm also part of STELLA research unit (Somatic Tech Lab) that maps the convergences of technologies and movement-based arts in Central Europe. I, too, curate ssesi.space in Brno, Czechia.
 {{< /bio >}}
 
 
