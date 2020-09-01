@@ -17,7 +17,7 @@ location: "zahradka"
 {{< bio >}}
 Pre moju súčasnú tvorbu sú charakteristické post-mediálne tendencie s dôrazom na skulpturálnosť a vizuálnu estetiku diela. Môj pracovný postup možno popísať ako umelecký výskum a výstup práce ako hybridný tvar „artScience“. V mojich dielach rezonujú témy globálneho charakteru spojené so súčasným a budúcim stavom planéty, politicko-ekonomickým usporiadaním spoločnosti a vzťahu človeka a jeho okolia. Usilujem tiež o istý typ nelineárnej narativity v snahe využiť umelecké dielo ako špecifický nosič informácie.
 
-V uplynulých rokoch som prezentoval v Česku (Vasulka Kitchen, Studio Letná, Korespondance, Prototyp, DIG gallery), na Slovensku (VUNU, Kasárne, Košice) i v zahraničí (Gamma Festival, Petrohrad; Mediamatic, Amsterdam; JRM, Paríž; Trafó, Budapešť; Genius Loci, Weimar; Grey Space, den Haag, AV depot, Londýn). Okrem zmienených aktivít som členom výskumného telesa STELLA, ktoré mapuje prienik technológií a pohybového umenia v krajinách V4, a kurátorom priestoru ssesi.space.
+V uplynulých rokoch som prezentoval v Česku (Vasulka Kitchen, Studio Letná, Korespondance, Prototyp), na Slovensku (VUNU, Kasárne, DIG gallery) i v zahraničí (Gamma Festival, Petrohrad; Mediamatic, Amsterdam; JRM, Paríž; Trafó, Budapešť; Genius Loci, Weimar; Grey Space, den Haag; AV depot, Londýn). Okrem zmienených aktivít som členom výskumného telesa STELLA, ktoré mapuje prienik technológií a pohybového umenia v krajinách V4, a kurátorom priestoru ssesi.space.
 
 {{< /bio >}}
 
