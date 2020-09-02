@@ -156,4 +156,8 @@ h3 {
       margin-left: 2rem;
       margin-right: 2rem;
     }
+
+    .h1index {
+        font-size: 1.1rem;
+    }
   }
