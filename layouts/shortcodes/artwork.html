@@ -16,7 +16,7 @@
 {{ $image := path.Join "/students" .Page.File.TranslationBaseName "/1.jpg"}}
 <img src="{{ path.Join `/` $path (index $images 0) }}">
 
-{{ .Inner | markdownify }}
+{{ partial "markdownify-block" .Inner }} 
 
 {{ range after 1 $images}}
   <img src="{{ path.Join `/` $path . }}">
