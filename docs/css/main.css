@@ -13,18 +13,24 @@ body {
     margin: 0;
 }
 
+.main {
+    max-width: 980px;
+    margin: 60px auto;
+    font-size: 1rem;
+}
+
 footer {
     position: fixed;
-    width: 100vw;
-    height: 4rem;
+    height: 40px;
     bottom: 0;
+    background-color: rgba(255, 255, 255, 1);
 }
 
 footer img {
     position: fixed;
-    height: 2rem;
+    height: 20px;
     width: unset;
-    margin: 1rem;
+    margin: 10px;
 }
 
 h1 {
@@ -93,12 +99,6 @@ img {
 
 a {
     color: black;
-}
-
-.main {
-    max-width: 980px;
-    margin: 60px auto;
-    font-size: 1rem;
 }
 
 p, ul {
