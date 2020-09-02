@@ -1,11 +1,11 @@
-{{- define "pagetitle" -}}{{.Title}}{{end}}
+{{- define "pagetitle" -}}Diplomantky.cz - {{.Title}}{{end}}
 
 {{ define "content"}}
-
+  <h1 class="h1index">{{.Title}}</h1>
   {{ range .Pages }}
-  <h1>
+  <h2 class="black">
     <a href="{{ .Permalink }}"> {{ .Params.ShortTitle }} </a>
-  </h1>
+  </h2>
   {{ end }}
 
 {{ end }}
