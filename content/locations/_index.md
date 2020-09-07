@@ -3,6 +3,7 @@ title: "Lokace výstavy diplomantek FaVU 2020"
 shortTitle: "Lokace"
 date: 2020-08-17T15:02:56+02:00
 draft: false
+weight: 2
 
 url: "lokace"
 ---

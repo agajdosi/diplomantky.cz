@@ -2,7 +2,7 @@
 
 {{ define "content"}}
   <h1 class="h1index">{{.Title}}</h1>
-  {{ range .Pages }}
+  {{ range sort .Pages "Weight" "desc"}}
   <h2 class="black">
     <a href="{{ .Permalink }}"> {{ .Params.ShortTitle }} </a>
   </h2>
