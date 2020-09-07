@@ -3,6 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://diplomantky.cz/koncepce/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diplomantky.cz/en/conception/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://diplomantky.cz/koncepce/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diplomantky.cz/lokace/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diplomantky.cz/en/locations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://diplomantky.cz/lokace/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diplomantky.cz/program/</loc>
+    <lastmod>2020-08-16T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diplomantky.cz/en/programme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://diplomantky.cz/program/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diplomantky.cz/diplomantky/</loc>
+    <lastmod>2020-08-17T16:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diplomantky.cz/en/students/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://diplomantky.cz/diplomantky/"
+                />
+  </url>
+  
+  <url>
     <loc>https://diplomantky.cz/programme/kunstat-verni/</loc>
     <lastmod>2020-09-30T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -48,6 +108,21 @@
   </url>
   
   <url>
+    <loc>https://diplomantky.cz/programme/kaznice-verni/</loc>
+    <lastmod>2020-09-27T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diplomantky.cz/en/programme/kaznice-verni/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://diplomantky.cz/programme/kaznice-verni/"
+                />
+  </url>
+  
+  <url>
     <loc>https://diplomantky.cz/programme/byt-verni/</loc>
     <lastmod>2020-09-26T16:02:56+02:00</lastmod>
     <xhtml:link
@@ -89,21 +164,6 @@
                 rel="alternate"
                 hreflang="cz"
                 href="https://diplomantky.cz/programme/kanal-verni/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://diplomantky.cz/diplomantky/</loc>
-    <lastmod>2020-08-17T16:02:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diplomantky.cz/en/students/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cz"
-                href="https://diplomantky.cz/diplomantky/"
                 />
   </url>
   
@@ -333,6 +393,21 @@
   </url>
   
   <url>
+    <loc>https://diplomantky.cz/lokace/kaznice/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diplomantky.cz/en/locations/former-prison/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://diplomantky.cz/lokace/kaznice/"
+                />
+  </url>
+  
+  <url>
     <loc>https://diplomantky.cz/leona-velebova/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -344,21 +419,6 @@
                 rel="alternate"
                 hreflang="cz"
                 href="https://diplomantky.cz/leona-velebova/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://diplomantky.cz/lokace/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diplomantky.cz/en/locations/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cz"
-                href="https://diplomantky.cz/lokace/"
                 />
   </url>
   
@@ -554,21 +614,6 @@
                 rel="alternate"
                 hreflang="cz"
                 href="https://diplomantky.cz/stepan-broz/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://diplomantky.cz/program/</loc>
-    <lastmod>2020-08-16T15:02:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diplomantky.cz/en/programme/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cz"
-                href="https://diplomantky.cz/program/"
                 />
   </url>
   
