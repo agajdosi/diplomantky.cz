@@ -6,26 +6,26 @@ draft: false
 url: "barbora-demovicova"
 
 artwork: "Home-Topia"
-media: "web page, video installation"
-dimensions: "various dimensions"
+media: "web stránka, video inštalácia"
+dimensions: ""
 year: "2020"
 study: "mga"
 location: "byt"
 ---
 
 {{< bio >}}
-Barbora Demovičová is a Slovak graphic designer currently active in Berlin. She studied in the Studio of Graphic Design 2 at the Faculty of Fine Arts of Brno University of Technology. During her six-year-long studies she went on study placements at the Staatliche Akademie der bildenden Künste in Stuttgart (DE), the Hochschule für Grafik und Buchkunst in Leipzig (DE) and on an internship in the Manuel Raeder studio in Berlin. She is interested in independent publishing, the politics of design and the outreach of design into other disciplines.
+Barbora Demovičová je slovenská grafická dizajnérka, ktorá momentálne pôsobí v Berlíne. Študovala v Ateliéri grafického designu 2 na Fakulte výtvarných umení VUT v Brne. Počas šesťročného štúdia absolvovala stáže na Staatliche akademie der bildenden Künste v Stuttgarte (DE), Hochschule für Grafik und Buchkunst v Lipsku (DE) a pracovnú stáž v štúdiu Manuel Raeder v Berlíne. Zaujíma sa o nezávislé publikovanie, politiku designu a presahy designu do iných odborov.
 
-Part of her Home–Topia diploma work was displayed in the Raum für drastische Maßnahmen gallery in Berlin.
+Časť jej diplomovej práce Home–Topia bola vystavená v berlínskej galérii Raum für drastische Maßnahmen.
 {{< /bio >}}
 
 
 {{< artwork >}}
-Home—Topia is an ongoing research and exhibition project concentrating on current forms of migration, uprooting and life between cultures. Home—Topia examines the notion of home, the feeling of belonging and the bonds with a physical space. Home—Topia is based on the assumption that different forms of mobility, migration and life in motion have become one of the basic characteristics of today’s world.
+Home—Topia je prebiehajúci výskumný a výstavný projekt, ktorý sa zameriava na súčasné formy migrácie, vykoreňovania a života medzi kultúrami. Home—Topia skúma pojem domov, pocit spolupatričnosti a jeho väzby na fyzický priestor. Home—Topia vychádza z predpokladu, že rôzne podoby mobility, migrácie a života v pohybe sa stali jedným zo základných charakteristík dnešného sveta. 
 
-The trajectory of the research, bibliography and the documentation of events are available to the public on the home-topia.eu platform.
+Trajektória výskumu, bibliografia a dokumentácia udalostí sú verejnosti dostupné na platforme home-topia.eu
 
-The project was made up of an original interactive video installation exhibited at the Raum für Drastische Maßnahmen gallery in Berlin, which employed elements of extended reality.
+V rámci projektu bola tiež zrealizovaná autorská interaktívna video inštalácia v berlínskej galérii Raum für Drastische Maßnahmen, ktorá využívala prvky rozšírenej reality.
 
 http://home-topia.eu/
 {{< /artwork >}}

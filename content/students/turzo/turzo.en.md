@@ -14,12 +14,12 @@ location: "kunstat"
 ---
 
 {{< bio >}}
-Adam  Turzo
-b. Martin, Slovakia
-Higher education:
-2012-2016 - Tomas Bata University in Zlin, Czech Republic, Faculty of Multimedia Communications
+born in Martin, Slovakia
+
+### Higher education
+- 2012-2016 - Tomas Bata University in Zlin, Czech Republic, Faculty of Multimedia Communications
 Bachelor’s degree, Glass Design Studio
-2017- 2020 - Faculty of Fine Arts, Brno University of Technology, Czech Republic
+- 2017- 2020 - Faculty of Fine Arts, Brno University of Technology, Czech Republic
 Master’s degree, Drawing and Graphics Studio
 {{< /bio >}}
 

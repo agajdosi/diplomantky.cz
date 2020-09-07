@@ -5,27 +5,27 @@ description: "A Hedgehog is Running across the Pavement is a collection of texts
 draft: false
 url: "kristina-reisova"
 
-artwork: "A Hedgehog Is Running across the Pavement."
-medium: "book installation"
-dimensions: "157 hand-made paper sheets sized 21x15 cm on a round wooden table 120 cm in diameter"
+artwork: "Cez chodník prebehuje ježko"
+medium: "Knižná inštalácia"
+dimensions: "157 ručných papierov veľkosti 21 x 15 cm na okrúhlom drevenom stole s priemerom 120 cm"
 year: "2020"
 study: "mga"
 location: "zahradka"
 ---
 
 {{< bio >}}
-My primary theme is the commonplace. I like to make ordinariness visible and to underline how important, delicate and negligible it is. It often runs between our fingers and we lose touch with its miracle. 
+Mojou primárnou témou je všednosť. Rada všednosť zviditeľňujem a poukazujem na to, aká je dôležitá, jemná a pominuteľná. Často nám uniká pomedzi prsty a my strácame kontakt s jej zázračnosťou. 
 
-I work with text. I created various objects, audio stories and sound installations. At the moment I am getting closer to artisan techniques, such as hand-made paper, wax batik and natural dyeing. 
+Pracujem s textom. Vytvárala som rôzne objekty, audio príbehy, zvukové inštalácie. Teraz sa však viac približujem k remeselným technikám, ako ručný papier, vosková batika a prírodné farbenie. 
 
-I have studied in the Studio of Body Design, and I completed a study placement in the Environmental Studio.
+Študovala som v Ateliéri telového designu, absolvovala som stáž v Ateliéri environmentu.
 {{< /bio >}}
 
 
 {{< artwork >}}
-A Hedgehog is Running across the Pavement is a collection of texts about the ordinary beauty of the world, about slowing down and concentration. They are stories seen, perceived and heard by myself. Stories during which I stopped or which made me stop.  
+Cez chodník prebehuje ježko je zbierka textov o všednej kráse sveta, o pomalosti a sústredení.  Sú to príbehy mnou videné, vnímané, vypočuté. Príbehy, pri ktorých som sa zastavila, alebo ma zastavili ony.  
 
-About how the sun and a plant create shade, how storks fly in circles above us, how a badger runs across in the dusk, how a pine cone falls from the tree, how cats sit in the dark, how they stroke the leaves of a plant, how a moth sits in the corner of the room, how a dog watches something in the grass, how a rainbow slick lies on the road, how they discover that under a pine tree it rains least among the trees around, how a cloud of steam hovers above the woods, how tamarind leaflets close up at night.
+O tom, ako slnko a rastlina vytvárajú tieň, ako nad nami do kruhu lietajú bociany, ako v prítmí prebehuje jazvec, ako padá šiška zo stromu, ako mačky sedia v tme, ako hladí rastlinu po listoch, ako v rohu izby sedí nočný motýľ, ako pes čosi pozoruje v tráve, ako na ceste leží dúhová škvrna, ako zisťujú, že pod borovicou prší najmenej zo stromov navôkol, ako sa vznáša oblak pary nad lesom, ako tamarindy na noc zatvárajú svoje listy.
 
-I write down these texts and transfer them onto hand-made paper, which I made from collected paper and plants. Using a pin I perforate story after story into them. They all gather on a round table where people can meet them and experience them by sight or touch.
+Tieto texty zapisujem a prenášam ich na ručný papier, ktorý som vyrobila zo zozbieraných papierov a rastlín. Špendlíkom do nich vydierkovávam príbeh po príbehu. Spoločne sa potom schádzajú na okrúhlom stole, kde sa s nimi môžu stretnúť ľudia a zažiť si ich svojím pohľadom a hmatom.
 {{< /artwork >}}

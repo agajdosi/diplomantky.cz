@@ -7,7 +7,7 @@ url: "katarina-macenkova"
 
 artwork: "The Change"
 medium: "oil painting on canvas"
-dimensions: "series"
+dimensions: ""
 year: "2020"
 study: "mga"
 location: "kunstat"

@@ -5,7 +5,7 @@ description: "A Hedgehog is Running across the Pavement is a collection of texts
 draft: false
 url: "kristina-reisova"
 
-artwork: "A Hedgehog Is Running across the Pavement."
+artwork: "A Hedgehog Is Running across the Pavement"
 medium: "book installation"
 dimensions: "157 hand-made paper sheets sized 21x15 cm on a round wooden table 120 cm in diameter"
 year: "2020"
