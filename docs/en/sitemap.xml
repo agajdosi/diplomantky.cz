@@ -188,7 +188,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="https://diplomantky.cz/locations/kanal/"
+                href="https://diplomantky.cz/lokace/kanal/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -203,7 +203,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="https://diplomantky.cz/locations/byt/"
+                href="https://diplomantky.cz/lokace/byt/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -233,7 +233,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="https://diplomantky.cz/locations/favu/"
+                href="https://diplomantky.cz/lokace/favu/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -288,17 +288,17 @@
   </url>
   
   <url>
-    <loc>https://diplomantky.cz/en/locations/klubovna/</loc>
+    <loc>https://diplomantky.cz/en/locations/klubovna-gallery/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="https://diplomantky.cz/locations/klubovna/"
+                href="https://diplomantky.cz/lokace/galerie-klubovna/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://diplomantky.cz/en/locations/klubovna/"
+                href="https://diplomantky.cz/en/locations/klubovna-gallery/"
                 />
   </url>
   
@@ -368,7 +368,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="https://diplomantky.cz/locations/"
+                href="https://diplomantky.cz/lokace/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -518,7 +518,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="https://diplomantky.cz/locations/kunstat/"
+                href="https://diplomantky.cz/lokace/kunstat/"
                 />
     <xhtml:link
                 rel="alternate"

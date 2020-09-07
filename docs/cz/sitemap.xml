@@ -183,7 +183,7 @@
   </url>
   
   <url>
-    <loc>https://diplomantky.cz/locations/kunstat/</loc>
+    <loc>https://diplomantky.cz/lokace/kunstat/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -193,12 +193,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="https://diplomantky.cz/locations/kunstat/"
+                href="https://diplomantky.cz/lokace/kunstat/"
                 />
   </url>
   
   <url>
-    <loc>https://diplomantky.cz/locations/favu/</loc>
+    <loc>https://diplomantky.cz/lokace/favu/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -208,22 +208,22 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="https://diplomantky.cz/locations/favu/"
+                href="https://diplomantky.cz/lokace/favu/"
                 />
   </url>
   
   <url>
-    <loc>https://diplomantky.cz/locations/klubovna/</loc>
+    <loc>https://diplomantky.cz/lokace/galerie-klubovna/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://diplomantky.cz/en/locations/klubovna/"
+                href="https://diplomantky.cz/en/locations/klubovna-gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="https://diplomantky.cz/locations/klubovna/"
+                href="https://diplomantky.cz/lokace/galerie-klubovna/"
                 />
   </url>
   
@@ -258,7 +258,7 @@
   </url>
   
   <url>
-    <loc>https://diplomantky.cz/locations/kanal/</loc>
+    <loc>https://diplomantky.cz/lokace/kanal/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -268,7 +268,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="https://diplomantky.cz/locations/kanal/"
+                href="https://diplomantky.cz/lokace/kanal/"
                 />
   </url>
   
@@ -348,7 +348,7 @@
   </url>
   
   <url>
-    <loc>https://diplomantky.cz/locations/</loc>
+    <loc>https://diplomantky.cz/lokace/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -358,7 +358,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="https://diplomantky.cz/locations/"
+                href="https://diplomantky.cz/lokace/"
                 />
   </url>
   
@@ -453,7 +453,7 @@
   </url>
   
   <url>
-    <loc>https://diplomantky.cz/locations/byt/</loc>
+    <loc>https://diplomantky.cz/lokace/byt/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -463,7 +463,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="https://diplomantky.cz/locations/byt/"
+                href="https://diplomantky.cz/lokace/byt/"
                 />
   </url>
   
