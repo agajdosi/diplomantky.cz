@@ -17,9 +17,10 @@ location: "zahradka"
 ---
 
 {{< bio >}}
-Post-medial tendencies, sculpturality and visuality are defining pillars of my current practice. My working method is best described as artistic research and its outputs often take a hybrid artScience shape. Topics that resonate often in my works explore present and future states of our planet, politico-economic societal constellations and relationship between human and non-human. I strive to utilise artistic practice as a specific platform for sharing information and for that sake utilise various immersive and narrational strategies. 
+Post-medial tendencies, sculpturality and visuality are defining pillars of my current practice. My working method is best described as artistic research and its outputs often take a hybrid artScience shape. Topics that resonate often in my works explore the present and future states of our planet, politico-economic societal constellations and the relationship between the human and non-human. I strive to utilise artistic practice as a specific platform for sharing information and to that end I utilise various immersive and narrative strategies. 
 
-In recent years I've exhibitted and performed mainly in Czechia (Vasluka Kitchen, Letna Studio, Korespondance, Prototyp), Slovakia (Kasarne, DIG gallery, VUNU) and generally across Europe (Gamma Festival, Petersburg; Mediamatic, Amsterdam; JRM, Paris; Trafo, Budapest; Genius Loci, Weimar; Grey Space, den Haag, AV depot, London). Besides being an active art practitioner, I'm also part of STELLA research unit (Somatic Tech Lab) that maps the convergences of technologies and movement-based arts in Central Europe. I, too, curate ssesi.space in Brno, Czechia.
+ 
+In recent years I've exhibited and performed mainly in Czechia (Vasulka Kitchen, Letna Studio, Korespondance, Prototyp), Slovakia (Kasarne, DIG gallery, VUNU) and across Europe (Gamma Festival, Petersburg; Mediamatic, Amsterdam; JRM, Paris; Trafo, Budapest; Genius Loci, Weimar; Grey Space, den Haag; AV depot, London). Besides being an active art practitioner, I'm also part of the STELLA (Somatic Tech Lab) research unit that maps the convergences of technologies and movement-based arts in Central Europe. I, too, curate ssesi.space in Brno, Czechia.
 {{< /bio >}}
 
 
