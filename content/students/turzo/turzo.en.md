@@ -10,7 +10,7 @@ medium: "mixed media"
 dimensions: "various dimensions"
 year: "2020"
 study: "mga"
-location: "kunstat"
+location: "kaznice"
 ---
 
 {{< bio >}}
