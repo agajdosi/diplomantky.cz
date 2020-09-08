@@ -23,9 +23,10 @@
       <a href="{{ .Permalink }}">{{ T "programme" }}</a>
     {{ end }}
   </h2>
-
-  <img src="/locations/byt.png">
-
+  
+  <a href="{{ .Params.map }}">
+    <img src="{{ path.Join `/locations` .Page.File.TranslationBaseName  }}.png">
+  </a>
 
   {{ range where .Site.Pages "Params.location" .File.TranslationBaseName }}
     <h2>
