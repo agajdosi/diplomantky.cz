@@ -17,9 +17,10 @@ Barbora Demovičová is a Slovak graphic designer currently active in Berlin. Sh
 
 Part of her Home–Topia diploma work was displayed in the Raum für drastische Maßnahmen gallery in Berlin.
 
-![](/students/demovicova/1.jpg)
 
 ## Home-Topia
+
+![](/students/demovicova/1.jpg)
 
 Home—Topia is an ongoing research and exhibition project concentrating on current forms of migration, uprooting and life between cultures. Home—Topia examines the notion of home, the feeling of belonging and the bonds with a physical space. Home—Topia is based on the assumption that different forms of mobility, migration and life in motion have become one of the basic characteristics of today’s world.
 

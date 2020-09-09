@@ -23,9 +23,18 @@ tanečnice
 
 žijící, tančící, tvořící v Brně
 
-![](/students/matejova/1.jpg)
 
 ## Humain – o designu, humanitních vědách, umění a umělé inteligenci
+
+Médium:
+- tiskoviny (plakáty, programy, formuláře)
+- online media:
+- - web: https://humain.space/
+- - fb: https://www.facebook.com/humain.space
+- konání akce: konference - 19. 9. 2020, Industra
+- doprovodný program: výstava: 16. 9. (konečné datum bude potvrzeno ze strany Industry)
+
+![](/students/matejova/1.jpg)
 
 HUMAIN je projekt, konference a platforma otevírající, sdružující, propojující témata a odborníky z oblastí umělé inteligence, umění, designu a humanitních věd. 
 Umělá inteligence je fenomén, který už nemůže být prezentován pouze jako spektákl a exhibice robotických rukou nebo jako užitečná technologická kuriozita. Je nám totiž blíže, než se může na první pohled zdát. Cílem projektu HUMAIN je představit umělou inteligenci v širších interdisciplinárních kontextech a rámcích (humanitní vědy, umění a design), které doposud v České republice nebyly zcela artikulovány. Je třeba upozornit na množství perspektiv a tematických aspektů, které se dotýkají a v budoucnu dotknou každého z nás. Umělá inteligence už tedy není záležitostí technologických laboratoří, aplikací do průmyslu a IT. Propojenost lidského a strojového zde nabírá intenzivní podobu vzájemně závislých a neoddělitelných sfér, tak jak naznačuje název projektu:

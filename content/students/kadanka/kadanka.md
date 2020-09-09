@@ -15,9 +15,10 @@ location: "kanal"
 
 Narozen 1982. Vizuální umělec obecně, aktuálně především nezávislý filmař – režisér, kameraman, art director – se širším záběrem odrážejícím předchozí studium architektury a výtvarného umění (intermediální a digitální tvorba). Ve své tvorbě se zabývá zejména zpracováním analogového obrazu a jeho následnou konfrontací se soudobými výrazovými prostředky a také s technologiemi. Je spoluzakladatelem nezávislé filmové produkce Rattlecinake zaměřující se výlučně na filmovou surovinu a její specifikum – „čas zrna“. Nedílnou součástí audiovizuální tvorby je vlastní zvuková a hudební složka, prezentovaná shodně pod pseudonymem Yeti Magic. Mimo audiovizuální produkci je nejvíce patrný zájem o interakci mezi jistou formou reprezentace povrchu a reliéfem. Jeho komplexní umělecký přístup tak obvykle osciluje na rozhraní mezi fotografií (filmem), malbou a sochou.
 
-![](/students/kadanka/1.jpg)
 
 ## Sasha (Suburbs aka Self-harming Architecture)
+
+![](/students/kadanka/1.jpg)
 
 Ústředním tématem práce je interpretace pocitů týkajících se mizejících krajinných hodnot z důvodu neřízeného extenzivního rozvoje příměstských oblastí. Jedná se o subjektivní myšlenkový produkt několikaleté zkušenosti v rámci architektonické praxe, zahrnující mimo jiné i vlastní účast na obdobné invazivní výstavbě. Tato empirie vyústila v nepřetržité kladení si otázek dotýkajících se etického jednání a zodpovědnosti. Klíčovými pojmy jsou suburbanizace, sídelní kaše, development, satelitní město, periferie, transformace aury místa v „neauru“.
 

@@ -303,21 +303,6 @@
   </url>
   
   <url>
-    <loc>https://diplomantky.cz/en/kseniia-gorchakova/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cz"
-                href="https://diplomantky.cz/kseniia-gorchakova/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diplomantky.cz/en/kseniia-gorchakova/"
-                />
-  </url>
-  
-  <url>
     <loc>https://diplomantky.cz/en/ilona-hovezakova/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -404,6 +389,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://diplomantky.cz/en/kristyna-kazdova/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diplomantky.cz/en/kseniia-gorchakova/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://diplomantky.cz/kseniia-gorchakova/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diplomantky.cz/en/kseniia-gorchakova/"
                 />
   </url>
   

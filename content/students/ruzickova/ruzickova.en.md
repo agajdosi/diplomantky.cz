@@ -23,9 +23,10 @@ https://bara.fun/
 2017 – study stay at KASK & Conservatorium SCHOOL OF ARTS, Ghent
 2014 — 2018 – bachelor’s degree, Studio of Graphic Design 1, FaVU
 
-![](/students/ruzickova/1.jpg)
 
 ## Credit Cards Accepted
+
+![](/students/ruzickova/1.jpg)
 
 In my diploma work I am concerned with working conditions in the field of graphic design, their criticism and searching for ways of setting sustainable conditions for one’s own work and life – i.e. how not be dependent only on commissions by the client and how to diversify one’s work. I was interested in the themes of the precarisation and entreprecarisation of work in the area of art and design, what precarisation represents in concrete terms and I attempted to address it and avoid it in my own practise.
 

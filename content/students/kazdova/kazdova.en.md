@@ -17,9 +17,10 @@ My work is primarily based on drawing and with possible formal crossovers. In my
 
 Apart from drawing and traditional graphic techniques I often use specific found natural objects that I transform by incorporating them in my installations.
 
-![](/students/kazdova/1.jpg)
 
 ## Stuff That Can Make Me Sad
+
+![](/students/kazdova/1.jpg)
 
 Present day individualism affects almost every aspect of the form of life in today‘s western world. We adopt values from the outside and alienate ourselves from the sense of our own work and existence itself. We are exhausted by the incessant flow of uncountable opportunities that we most often cannot even touch. These invisible phenomena have gradually infiltrated even the private and intimate spheres where they surreptitiously took over the power over the commonplace in humans and ended up in an all-embracing social anxiety as a syndrome of the era of empty individualism and the spectacle of consumerism. This goes hand in hand with the ignorance and feeling of personal non-endangerment even in relation to far-reaching problems such as the threatening environmental crisis. We have an absolute freedom of opportunities, we are subordinated and obliged only to ourselves. The compulsive feelings of anxiety and personal discomfort resurface as a diagnosis of the impact of complicated political and social structures. 
 

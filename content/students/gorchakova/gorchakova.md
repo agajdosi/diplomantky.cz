@@ -17,9 +17,15 @@ Jsem designérka z Ruska a věnuji se zejména bytové architektuře a bytovému
 
 Ve vlastních návrzích se snažím klást důraz nejenom na funkčnost a užitečnost, ale také na potěšení a příjemný zážitek uživatelů. V praxi mě nejvíce baví práce se zákazníky a možnost navrhovat jedinečné projekty, které se přizpůsobují potřebám klientů a reflektují jejich osobnost. 
 
-![](/students/gorchakova/1.jpg)
+
 
 ## Modulární bydlení
+
+médium: architektura, design
+
+rozměry: architektonický model (70 x 50 cm), plakát (100 x 140 cm)
+
+![](/students/gorchakova/1.jpg)
 
 Můj návrh se týká problému bydlení a chce reflektovat současné nároky a požadavky pomocí využití sériové modulární výroby. Umožňuje výzkum modulárních prefabrikovaných systémů překročit tradiční rámec rodinného domu a vyvíjet nové atypické koncepce bydlení? Můj návrh rostoucího bydlení nabízí flexibilní systém obytných modulů, který je schopný se přizpůsobit změnám a potřebám svých obyvatel i skladbě rodiny připojením dalších buněk. Daný systém je jednoduchou platformou, která při omezeném počtu prvků umožňuje maximální výslednou tvarovou rozmanitost a flexibilitu. Na tomto základě by se daly snadno vytvářet návrhy s individuální výrazovou formou a zároveň tak propojovat výhody typizovaných prefabrikovaných modulů i atypických řešení.
 

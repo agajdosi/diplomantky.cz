@@ -17,9 +17,10 @@ Moje práce se odvíjí převážně od kresby a jejích možných formálních 
 
 Pracuji převážně s kresbou a klasickými grafickými technikami. Často využívám specifické nalezené přírodní objekty, které přetvářím nebo vkládám do svých instalací.
 
-![](/students/kazdova/1.jpg)
 
 ## Stuff That Can Make Me Sad
+
+![](/students/kazdova/1.jpg)
 
 Současný individualismus se dotýká takřka každého rysu podoby života dnešního západního světa. Hodnoty přebíráme zvnějšku a odcizujeme se smyslu vlastní práce a existence samotné. Jsme vyčerpaní neustálým prouděním nespočetných možností, na které většinou nemůžeme ani dosáhnout. Tyto neviditelné jevy postupně infiltrovaly i do soukromých a intimních sfér, kde nenápadně přebraly moc nad lidskou každodenností a vyústily ve všeobjímající společenskou úzkost jako syndrom éry vyprázdněného individualismu a konzumního spektáklu. S tím souvisí i ignorace a pocit osobního neohrožení i v tak dalekosáhlých problémech, jako je například hrozící environmentální krize. Máme absolutní svobodu možností, jsme podřízeni a zavázáni jen sami sobě. Nutkavé pocity úzkosti a osobního nepohodlí se objevují jako diagnóza vlivu komplexních politických a sociálních struktur.
 

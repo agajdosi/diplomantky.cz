@@ -19,9 +19,10 @@ I work with text. I created various objects, audio stories and sound installatio
 
 I have studied in the Studio of Body Design, and I completed a study placement in the Environmental Studio.
 
-![](/students/reisova/1.jpg)
 
 ## A Hedgehog Is Running across the Pavement
+
+![](/students/reisova/1.jpg)
 
 A Hedgehog is Running across the Pavement is a collection of texts about the ordinary beauty of the world, about slowing down and concentration. They are stories seen, perceived and heard by myself. Stories during which I stopped or which made me stop.  
 

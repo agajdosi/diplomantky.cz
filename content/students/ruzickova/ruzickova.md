@@ -23,9 +23,10 @@ https://bara.fun/
 * 2017 – studijní stáž na KASK & Conservatorium School of Arts, Gent
 * 2014–2018 – bakalářské studium, Ateliér grafického designu 1, FaVU
 
-![](/students/ruzickova/1.jpg)
 
 ## Credit Cards Accepted
+
+![](/students/ruzickova/1.jpg)
 
 Ve své diplomové práci se věnuji pracovním podmínkám v oblasti grafického designu, jejich kritice a hledání způsobů, jak si nastavit udržitelné podmínky pro vlastní práci a život – tedy jak nebýt závislý pouze na zakázkách od zadavatele a jak diverzifikovat vlastní práci. Zajímala jsem se o témata, jako je prekarizace a entreprekarizace práce v oblasti umění a designu, co konkrétně prekarizace  představuje a snažila jsem se ji řešit a předejít jí ve své vlastní praxi.
 

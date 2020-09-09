@@ -19,9 +19,9 @@ Absolvoval jsem magisterské studium oboru multimediální kompozice na JAMU, b�
 
 Portfolio: http://hernimedia.ffa.vutbr.cz/studentstvo/marek-andrysek/
 
-![](/students/andrysek/1.jpg)
-
 ## Beton
+
+![](/students/andrysek/1.jpg)
 
 Beton je diplomovým projektem, který se nachází na pomezí diskurzu interactive art a počítačové hry. Dílo se skládá z autorského kontroleru (interaktivního objektu) a digitálního obsahu, který je tímto kontrolerem ovlivňován. Dílo je představeno ve stavu funkčního prototypu.
 

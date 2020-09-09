@@ -15,9 +15,10 @@ location: "kanal"
 
 Narodil se v roce 1992 ve vesnici Řež blízko Prahy. Věnuje se hlavně malbě a kresbě, příležitostně také grafice pro kapely a projekty přátel. Momentálně završuje své studium v Ateliéru malířství I (pod vedením Vasila Artamonova) na FaVU VUT v Brně. Těší se z rave hudby, dronování blackmetalových kytar a fantasy příběhů. Aby přežil zápas se životem v pozdně kapitalistické společnosti, hledá možné překryvy mezi magičnem, humorem a vážností.
 
-![](/students/broz/1.jpg)
 
 ## You Must Gather Your Party Before Venturing Forth
+
+![](/students/broz/1.jpg)
 
 Jako svou diplomovou práci jsem vytvořil sérii expresivních figurativních obrazů. Série vypráví fragmenty příběhů odehrávajících se v kulisách romantických fantasy scenerií a kombinovaných se současnými subkulturními a volnočasovými motivy. Vycházím ze silné zkušenosti s PC herními světy a hlubokého emocionálního spojení se středoevropskou krajinou. Děj se odehrává někde mezi pohádkovou dávnominulostí a dystopickou budoucností.
 

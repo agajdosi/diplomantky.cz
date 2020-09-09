@@ -21,9 +21,10 @@ Post-medial tendencies, sculpturality and visuality are defining pillars of my c
  
 In recent years I've exhibited and performed mainly in Czechia (Vasulka Kitchen, Letna Studio, Korespondance, Prototyp), Slovakia (Kasarne, DIG gallery, VUNU) and across Europe (Gamma Festival, Petersburg; Mediamatic, Amsterdam; JRM, Paris; Trafo, Budapest; Genius Loci, Weimar; Grey Space, den Haag; AV depot, London). Besides being an active art practitioner, I'm also part of the STELLA (Somatic Tech Lab) research unit that maps the convergences of technologies and movement-based arts in Central Europe. I, too, curate ssesi.space in Brno, Czechia.
 
-![](/students/mitro/1.jpg)
 
 ## Planetary Thermodynamics: Energy Justice
+
+![](/students/mitro/1.jpg)
 
 With the work called Planetary Thermodynamics: Energy Justice I aim to depict the history of a utopia. One which has never happened. But what is more important, one which may happen. The initial stimulus is personal experience – an effort to create a temporary autonomous zone in a particular garden colony in Brno-Jundrov. This docufiction story starts where my personal experience ends. 
 

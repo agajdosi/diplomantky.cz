@@ -17,7 +17,12 @@ Pochádzam z východného Slovenska, z malého mestečka s názvom Strážske. M
 
 ## Zmena/The Change
 
-![](/students/macenkova/1.jpg)
+Médium: Olejomaľba na plátne
+
+V sérii:
+Trojuholník smrti, Trojuholník smrti 2, Trojuholník smrti 3, Logo, Logo 2, Logo 3, Komín, Brána, Brána 2, Za plotom, Zemplínska šírava, Mapa
+
+![Trojuholník smrti, 200 x 220 cm](/students/macenkova/1.jpg)
 
 V práci s názvom ZMENA sa vraciam v spomienkach k môjmu rodnému kraju, mestečku, v ktorom som žila a prežila väčšinu doterajšieho života. Toto časové obdobie malo a má na moje bytie značný vplyv. V prvej fáze časovej osi vytvárania témy diplomovej práce sa vo svojich návratoch prostredníctvom indukcie aj dedukcie približujem k chorobe otca, ktorá nie je zriedkavá na území  mojej domoviny.  Spájam si súvislosti smerujúce k zisteniam príčin vzniku a výskytu. Následne si vybavujem  spomienky súvisiace s vypočutými príbehmi od ľudí o fabrike, ktorá mala byť a možno aj bola zabezpečovateľom živobytia pre obyvateľov chudobného východu Slovenska,  aj výrobou PCB látok. Vytváram, zostavujem a  znázorňujem obrazy ukryté v pamäti spomienok  z mojich zažitých detských čias. Zobrazujem fabriku Chemko Strážske, ktorá bola v tom čase akousi ilúziou šťastného života. Ilustrujem celú oblasť nazývanú Trojuholník smrti, ktorá ľuďom dáva prácu, zamestnanie a živobytie rodinám z okolia. Oblasť, v ktorej sa mi dlho dobre  žilo a nič mi nechýbalo. 
 
@@ -25,7 +30,6 @@ Trojuholník smrti, územie na východnom Slovensku v oblasti Zemplína, sa datu
 
 Hľadám cestu prijatia a spôsoby zmierenia sa pomocou maliarskej techniky, prostredníctvom znázorňovania symbolov, ústredných znakov, ktoré to všetko reprezentujú.
 
-![](/students/macenkova/2.jpg)
-![](/students/macenkova/3.jpg)
-![](/students/macenkova/4.jpg)
-
+![Logo, 80 x 60 cm](/students/macenkova/2.jpg)
+![Komín, 220 x 100 cm](/students/macenkova/3.jpg)
+![Mapa, 160 x 120 cm](/students/macenkova/4.jpg)

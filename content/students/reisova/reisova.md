@@ -19,9 +19,10 @@ Pracujem s textom. Vytvárala som rôzne objekty, audio príbehy, zvukové inšt
 
 Študovala som v Ateliéri telového designu, absolvovala som stáž v Ateliéri environmentu.
 
-![](/students/reisova/1.jpg)
 
 ## Cez chodník prebehuje ježko
+
+![](/students/reisova/1.jpg)
 
 Cez chodník prebehuje ježko je zbierka textov o všednej kráse sveta, o pomalosti a sústredení.  Sú to príbehy mnou videné, vnímané, vypočuté. Príbehy, pri ktorých som sa zastavila, alebo ma zastavili ony.  
 

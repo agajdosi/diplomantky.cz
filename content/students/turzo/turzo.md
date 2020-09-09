@@ -21,9 +21,10 @@ Bachelor’s degree, Glass Design Studio
 - 2017- 2020 - Faculty of Fine Arts, Brno University of Technology, Czech Republic
 Master’s degree, Drawing and Graphics Studio
 
-![](/students/turzo/1.jpg)
 
 ## Lapidarium: Food and Shelter
+
+![](/students/turzo/1.jpg)
 
 Lapidarium pojednáva o dvoch fundamentálnych istotách, o nevyhnutnostiach fyziologického i materiálneho charakteru – Food and Shelter, vychádza z korelácie každodennosti a samotnej existencie jednotlivca.
 

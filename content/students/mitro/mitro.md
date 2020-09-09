@@ -18,9 +18,10 @@ Pre moju súčasnú tvorbu sú charakteristické post-mediálne tendencie s dô
 
 V uplynulých rokoch som prezentoval v Česku (Vasulka Kitchen, Studio Letná, Korespondance, Prototyp), na Slovensku (VUNU, Kasárne, DIG gallery) i v zahraničí (Gamma Festival, Petrohrad; Mediamatic, Amsterdam; JRM, Paríž; Trafó, Budapešť; Genius Loci, Weimar; Grey Space, den Haag; AV depot, Londýn). Okrem zmienených aktivít som členom výskumného telesa STELLA, ktoré mapuje prienik technológií a pohybového umenia v krajinách V4, a kurátorom priestoru ssesi.space.
 
-![](/students/mitro/1.jpg)
 
 ## Planetárna termodynamika: Energetická spravodlivosť
+
+![](/students/mitro/1.jpg)
 
 Dielom Planetary Thermodynamics: Energy Justice zamýšľam vykresliť históriu jednej utópie. Táto sa nikdy nestala. Čo je však dôležitejšie, stať sa môže. Začiatočným hýbateľom je osobná skúsenosť  ̶  snaha vytvoriť dočasnú autonómnu zónu v istej záhradkárskej kolónii v Brnenskom Jundrove. Tento doku-fiktívny príbeh začína tam, kde moja osobná skúsenosť končí.
 

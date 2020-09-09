@@ -21,9 +21,10 @@ Bachelor’s degree, Glass Design Studio
 - 2017- 2020 - Faculty of Fine Arts, Brno University of Technology, Czech Republic
 Master’s degree, Drawing and Graphics Studio
 
-![](/students/turzo/1.jpg)
 
 ## Lapidarium: Food and Shelter
+
+![](/students/turzo/1.jpg)
 
 Lapidarium deals with two fundamental certainties, inevitabilities of physiological and material nature - Food and Shelter, it is based on the correlation of the everyday and the very existence of an individual.
 In the context of the diploma work, Lapidarium – as the point of departure of the installation, a kind of re-interpretation of the institution – is a place where stone objects are accumulated and displayed. However, this “lapidarium” encompasses artefacts which, simply by their materiality, contest the fixed definition. The more appropriate attribute for them is durable rather than permanent. These objects refer to the present and partly to the past.

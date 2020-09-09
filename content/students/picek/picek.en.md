@@ -15,9 +15,10 @@ location: "byt"
 
 I am studying in my seventh year in the Studio of Product Design where I am currently finishing my studies. In general I have always been interested in modern technology, interior design and creating 3D graphics. I like solid craftsmanship and working with traditional materials, as much as innovative approaches to design and finding untraditional solutions.
 
-![](/students/picek/1.jpg)
 
 ## Generative Furniture
+
+![](/students/picek/1.jpg)
 
 The main motivation to become involved in the subject stemmed from my long-time general interest in advanced technologies and interior design. I tried to find an interesting way of interconnecting these two areas. Via various sources of inspiration I finally arrived at the technology of generative design which is concerned with a new approach to design based on earlier optimization methods. These methods, providing a new direction in designing technical objects, were primarily invented and intended for different purposes than design. Thanks to continual progressive development they also found application in areas of industry where the appearance of the product plays an equally important role to its function. As this is still a school project, there was room for examining the potential of these design methods and their possible application in furniture making.
 

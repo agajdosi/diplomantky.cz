@@ -15,9 +15,10 @@ location: "klubovna"
 
 Narozena 1991. Dokončila bakalářské studium na Multimediální fakultě ve Zlíně – obor režie a scenáristika. Na brněnské FaVU studovala obor video. Během magisterského studia se zabývala galerijní činností a kurátorstvím. Absolvovala zahraniční pracovní stáž v instituci Galería de Arte Servando v Havaně. Osobní zkušenosti a poznatky z cesty rozvíjí ve své diplomové práci. Nyní žije a pracuje v Brně. Od roku 2013 se pracovně zaměřuje i na reklamní činnost, produkci a marketing. Spolupracovala na audiovizuálních projektech s různým zaměřením od krátkometrážních filmů přes videa až po reklamu. Aktuálně pracuje na pozici produkce a PR v Galerii TIC v Brně a stále se věnuje audiovizuálnímu médiu. Při pracovních aktivitách se snaží stále rozvíjet znalosti v oblasti kurátorství, výstavnictví i galerijním provozu. 
 
-![](/students/hovezakova/1.jpg)
 
 ## Dialog
+
+![](/students/hovezakova/1.jpg)
 
 Téma diplomové práce částečně vychází z mých osobních zkušeností z pracovní stáže v Galería De Arte Servando v Havaně. Na Kubě jsem měla možnost poznat velká úskalí, která přináší omezení galerijního provozu způsobená komunistickou vládou, ale obecně také kubánskou kulturu a její náturu. Kulturní výměna československého a kubánského umění byla v minulosti běžnou součástí provozu státních institucí. Docházelo k ní jednak v Domě československé kultury v Havaně, jednak v Domě kubánské kultury v Praze. Po pádu SSSR byly oba kulturní domy uzavřeny a kulturně-umělecké vztahy se dodnes neobnovily. Cílem diplomové práce je pokus o znovunavázání jistého dialogu mezi Kubou a Českou republikou (dříve ČSSR), tedy mezi zeměmi, které dnes mohou být v mnoha ohledech odlišné, či dokonce navzájem odcizené. Kulturně-umělecký vztah Kuby a ČSSR býval vřelý a mohl být také v mnoha ohledech inspirativní. Aktuální politická vláda na Kubě může být velkou překážkou pro obnovu vztahů a navázání na historii, kdy nás spojoval stejný politický systém. Realizace výstavy pod názvem Dialog si klade otázky a hledá na ně odpovědi, které reflektuje v instalaci.
 

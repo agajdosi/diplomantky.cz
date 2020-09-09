@@ -22,9 +22,18 @@ dancer
 
 living, dancing and creating in Brno.
 
-![](/students/matejova/1.jpg)
 
 ## Humain - On Design, Humanities, Art and Artificial Intelligence
+
+Medium:
+- printed material (posters, programmes and forms)
+- online media:
+- - web: https://humain.space/
+- - fb: https://www.facebook.com/humain.space
+- date of the event: conference: 19/9/2020, Industra
+- accompanying programme: exhibition: 16/9 (date to be confirmed by Industra)
+
+![](/students/matejova/1.jpg)
 
 HUMAIN is a project, conference and platform opening up, associating, and connecting themes and experts from the areas of artificial intelligence, art, design and humanities. 
 

@@ -1,5 +1,5 @@
 ---
-title: "Gorchakova Kseniia"
+title: "Kseniia Gorchakova"
 date: 2020-08-17T15:02:56+02:00
 description: "My design addresses the housing problem with the intention of reflecting current demands and requirements with the aid of using serial modular production. Does research into modular prefabricated systems enable us to go beyond the traditional framework of a family home and develop new atypical housing concepts?"
 draft: false
@@ -17,9 +17,14 @@ My name is Ksenia Gorchakova. I am a Russian designer specialising in interior a
 
 In my own designs I strive to emphasise both functionality and utility and the sense of feeling the pleasure and pleasant experience of the users. In my practice I enjoy most working with customers and the opportunity to design original projects adapted to the needs of the clients and reflecting their personality. 
 
-![](/students/gorchakova/1.jpg)
 
 ## Modular Housing
+
+medium: architecture, design
+
+dimensions: architectural model (70x50 cm), poster (100x140 cm)
+
+![](/students/gorchakova/1.jpg)
 
 My design addresses the housing problem with the intention of reflecting current demands and requirements with the aid of using serial modular production. Does research into modular prefabricated systems enable us to go beyond the traditional framework of a family home and develop new atypical housing concepts? My design for growing housing offers a flexible system of modules for living capable of adapting to changes and to the needs of its inhabitants and the family configuration by adding additional cells. This system is a simple platform that with a limited number of elements enables maximum resulting variety and flexibility of shape. Based on this platform it would be easy to create designs with individual forms of expression and in this way combine the advantages of typified prefabricated modules and atypical solutions.
 

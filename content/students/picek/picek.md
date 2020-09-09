@@ -15,9 +15,10 @@ location: "byt"
 
 Studuji sedmým rokem v Ateliéru produktového designu, kde momentálně dokončuji studia. Obecně jsem se vždycky zajímal o moderní technologie, interiérový design a tvorbu 3D grafiky. Mám rád poctivé řemeslo a práci s tradičními materiály, stejně tak inovativní přístupy k designu a snahu o nalezení netradičních řešení.
 
-![](/students/picek/1.jpg)
 
 ## Generativní nábytek
+
+![](/students/picek/1.jpg)
 
 Hlavní motivace zabývat se tímto tématem pramenila z mého dlouhodobého zájmu o pokročilé technologie a tvorbu interiérového designu. Snažil jsem se najít zajímavý způsob, jakým bych tyto dvě oblasti dokázal propojit. Přes různé inspirační zdroje jsem se nakonec dostal k technologii generativního navrhování, která se zabývá novým způsobem navrhování a zároveň vychází ze starších optimalizačních metod. Tyto metody, poskytující nový směr v navrhování technických objektů, byly primárně vyvíjeny a určeny k odlišným účelům, než jsou ty designérské. Díky neustálému progresivnímu vývoji se však začaly uplatňovat i v průmyslu, kde vzhled produktu hraje stejně významnou roli jako jeho funkčnost. Jelikož se jedná o školní projekt, nabízel se zde prostor ke zkoumání potenciálu těchto navrhovacích způsobů a jejich možné aplikace v oblasti nábytkářství.
 
