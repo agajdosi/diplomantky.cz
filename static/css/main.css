@@ -93,9 +93,17 @@ h1, h2 {
     color: rgba(255, 255, 255, 1);
 }
 
+figure {
+    margin: 15px 0;
+}
+
+figcaption {
+    text-align: center;
+}
+
 img {
     width: 100%;
-    margin: 15px 0;
+    margin: 0;
 }
 
 a {

@@ -13,7 +13,6 @@ study: "mga"
 location: "byt"
 ---
 
-{{< bio >}}
 I studied in Studio of Painting 3 under Petr Kvíčala. Throughout the whole bachelor’s degree course I was accompanied by the theme of my grandad in connection with DIY and collecting. I devoted most of the time to painting. My paintings are typified by the collage method of work where I combine painting with other materials. 
 
 My work underwent a deep transformation during the master’s degree course when I left for placements in Poland and Spain. I sojourned in several studios from painting, drawing to an interdisciplinary studio. 
@@ -21,13 +20,18 @@ My work underwent a deep transformation during the master’s degree course when
 In my diploma work I deal with a new theme that directed me towards using what are new media for myself, such as video, installations and visual poetry. It was a challenge in terms of creating a new complex way of expressing myself without painting. This project also led me to collaborate with wonderful people. 
 
 http://leonavelebova.com
-{{< /bio >}}
 
+![](/students/velebova/1.jpg)
 
-{{< artwork >}}
+## Maybe She’s Born With It
+
 The diploma work Maybe She’s Born With It is about my cosmetics. About objects and activities related to superficiality and vanity. I examine the subject from the perspective of shopping, consumption, rituals, fetishising of cosmetic products in the household, advertising related to the cosmetic industry, beauty reviews on the internet and resulting effect of the everyday efforts of a woman in order to look like she was born with it.
 
 The whole work is pervaded with an emphasis on quantity. The quantity of cultivating activities, cosmetic products and substances in the life of one woman. I unveil everything that can lie behind a woman's appearance. The videos reveal woman’s intimacy which takes place behind the closed door of the bathroom and is not presented on Instagram or YouTube. This fact was the impulse to create the Instagram platform mybathroomsecrets for sharing one’s rituals. The project is made complete with a spatial installation of the collection of used up cosmetic products over the last two years by which I own up to being shocked by the waste I produced.
 
 #andwhatdoyoudoinyourbathroom
-{{< /artwork >}}
+
+![](/students/velebova/2.jpg)
+![](/students/velebova/3.jpg)
+![](/students/velebova/4.jpg)
+![](/students/velebova/5.jpg)

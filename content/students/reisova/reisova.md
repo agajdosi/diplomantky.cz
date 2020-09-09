@@ -13,19 +13,22 @@ study: "mga"
 location: "zahradka"
 ---
 
-{{< bio >}}
 Mojou primárnou témou je všednosť. Rada všednosť zviditeľňujem a poukazujem na to, aká je dôležitá, jemná a pominuteľná. Často nám uniká pomedzi prsty a my strácame kontakt s jej zázračnosťou. 
 
 Pracujem s textom. Vytvárala som rôzne objekty, audio príbehy, zvukové inštalácie. Teraz sa však viac približujem k remeselným technikám, ako ručný papier, vosková batika a prírodné farbenie. 
 
 Študovala som v Ateliéri telového designu, absolvovala som stáž v Ateliéri environmentu.
-{{< /bio >}}
 
+![](/students/reisova/1.jpg)
 
-{{< artwork >}}
+## Cez chodník prebehuje ježko
+
 Cez chodník prebehuje ježko je zbierka textov o všednej kráse sveta, o pomalosti a sústredení.  Sú to príbehy mnou videné, vnímané, vypočuté. Príbehy, pri ktorých som sa zastavila, alebo ma zastavili ony.  
 
 O tom, ako slnko a rastlina vytvárajú tieň, ako nad nami do kruhu lietajú bociany, ako v prítmí prebehuje jazvec, ako padá šiška zo stromu, ako mačky sedia v tme, ako hladí rastlinu po listoch, ako v rohu izby sedí nočný motýľ, ako pes čosi pozoruje v tráve, ako na ceste leží dúhová škvrna, ako zisťujú, že pod borovicou prší najmenej zo stromov navôkol, ako sa vznáša oblak pary nad lesom, ako tamarindy na noc zatvárajú svoje listy.
 
 Tieto texty zapisujem a prenášam ich na ručný papier, ktorý som vyrobila zo zozbieraných papierov a rastlín. Špendlíkom do nich vydierkovávam príbeh po príbehu. Spoločne sa potom schádzajú na okrúhlom stole, kde sa s nimi môžu stretnúť ľudia a zažiť si ich svojím pohľadom a hmatom.
-{{< /artwork >}}
+
+![](/students/reisova/2.jpg)
+![](/students/reisova/3.jpg)
+![](/students/reisova/4.jpg)

@@ -13,7 +13,6 @@ study: "mga"
 location: "kunstat"
 ---
 
-{{< bio >}}
 Date of birth: 22/9/1987
 Contact:
 Telephone: +420 737 462 426
@@ -41,11 +40,15 @@ E-mail: martin.cab@email.cz
 * 2014 Salute, Galerie Umakart, Brno
 * 2016 EmoXicon, Galeri Evoluční, Prague
 * 2016 Afterlife, Tschechisches Zentrum Berlin, Berlin
-{{< /bio >}}
 
+![](/students/cab/1.jpg)
 
-{{< artwork >}}
+## Untitled
+
 In September 2018, at the time of my deep stagnation and idling, something rather unfortunate and rather embarrassing happened to me. I visited the opening of the exhibition of diploma works, which was then taking place in the House of the Lords of Kunštát in Brno. There were chairs in one of the exhibition rooms and being tired I wanted to take a seat. But instead of normally sitting down, after I put my weight on the chair it collapsed beneath me and I suddenly found myself on the floor amidst the ruins. At the moment of fall I cried out aloud: “This is the end! This is really the end!” The chair was an art exhibit and I quickly realized that I was not supposed to sit on it as it was made of polystyrene. I also immediately noticed that the witness to the incident was the dean of the Faculty of Fine Arts. Feeling terribly embarrassed I rose up from the ground and started waving my hands at the dean, something like consulting the result, or I don’t know what. I began to meekly apologise and defend myself, that if I were a few years older I could have died. I was sweating heavily. In the meantime the ladies custodians are on the alert and after a few minutes the perplexed curator of the exhibition runs up to me. “You’re gonna fix that”, he calls to me, still surprised, and I can’t say that unpleasantly. But I nod in agreement: “Yes, I am a fixer of art” – “Look, I’ll introduce you to the artist” says the curator. “I am an artist too”, say I. Suddenly, an idea dawns on me and I mumble to myself: “Hey, a diploma work”. I go to the artist who made the chair to shake hands with him. Then I leave for the office of the House of Arts with a request to lend me the recording from the security camera.
 
 This diploma work is based on my personal experience of burnout and stagnation in artistic practice. It works at several levels with institutional criticism, existential anxiety and subliminal humour, it can be perceived from multiple perspectives rather than just a generational statement of today’s students saturated and exhausted by the world of culture. An act of destruction gave rise to a new meta-work of art, and stagnation gave birth to joy and spiritual space.
-{{< /artwork >}}
+
+![](/students/cab/2.jpg)
+![](/students/cab/3.jpg)
+![](/students/cab/4.jpg)

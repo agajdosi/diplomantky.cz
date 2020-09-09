@@ -13,13 +13,16 @@ study: "mga"
 location: "kunstat"
 ---
 
-{{< bio >}}
 Krátko po tom, ako som absolvovala bakalárske štúdium v rámci voľného umenia, konkrétne v Ateliéri maliarstva 1 (FaVU VUT), som sa rozhodla absolvovať svoje štúdium v Ateliéri herných médií. Prešla som si klasickou olejovou a digitálnou maľbou, ktorá sa časom pretransformovala do viacerých smerov, nových koncepcií a objektových inštalácií. Dlhodobo sa zaujímam o témy portrétov, mainstreamu a pop kultúry, ktoré prepojujem s osobnou mytológiou. Námety spracovávam vlastnou vizuálnou štylizáciou, kde kladiem dôraz na remeselnosť a príznačnosť zvoleného média k vybranej tematike.
-{{< /bio >}}
 
+![](/students/risianova/1.jpg)
 
-{{< artwork >}}
+## Move
+
 Diplomový projekt Move je prototyp digitálnej hry, ktorý má atmosfericko-meditatívny charakter. Jej interaktívny obsah sa odvíja od tém, ako sú portréty, maliarskosť, prechádzka, meditácia a osobná mytológia. Autorskou štylizáciou námetu a grafickým spracovaním digitálnej hry nadväzujem na svoje posledné maliarske cykly. Obrazy tak prenášam do virtuálneho 3D priestoru, v ktorom je hlavnou prioritou atmosféra. Svoj doterajší prístup k maliarstvu aplikujem v práci s herným enginom a počítačovou grafikou. Digitálna hra obsahuje interaktívne prvky, zvuk, animácie a ovládateľnú postavu s menom Mo, ktorá prechádza prostredím levelov. Každý level v Move je zároveň aj portrétom, po ktorom sa hráč pohybuje. Každý má svoju osobnosť, svoj zvuk, ktorému načúva, svoje svetlo, ktoré naň dopadá, farbu, ktorá ho charakterizuje. Atmosférou a prežitkom každej jednej osobnosti som určila povahu. Niektorý je viac konzumný, sladký či extrovertnejší, iný je zas plný ducha, hanblivosti či tajomna. Vytváram tak mentálne krajiny, v ktorých hráča sprevádza nestranná postava s maskou, čo sa nesnaží nič dosiahnuť. Hlavnou funkciou hry je vizuálne interaktívny zážitok zo skúmania prostredia, ktorý je podmienený atmosférou. Digitálnu hru vnímam ako komunikačný prostriedok autorského vyjadrenia a s Move chcem poukázať na to, aké možnosti nám toto médium ponúka.
 
 Link k portfoliu: http://hernimedia.ffa.vutbr.cz/studentstvo/zuzana-risianova/
-{{< /artwork >}}
+
+![](/students/risianova/2.jpg)
+![](/students/risianova/3.jpg)
+![](/students/risianova/4.jpg)

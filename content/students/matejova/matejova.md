@@ -13,7 +13,6 @@ study: "mga"
 location: "kunstat"
 ---
 
-{{< bio >}}
 Alina Matějová
 Absolventka FF MU, obor teorie interaktivních médií
 Studentka/absolventka Ateliéru grafického designu 2
@@ -23,10 +22,11 @@ new media freak
 tanečnice
 
 žijící, tančící, tvořící v Brně
-{{< /bio >}}
 
+![](/students/matejova/1.jpg)
 
-{{< artwork >}}
+## Humain – o designu, humanitních vědách, umění a umělé inteligenci
+
 HUMAIN je projekt, konference a platforma otevírající, sdružující, propojující témata a odborníky z oblastí umělé inteligence, umění, designu a humanitních věd. 
 Umělá inteligence je fenomén, který už nemůže být prezentován pouze jako spektákl a exhibice robotických rukou nebo jako užitečná technologická kuriozita. Je nám totiž blíže, než se může na první pohled zdát. Cílem projektu HUMAIN je představit umělou inteligenci v širších interdisciplinárních kontextech a rámcích (humanitní vědy, umění a design), které doposud v České republice nebyly zcela artikulovány. Je třeba upozornit na množství perspektiv a tematických aspektů, které se dotýkají a v budoucnu dotknou každého z nás. Umělá inteligence už tedy není záležitostí technologických laboratoří, aplikací do průmyslu a IT. Propojenost lidského a strojového zde nabírá intenzivní podobu vzájemně závislých a neoddělitelných sfér, tak jak naznačuje název projektu:
 
@@ -35,4 +35,7 @@ HUMAN + ARTIFICIAL INTELLIGENCE = HUMAIN
 Umělá inteligence je zrcadlem nás samých, našich hodnot, přesvědčení a cílů. Rok 2020 by se v této oblasti měl stát dobou pokládání si nových otázek.
                                                                                                      
 Projekt vzniká za spolupráce teoretiků a praktiků nejen z Fakulty výtvarných umění Vysokého učení technického v Brně a Filozofické fakulty Masarykovy univerzity.
-{{< /artwork >}}
+
+![](/students/matejova/2.jpg)
+![](/students/matejova/3.jpg)
+![](/students/matejova/4.jpg)
