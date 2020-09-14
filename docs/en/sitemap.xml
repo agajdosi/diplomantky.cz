@@ -273,32 +273,32 @@
   </url>
   
   <url>
-    <loc>https://diplomantky.cz/en/locations/kanal/</loc>
+    <loc>https://diplomantky.cz/en/canal/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="https://diplomantky.cz/lokace/kanal/"
+                href="https://diplomantky.cz/kan%C3%A1l/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://diplomantky.cz/en/locations/kanal/"
+                href="https://diplomantky.cz/en/canal/"
                 />
   </url>
   
   <url>
-    <loc>https://diplomantky.cz/en/locations/byt/</loc>
+    <loc>https://diplomantky.cz/en/city-flat/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="https://diplomantky.cz/lokace/byt/"
+                href="https://diplomantky.cz/m%C4%9Bstsk%C3%BD-byt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://diplomantky.cz/en/locations/byt/"
+                href="https://diplomantky.cz/en/city-flat/"
                 />
   </url>
   
@@ -318,17 +318,17 @@
   </url>
   
   <url>
-    <loc>https://diplomantky.cz/en/locations/favu/</loc>
+    <loc>https://diplomantky.cz/en/faculty-of-fine-arts/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="https://diplomantky.cz/lokace/favu/"
+                href="https://diplomantky.cz/favu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://diplomantky.cz/en/locations/favu/"
+                href="https://diplomantky.cz/en/faculty-of-fine-arts/"
                 />
   </url>
   
@@ -363,17 +363,17 @@
   </url>
   
   <url>
-    <loc>https://diplomantky.cz/en/locations/klubovna-gallery/</loc>
+    <loc>https://diplomantky.cz/en/klubovna-gallery/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="https://diplomantky.cz/lokace/galerie-klubovna/"
+                href="https://diplomantky.cz/galerie-klubovna/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://diplomantky.cz/en/locations/klubovna-gallery/"
+                href="https://diplomantky.cz/en/klubovna-gallery/"
                 />
   </url>
   
@@ -438,17 +438,17 @@
   </url>
   
   <url>
-    <loc>https://diplomantky.cz/en/locations/former-prison/</loc>
+    <loc>https://diplomantky.cz/en/former-prison/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="https://diplomantky.cz/lokace/kaznice/"
+                href="https://diplomantky.cz/k%C3%A1znice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://diplomantky.cz/en/locations/former-prison/"
+                href="https://diplomantky.cz/en/former-prison/"
                 />
   </url>
   
@@ -588,7 +588,7 @@
   </url>
   
   <url>
-    <loc>https://diplomantky.cz/en/locations/zahradka/</loc>
+    <loc>https://diplomantky.cz/en/the-garden/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -598,22 +598,22 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://diplomantky.cz/en/locations/zahradka/"
+                href="https://diplomantky.cz/en/the-garden/"
                 />
   </url>
   
   <url>
-    <loc>https://diplomantky.cz/en/locations/kunstat/</loc>
+    <loc>https://diplomantky.cz/en/the-house-of-the-lords-of-kunstat/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="https://diplomantky.cz/lokace/kunstat/"
+                href="https://diplomantky.cz/dum-p%C3%A1n%C5%AF-z-kun%C5%A1t%C3%A1tu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://diplomantky.cz/en/locations/kunstat/"
+                href="https://diplomantky.cz/en/the-house-of-the-lords-of-kunstat/"
                 />
   </url>
   
