@@ -63,6 +63,36 @@
   </url>
   
   <url>
+    <loc>https://diplomantky.cz/en/programme/komentovana2/</loc>
+    <lastmod>2020-10-30T16:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://diplomantky.cz/programme/komentovana2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diplomantky.cz/en/programme/komentovana2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diplomantky.cz/en/programme/komentovana1/</loc>
+    <lastmod>2020-10-17T16:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://diplomantky.cz/programme/komentovana1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diplomantky.cz/en/programme/komentovana1/"
+                />
+  </url>
+  
+  <url>
     <loc>https://diplomantky.cz/en/programme/kunstat-verni/</loc>
     <lastmod>2020-09-30T15:02:56+02:00</lastmod>
     <xhtml:link
