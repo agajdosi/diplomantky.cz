@@ -2,7 +2,11 @@
 title: "Městský byt"
 date: 2020-08-17T15:02:56+02:00
 draft: false
-url: "lokace/byt"
+url: "městský-byt"
+aliases : [
+    "byt",
+    "mestsky-byt",
+]
 
 opening: "26.09. 18.00"
 duration: "30.09 - 30.10."

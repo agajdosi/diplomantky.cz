@@ -2,7 +2,12 @@
 title: "Fakulta výtvarných umění VUT"
 date: 2020-08-17T15:02:56+02:00
 draft: false
-url: "lokace/favu"
+url: "favu"
+aliases : [
+    "fakulta-vytvarnych-umeni",
+    "fakulta-výtvarných-umění",
+    "ffa"
+]
 
 opening: "26.09.2020 16.00"
 duration: "30.09-30.10.2020"
