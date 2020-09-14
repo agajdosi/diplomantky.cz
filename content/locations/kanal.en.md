@@ -4,7 +4,7 @@ date: 2020-08-17T15:02:56+02:00
 draft: false
 url: "canal"
 
-opening: "25.09.2020 18.00"
+opening: "25.09.2020 19:00"
 duration: "25.09.2020"
 hours: "Opening day only"
 map: "/en/canal"
