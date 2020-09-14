@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://diplomantky.cz/koncepce/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diplomantky.cz/en/conception/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cz"
-                href="https://diplomantky.cz/koncepce/"
-                />
-  </url>
-  
-  <url>
     <loc>https://diplomantky.cz/lokace/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
