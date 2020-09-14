@@ -2,6 +2,8 @@
 
 {{ define "content"}}
 
+{{ .Content }}
+
   {{ range .Pages.GroupByDate "02.01. 2006" "asc" }}
     
   <div class="event-list">
@@ -29,4 +31,6 @@
   </div>
   
   {{ end }}
+
+
 {{ end }}
