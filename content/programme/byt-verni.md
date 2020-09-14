@@ -1,5 +1,5 @@
 ---
-title: "Byt - vernisáž"
+title: "Městský byt"
 date: 2020-09-26T16:02:56+02:00
 publishDate: 2020-08-19T15:02:56+02:00
 draft: false
@@ -8,7 +8,7 @@ where: "byt"
 ---
 
 ### 18:00
-vernisáž výstavy
+vernisáž
 
-### 19:00
-koncert (TBA)
+### 20:00
+yeezuz2020

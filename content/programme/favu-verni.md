@@ -1,5 +1,5 @@
 ---
-title: "FaVU VUT - vernisáž"
+title: "FaVU VUT"
 date: 2020-09-26T15:02:56+02:00
 publishDate: 2020-08-19T15:02:56+02:00
 draft: false
@@ -7,8 +7,8 @@ draft: false
 where: "favu"
 ---
 
-### 14:00
-vernisáž výstavy
+### 16:00
+vernisáž
 
-### 15:00
-koncert (TBA)
+### 17:30
+přesun -> byt
