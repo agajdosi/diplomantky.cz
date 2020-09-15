@@ -1,5 +1,5 @@
 ---
-title: "Exhibition and database of diplomants of FFA BUT"
+title: "FFA Graduate Exhibition and Database"
 date: 2020-08-17T15:02:56+02:00
 draft: false
 
