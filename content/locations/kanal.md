@@ -14,5 +14,5 @@ map: "/kanal"
 #"https://mapy.cz/zakladni?x=16.6755548&y=49.1756518&z=17&source=coor&id=16.675404629967574%2C49.17613221437531"
 ---
 
-**Opatření související se šířením koronaviru:**
-Při příchodu se vás zeptáme na vaše jméno a kontakt. Do uzavřených prostor Kanálu bude umožněn vstup po menších skupinkách a jen s ochranou úst a nosu. Doneste si, prosím, vlastní občerstvení a na místě ho s nikým nesdílejte. Na místě bude k dispozici lahvové pivo a limonády. Zvažte použití ochrany úst a nosu i ve venkovních prostorech. Omezte kontakt s osobami mimo váš nejbližší okruh, dodržujte rozestupy. Děkujeme za pochopení.
+**Pozor:** Přesné umístění výstavního prostoru ve městě Brně bude zveřejněno v den vernisáže v 10:00.
+Sledujte, prosím, Facebookovou událost či tuto stránku.

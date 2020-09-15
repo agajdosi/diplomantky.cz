@@ -7,5 +7,8 @@ draft: false
 where: "klubovna"
 ---
 
-### 18:00
+### 17:00
 vernisáž
+
+### 18:45
+přesun -> Káznice

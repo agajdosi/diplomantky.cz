@@ -10,3 +10,6 @@ hours: "Opening day only"
 map: "/en/canal"
 #"https://en.mapy.cz/zakladni?x=16.6755548&y=49.1756518&z=17&source=coor&id=16.675404629967574%2C49.17613221437531"
 ---
+
+**Attention:** Exact location of the exhibition space will be anounced on 25th September at 10AM.
+Please watch the Facebook event or this site.

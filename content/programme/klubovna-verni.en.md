@@ -7,5 +7,8 @@ draft: false
 where: "klubovna"
 ---
 
-### 18:00
+### 17:00
 opening
+
+### 18:45
+transfer -> Former Prison

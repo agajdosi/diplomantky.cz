@@ -7,3 +7,10 @@ weight: 3
 
 url: "programme"
 ---
+
+## COVID19 safety measures
+We will ask you for a name and a contact at the entrance.
+The indoor space will be accessible only with mouth and nose covered.
+Please, bring your own snacks and do not share them with others.
+There will be bottled beer and soft drinks available on the location.
+Thank you for understanding.

@@ -15,6 +15,3 @@ duration: "30.09-30.10.2020"
 hours: "út – ne 10 – 18 h"
 map: "https://mapy.cz/zakladni?x=16.6066325&y=49.1929030&z=19&source=coor&id=16.606699585914583%2C49.19299500063662"
 ---
-
-**Opatření související se šířením koronaviru:**
-Při příchodu se vás zeptáme na vaše jméno a kontakt. Do uzavřených prostor Domu pánů z Kunštátu bude umožněn vstup po menších skupinkách a jen s ochranou úst a nosu. Doneste si, prosím, vlastní občerstvení a na místě ho s nikým nesdílejte. Na místě bude k dispozici lahvové pivo a limonády. Zvažte použití ochrany úst a nosu i ve venkovních prostorech. Omezte kontakt s osobami mimo váš nejbližší okruh, dodržujte rozestupy. Děkujeme za pochopení.

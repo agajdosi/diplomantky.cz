@@ -7,6 +7,9 @@ draft: false
 where: "byt"
 ---
 
+### 16:00
+před-vernisáž
+
 ### 18:00
 vernisáž
 

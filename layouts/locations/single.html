@@ -18,6 +18,8 @@
     </div>
   </div>
 
+  {{ .Content }}
+
   <h2>
     {{ with .GetPage "programme"}}
       <a href="{{ .Permalink }}">{{ T "programme" }}</a>
@@ -34,6 +36,9 @@
     </h2>
   {{ end }}
 
-  {{ .Content }}
+  <p>
+    <b>{{ T "covid-warning" }}</b>
+    {{ T "covid" }}
+  </p>
 
 {{ end }}

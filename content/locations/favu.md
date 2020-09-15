@@ -14,6 +14,3 @@ duration: "30.09-30.10.2020"
 hours: "Úterý/Čtvrtek/Sobota 14.00-18:00"
 map: "https://mapy.cz/zakladni?x=16.5922723&y=49.1981075&z=18&source=addr&id=8899132"
 ---
-
-**Opatření související se šířením koronaviru:**
-Při příchodu se vás zeptáme na vaše jméno a kontakt. Do uzavřených prostor FaVU bude umožněn vstup po menších skupinkách a jen s ochranou úst a nosu. Doneste si, prosím, vlastní občerstvení a na místě ho s nikým nesdílejte. Na místě bude k dispozici lahvové pivo a limonády. Zvažte použití ochrany úst a nosu i ve venkovních prostorech. Omezte kontakt s osobami mimo váš nejbližší okruh, dodržujte rozestupy. Děkujeme za pochopení.
