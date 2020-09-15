@@ -29,7 +29,9 @@
   </h2>
   
   <a href="{{ .Params.map }}">
-    <img src="{{ path.Join `/locations` .Page.File.TranslationBaseName  }}.png">
+    <figure>
+      <img src="{{ path.Join `/locations` .Page.File.TranslationBaseName  }}.png">
+    </figure>
   </a>
 
   {{ range where .Site.Pages "Params.location" .File.TranslationBaseName }}
