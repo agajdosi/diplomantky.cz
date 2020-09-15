@@ -2,7 +2,9 @@
 
 {{ define "content"}}
 
-{{ .Content }}
+<div class="warning">
+  {{ .Content }}
+</div>
 
   {{ range .Pages.GroupByDate "02.01. 2006" "asc" }}
     

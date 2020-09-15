@@ -18,7 +18,9 @@
     </div>
   </div>
 
-  {{ .Content }}
+  <div class="warning">
+    {{ .Content }}
+  </div>
 
   <h2>
     {{ with .GetPage "programme"}}
@@ -36,7 +38,7 @@
     </h2>
   {{ end }}
 
-  <p>
+  <p class="warning">
     <b>{{ T "covid-warning" }}</b>
     {{ T "covid" }}
   </p>
