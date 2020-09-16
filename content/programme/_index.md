@@ -9,10 +9,9 @@ url: "program"
 ---
 
 ## Opatření související se šířením koronaviru
-Při příchodu na každou z akcí se vás zeptáme na vaše jméno a kontakt.
+Při příchodu se vás zeptáme na vaše jméno a kontakt.
 Do uzavřených prostor bude umožněn vstup po menších skupinkách a jen s ochranou úst a nosu.
 Doneste si, prosím, vlastní občerstvení a na místě ho s nikým nesdílejte.
-Na místě bude k dispozici lahvové pivo a limonády.
+Na místě bude k dispozici lahvové pivo a limonáda.
 Zvažte použití ochrany úst a nosu i ve venkovních prostorech.
-Omezte kontakt s osobami mimo váš nejbližší okruh, dodržujte rozestupy.
-Děkujeme za pochopení.
+Omezte kontakt s osobami mimo váš nejbližší okruh, dodržujte rozestupy. 
