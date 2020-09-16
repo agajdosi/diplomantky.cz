@@ -2,7 +2,11 @@
 title: "Canal"
 date: 2020-08-17T15:02:56+02:00
 draft: false
-url: "canal"
+url: "sewer"
+
+aliases : [
+    "canal",
+]
 
 opening: "25.09.2020 19:00"
 duration: "25.09.2020"
