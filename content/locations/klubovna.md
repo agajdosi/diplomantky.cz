@@ -12,4 +12,5 @@ opening: "27.09.2020 17:00"
 duration: "30.09-30.10.2020"
 hours: "út, pá, so 14 – 20 h"
 map: "https://mapy.cz/zakladni?x=16.6179044&y=49.2018713&z=19&source=addr&id=8901237"
+address: "Francouzská 33, Brno - Zábrdovice"
 ---

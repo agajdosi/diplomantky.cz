@@ -14,6 +14,7 @@ duration: "25.09.2020"
 hours: "Opening day only"
 map: "/en/sewer"
 #"https://en.mapy.cz/zakladni?x=16.6755548&y=49.1756518&z=17&source=coor&id=16.675404629967574%2C49.17613221437531"
+address: "TBA"
 ---
 
 **Attention:** location will be revealed 25/9 at 10AM.
