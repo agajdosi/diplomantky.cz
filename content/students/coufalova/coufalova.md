@@ -10,7 +10,7 @@ medium: "zvuk"
 dimensions: ""
 year: "2020"
 study: "mga"
-location: "favu"
+location: "byt"
 ---
 
 Na Univerzitě Tomáše Bati ve Zlíně jsem vystudovala bakalářský obor fashion design. Na Fakultě výtvarných umění jsem byla první rok v Ateliéru intermédií, poté druhý rok v Ateliéru tělového designu. Už několik let dělám hudební sety na míru fashion designérům na přehlídky, dále pak hudební režii různých eventů. Jsem zároveň i dýdžejka. Moje práce vždy balancují na hranici umění a popkultury, jsou intuitivní a vznikají na základě pocitů a emocí. Zajímám se o zvuk a ráda motám kabely.

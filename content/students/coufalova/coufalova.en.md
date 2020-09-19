@@ -10,7 +10,7 @@ medium: "sound"
 dimensions: "x"
 year: "2020"
 study: "mga"
-location: "favu"
+location: "byt"
 ---
 
 https://www.instagram.com/kristyna_coufal/
