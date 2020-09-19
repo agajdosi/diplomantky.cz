@@ -5,6 +5,8 @@ description: "Projekt se především zabývá otázkou, zda v současnosti exis
 draft: false
 url: "sabina-chrastilova"
 
+name: "Sabina"
+surname: "Chrastilová"
 artwork: "Poutní místo 2020"
 medium: "video, online galerie, instalace"
 dimensions: "délka videa – 6 minut"

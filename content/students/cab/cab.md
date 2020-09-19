@@ -5,6 +5,8 @@ description: "Tato diplomová práce vychází z osobní prožité zkušenosti v
 draft: false
 url: "martin-cab"
 
+name: "Martin"
+surname: "Cáb"
 artwork: "Bez názvu (Levou zadní)"
 medium: "Tříkanálová video projekce pořízená z CCTV. 3 průmyslové CRT monitory."
 dimensions: "4:00 min. ve smyčce"

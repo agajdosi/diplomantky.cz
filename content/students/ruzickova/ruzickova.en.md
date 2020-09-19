@@ -5,6 +5,8 @@ description: "In my diploma work I am concerned with working conditions in the f
 draft: false
 url: "bara-ruzickova"
 
+name: "Bára"
+surname: "Růžičková"
 artwork: "Credit Cards Accepted"
 medium: "web, online media, a form, textile, printed matter"
 dimensions: "x"

@@ -5,6 +5,8 @@ description: "My creation process starts by searching for correlations between w
 draft: false
 url: "matej-jindrak"
 
+name: "Matěj"
+surname: "Jindrák"
 artwork: "Fragile World"
 medium: "sculpture/installation/performance"
 dimensions: "sand relief: 12 squares, 60x60 cm, cast plaster of Paris with sand

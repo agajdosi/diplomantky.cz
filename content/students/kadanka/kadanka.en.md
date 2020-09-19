@@ -5,6 +5,8 @@ description: "The central theme of the work is the interpretation of the feeling
 draft: false
 url: "petr-kadanka"
 
+name: "Petr"
+surname: "Kadaňka"
 artwork: "Sasha (Suburbs aka Self-harming Architecture)"
 medium: "short film (digital video)"
 dimensions: "4K resolution - 4096 × 1716 (CinemaScope crop), ca 15 min."

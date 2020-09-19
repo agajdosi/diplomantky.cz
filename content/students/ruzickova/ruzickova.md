@@ -5,6 +5,8 @@ description: "Ve své diplomové práci se věnuji pracovním podmínkám
 draft: false
 url: "bara-ruzickova"
 
+name: "Bára"
+surname: "Růžičková"
 artwork: "Credit Cards Accepted"
 medium: "web, online média, formulář, textil, tiskoviny"
 dimensions: ""

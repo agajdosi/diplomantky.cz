@@ -5,6 +5,8 @@ description: "Hlavní motivace zabývat se tímto tématem pramenila z mého dlo
 draft: false
 url: "matej-picek"
 
+name: "Matěj"
+surname: "Picek"
 artwork: "Generativní nábytek"
 medium: "prototyp nízkého odpočivného křesla v měřítku 1 : 1"
 dimensions: "620 x 630 x 759 mm"

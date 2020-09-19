@@ -5,6 +5,8 @@ description: "The project questions whether there is a line between pilgrimages 
 draft: false
 url: "sabina-chrastilova"
 
+name: "Sabina"
+surname: "Chrastilová"
 artwork: "Pilgrimage Site 2020"
 medium: "video, online gallery, installation"
 dimensions: "video length - 6 min"

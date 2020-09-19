@@ -5,6 +5,8 @@ description: "My design addresses the housing problem with the intention of refl
 draft: false
 url: "kseniia-gorchakova"
 
+name: "Kseniia"
+surname: "Gorchakova"
 artwork: "Modular Housing"
 medium: "architecture, design"
 dimensions: "poster ~ 100x140 cm, architectural model ~ 70x50 cm"

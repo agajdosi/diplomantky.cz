@@ -5,6 +5,8 @@ description: "Home—Topia is an ongoing research and exhibition project concent
 draft: false
 url: "barbora-demovicova"
 
+name: "Barbora"
+surname: "Demovičová"
 artwork: "Home-Topia"
 media: "web page, video installation"
 dimensions: ""

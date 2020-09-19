@@ -5,6 +5,8 @@ description: "Concrete is a diploma project situated on the boundary between a d
 draft: false
 url: "marek-andrysek"
 
+name: "Marek"
+surname: "Andrýsek"
 artwork: "Concrete"
 medium: "computer game + interactive object"
 dimensions: "x"

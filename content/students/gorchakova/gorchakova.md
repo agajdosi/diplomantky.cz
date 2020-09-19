@@ -1,10 +1,12 @@
 ---
-title: "Gorchakova Kseniia"
+title: "Kseniia Gorchakova"
 date: 2020-08-17T15:02:56+02:00
 description: "Můj návrh se týká problému bydlení a chce reflektovat současné nároky a požadavky pomocí využití sériové modulární výroby. Umožňuje výzkum modulárních prefabrikovaných systémů překročit tradiční rámec rodinného domu a vyvíjet nové atypické koncepce bydlení?"
 draft: false
 url: "kseniia-gorchakova"
 
+name: "Kseniia"
+surname: "Gorchakova"
 artwork: "Modulární bydlení"
 medium: "architektura, design"
 dimensions: "plakát 100 x 140 cm, architektonický model 70 x 50 cm"

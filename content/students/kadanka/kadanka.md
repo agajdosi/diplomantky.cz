@@ -5,6 +5,8 @@ description: "Ústředním tématem práce je interpretace pocitů týkající
 draft: false
 url: "petr-kadanka"
 
+name: "Petr"
+surname: "Kadaňka"
 artwork: "Sasha (Suburbs aka Self-harming Architecture)"
 medium: "Krátkometrážní film (digitální video)"
 dimensions: "4K rozlišení – 4 096 × 1 716 (CinemaScope crop), cca 15 minut"

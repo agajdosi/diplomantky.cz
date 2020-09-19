@@ -5,6 +5,8 @@ description: "HUMAIN je projekt, konference a platforma otevírající, sdružuj
 draft: false
 url: "alina-matejova"
 
+name: "Alina"
+surname: "Matějová"
 artwork: "Humain – o designu, humanitních vědách, umění a umělé inteligenci"
 medium: "událost, tištěná a online média"
 dimensions: ""

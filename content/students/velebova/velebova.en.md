@@ -5,6 +5,8 @@ description: "The diploma work Maybe She’s Born With It is about my cosmetics.
 draft: false
 url: "leona-velebova"
 
+name: "Leona"
+surname: "Velebová"
 artwork: "Maybe She’s Born With It"
 medium: "video, installation, book, objects"
 dimensions: "video : 2:56, installation ca 2 x 2.5 m, book 20 x 15 cm, Object: One Night Kit - 20 x 30 cm, Travel Kit - 20 x 20 cm"

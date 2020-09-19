@@ -5,6 +5,8 @@ description: "Série vypráví fragmenty příběhů odehrávajících se v kuli
 draft: false
 url: "stepan-broz"
 
+name: "Štěpán"
+surname: "Brož"
 artwork: "You Must Gather Your Party Before Venturing Forth"
 medium: "olejomalba na plátně"
 dimensions: ""

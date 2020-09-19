@@ -5,6 +5,8 @@ description: "The series narrates fragments of stories unwinding in the wings of
 draft: false
 url: "stepan-broz"
 
+name: "Štěpán"
+surname: "Brož"
 artwork: "You Must Gather Your Party Before Venturing Forth"
 medium: "oil painting on canvas"
 dimensions: "x"

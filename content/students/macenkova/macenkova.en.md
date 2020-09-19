@@ -5,6 +5,8 @@ description: "In the work called THE CHANGE I return in memories to my homeland,
 draft: false
 url: "katarina-macenkova"
 
+name: "Katarína"
+surname: "Maceňková"
 artwork: "The Change"
 medium: "oil painting on canvas"
 dimensions: ""

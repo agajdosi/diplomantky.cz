@@ -5,6 +5,8 @@ description: "I created a sound collage from them which makes for uneasy listeni
 draft: false
 url: "kristyna-coufalova"
 
+name: "Kristýna"
+surname: "Coufalová"
 artwork: "Mechanical Wave of Air Particles Set to Motion by a Vibrating Body"
 medium: "sound"
 dimensions: "x"

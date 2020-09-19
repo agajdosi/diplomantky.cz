@@ -5,6 +5,8 @@ description: "Cílem diplomové práce je pokus o znovunavázání jistého dial
 draft: false
 url: "ilona-hovezakova"
 
+name: "Ilona"
+surname: "Hověžáková"
 artwork: "Dialog"
 medium: "kurátorský projekt"
 dimensions: ""

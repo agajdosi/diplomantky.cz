@@ -5,6 +5,8 @@ description: "Lapidarium deals with two fundamental certainties, inevitabilities
 draft: false
 url: "adam-turzo"
 
+name: "Adam"
+surname: "Turzo"
 artwork: "Lapidarium: Food and Shelter"
 medium: "mixed media"
 dimensions: "various dimensions"

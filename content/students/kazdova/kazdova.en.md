@@ -5,6 +5,8 @@ description: "The project entitled Stuff That Can Make Me Sad thematicises the c
 draft: false
 url: "kristyna-kazdova"
 
+name: "Kristýna"
+surname: "Kazdová"
 artwork: "Stuff That Can Make Me Sad"
 medium: "combined graphic technique"
 dimensions: "130/50cm"

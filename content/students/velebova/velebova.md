@@ -5,6 +5,8 @@ description: "Diplomová práce Možná se tak narodila je o mé kosmetice. O p�
 draft: false
 url: "leona-velebova"
 
+name: "Leona"
+surname: "Velebová"
 artwork: "Možná se tak narodila"
 medium: "video, instalace, kniha, objekty"
 dimensions: "video: 2:56

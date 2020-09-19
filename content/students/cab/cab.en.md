@@ -5,6 +5,8 @@ description: "This diploma work is based on my personal experience of burnout an
 draft: false
 url: "martin-cab"
 
+name: "Martin"
+surname: "Cáb"
 artwork: "Untitled"
 medium: ""
 dimensions: ""

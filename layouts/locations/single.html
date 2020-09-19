@@ -34,7 +34,7 @@
     </figure>
   </a>
 
-  {{ range where .Site.Pages "Params.location" .File.TranslationBaseName }}
+  {{ range sort (where .Site.Pages "Params.location" .File.TranslationBaseName) ".Params.surname" }}
     <h2>
       <a href="{{ .Permalink }}"> {{ .Title }} </a>
     </h2>

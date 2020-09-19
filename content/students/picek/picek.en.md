@@ -5,6 +5,8 @@ description: "The main motivation to become involved in the subject stemmed from
 draft: false
 url: "matej-picek"
 
+name: "Matěj"
+surname: "Picek"
 artwork: "Generative Furniture"
 medium: "prototype of a low relaxation armchair in 1:1 scale"
 dimensions: "620x630x759 mm"

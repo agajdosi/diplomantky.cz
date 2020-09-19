@@ -5,6 +5,8 @@ description: "Beton je diplomovým projektem, který se nachází na pomezí dis
 draft: false
 url: "marek-andrysek"
 
+name: "Marek"
+surname: "Andrýsek"
 artwork: "Beton"
 medium: "Počítačová hra + interaktivní objekt"
 dimensions: ""

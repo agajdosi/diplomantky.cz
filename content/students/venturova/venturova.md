@@ -5,6 +5,8 @@ description: "Ve své diplomové práci se zabývám pojmem „přirozenost“. 
 draft: false
 url: "adela-venturova"
 
+name: "Adéla"
+surname: "Venturová"
 artwork: "Voguing Is Not White, Honey"
 medium: "performance, instalace"
 dimensions: "performance: 30 minut"

@@ -5,6 +5,8 @@ description: "Projekt Stuff that can make me sad tematizuje obsahový rámec poc
 draft: false
 url: "kristyna-kazdova"
 
+name: "Kristýna"
+surname: "Kazdová"
 artwork: "Stuff That Can Make Me Sad"
 medium: "kombinovaná grafická technika"
 dimensions: "130 x 50 cm"

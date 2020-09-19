@@ -5,6 +5,8 @@ description: "The diploma work builds on historical facts when cultural exchange
 draft: false
 url: "ilona-hovezakova"
 
+name: "Ilona"
+surname: "Hověžáková"
 artwork: "Dialogue"
 medium: "curatorial project"
 dimensions: ""

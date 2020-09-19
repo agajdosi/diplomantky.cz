@@ -5,6 +5,8 @@ description: "A Hedgehog is Running across the Pavement is a collection of texts
 draft: false
 url: "kristina-reisova"
 
+name: "Kristína"
+surname: "Reisová"
 artwork: "Cez chodník prebehuje ježko"
 medium: "Knižná inštalácia"
 dimensions: "157 ručných papierov veľkosti 21 x 15 cm na okrúhlom drevenom stole s priemerom 120 cm"

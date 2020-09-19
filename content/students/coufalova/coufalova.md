@@ -5,6 +5,8 @@ description: "Během pandemie koronaviru jsem sbírala nekvalitní zvukové 
 draft: false
 url: "kristyna-coufalova"
 
+name: "Kristýna"
+surname: "Coufalová"
 artwork: "Mechanické vlnění vzduchových částeček uvedených do pohybu chvějícím se tělesem"
 medium: "zvuk"
 dimensions: ""

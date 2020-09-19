@@ -5,6 +5,8 @@ description: "The diploma work called Move is the prototype of a digital game wi
 draft: false
 url: "zuzana-risianova"
 
+name: "Zuzana"
+surname: "Rišiánová"
 artwork: "Move"
 medium: "digital game"
 dimensions: "Playing time is 15min."

@@ -5,6 +5,8 @@ description: "In my diploma work I deal with the term “naturalness”. I am in
 draft: false
 url: "adela-venturova"
 
+name: "Adéla"
+surname: "Venturová"
 artwork: "Voguing Is Not White, Honey"
 medium: "performance, installation"
 dimensions: "performance: 30min"

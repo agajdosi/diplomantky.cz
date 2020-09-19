@@ -5,6 +5,8 @@ description: "With the work called Planetary Thermodynamics: Energy Justice I ai
 draft: false
 url: "michal-mitro"
 
+name: "Michal"
+surname: "Mitro"
 artwork: "Planetárna termodynamika: Energetická spravodlivosť"
 medium: "post-mediálna inštalácia"
 dimensions: "variabilné a decentralizované

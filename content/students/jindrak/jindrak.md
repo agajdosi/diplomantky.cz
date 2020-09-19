@@ -5,6 +5,8 @@ description: "Proces tvorby u mě začínal hledáním souvztažnosti mezi přir
 draft: false
 url: "matej-jindrak"
 
+name: "Matěj"
+surname: "Jindrák"
 artwork: "Křehký svět"
 medium: "socha/instalace/performance"
 dimensions: "Pískový reliéf: 12 čtverců, 60 x 60 centimetrů, litá sádra s pískem

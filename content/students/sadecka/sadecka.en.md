@@ -5,6 +5,8 @@ description: "Flax Facts (Len Len) is about a process. One rooted in environment
 draft: false
 url: "lucia-sadecka"
 
+name: "Lucia"
+surname: "Sádecká"
 artwork: "Flax Facts (Len len)"
 medium: "exhibition presentation"
 dimensions: "various dimensions"
