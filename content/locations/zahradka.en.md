@@ -6,6 +6,7 @@ url: "the-garden"
 aliases : [
     "garden"
 ]
+weight: "6"
 
 opening: "29.09.2020 18:00"
 duration: "30.09-30.10.2020"

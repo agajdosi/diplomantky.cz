@@ -6,6 +6,7 @@ url: "the-house-of-the-lords-of-kunstat"
 aliases : [
     "kunstat"
 ]
+weight: "7"
 
 opening: "30.09.2020 16:00"
 duration: "30.09-30.10.2020"

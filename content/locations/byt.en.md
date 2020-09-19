@@ -6,6 +6,7 @@ url: "city-flat"
 aliases : [
     "flat"
 ]
+weight: "3"
 
 opening: "26.09. 18:00"
 duration: "30.09 - 30.10."

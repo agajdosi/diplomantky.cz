@@ -7,6 +7,7 @@ aliases : [
     "ffa",
     "favu"
 ]
+weight: "2"
 
 opening: "26.09.2020 16:00"
 duration: "30.09-30.10.2020"

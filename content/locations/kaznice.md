@@ -6,6 +6,7 @@ url: "káznice"
 aliases : [
     "kaznice",
 ]
+weight: "5"
 
 opening: "27.09.2020 19:00"
 duration: "30.09-30.10.2020"

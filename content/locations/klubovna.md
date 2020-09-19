@@ -6,6 +6,7 @@ url: "galerie-klubovna"
 aliases : [
     "klubovna",
 ]
+weight: "4"
 
 opening: "27.09.2020 17:00"
 duration: "30.09-30.10.2020"

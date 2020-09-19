@@ -6,6 +6,7 @@ url: "kanál"
 aliases : [
     "kanal",
 ]
+weight: "1"
 
 opening: "25.09.2020 19:00"
 duration: "pouze 25.09.2020"

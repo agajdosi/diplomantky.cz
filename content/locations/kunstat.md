@@ -9,6 +9,7 @@ aliases : [
     "dum-panu-z-kunstatu",
     "dpzk"
 ]
+weight: "7"
 
 opening: "30.09.2020 16:00"
 duration: "30.09-30.10.2020"
