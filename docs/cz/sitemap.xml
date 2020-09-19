@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://diplomantky.cz/kan%C3%A1l/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diplomantky.cz/en/sewer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://diplomantky.cz/kan%C3%A1l/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diplomantky.cz/favu/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diplomantky.cz/en/faculty-of-fine-arts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://diplomantky.cz/favu/"
+                />
+  </url>
+  
+  <url>
     <loc>https://diplomantky.cz/lokace/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -14,6 +44,21 @@
                 rel="alternate"
                 hreflang="cz"
                 href="https://diplomantky.cz/lokace/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diplomantky.cz/m%C4%9Bstsk%C3%BD-byt/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diplomantky.cz/en/city-flat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://diplomantky.cz/m%C4%9Bstsk%C3%BD-byt/"
                 />
   </url>
   
@@ -44,6 +89,66 @@
                 rel="alternate"
                 hreflang="cz"
                 href="https://diplomantky.cz/2020/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diplomantky.cz/galerie-klubovna/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diplomantky.cz/en/klubovna-gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://diplomantky.cz/galerie-klubovna/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diplomantky.cz/k%C3%A1znice/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diplomantky.cz/en/former-prison/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://diplomantky.cz/k%C3%A1znice/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diplomantky.cz/zahr%C3%A1dka/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diplomantky.cz/en/the-garden/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://diplomantky.cz/zahr%C3%A1dka/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diplomantky.cz/d%C5%AFm-p%C3%A1n%C5%AF-z-kun%C5%A1t%C3%A1tu/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diplomantky.cz/en/the-house-of-the-lords-of-kunstat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://diplomantky.cz/d%C5%AFm-p%C3%A1n%C5%AF-z-kun%C5%A1t%C3%A1tu/"
                 />
   </url>
   
@@ -258,51 +363,6 @@
   </url>
   
   <url>
-    <loc>https://diplomantky.cz/d%C5%AFm-p%C3%A1n%C5%AF-z-kun%C5%A1t%C3%A1tu/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diplomantky.cz/en/the-house-of-the-lords-of-kunstat/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cz"
-                href="https://diplomantky.cz/d%C5%AFm-p%C3%A1n%C5%AF-z-kun%C5%A1t%C3%A1tu/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://diplomantky.cz/favu/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diplomantky.cz/en/faculty-of-fine-arts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cz"
-                href="https://diplomantky.cz/favu/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://diplomantky.cz/galerie-klubovna/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diplomantky.cz/en/klubovna-gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cz"
-                href="https://diplomantky.cz/galerie-klubovna/"
-                />
-  </url>
-  
-  <url>
     <loc>https://diplomantky.cz/ilona-hovezakova/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -314,21 +374,6 @@
                 rel="alternate"
                 hreflang="cz"
                 href="https://diplomantky.cz/ilona-hovezakova/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://diplomantky.cz/kan%C3%A1l/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diplomantky.cz/en/sewer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cz"
-                href="https://diplomantky.cz/kan%C3%A1l/"
                 />
   </url>
   
@@ -404,21 +449,6 @@
                 rel="alternate"
                 hreflang="cz"
                 href="https://diplomantky.cz/kseniia-gorchakova/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://diplomantky.cz/k%C3%A1znice/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diplomantky.cz/en/former-prison/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cz"
-                href="https://diplomantky.cz/k%C3%A1znice/"
                 />
   </url>
   
@@ -528,21 +558,6 @@
   </url>
   
   <url>
-    <loc>https://diplomantky.cz/m%C4%9Bstsk%C3%BD-byt/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diplomantky.cz/en/city-flat/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cz"
-                href="https://diplomantky.cz/m%C4%9Bstsk%C3%BD-byt/"
-                />
-  </url>
-  
-  <url>
     <loc>https://diplomantky.cz/petr-kadanka/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -584,21 +599,6 @@
                 rel="alternate"
                 hreflang="cz"
                 href="https://diplomantky.cz/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://diplomantky.cz/zahr%C3%A1dka/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diplomantky.cz/en/the-garden/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cz"
-                href="https://diplomantky.cz/zahr%C3%A1dka/"
                 />
   </url>
   
