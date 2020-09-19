@@ -1,3 +1,5 @@
+
+{{- define "pageimage" -}}{{ $ogImage := path.Join `/locations` .Page.File.TranslationBaseName}}{{absURL $ogImage}}.png{{- end -}}
 {{ define "pagetitle"}} {{.Title}} {{end}}
 
 {{ define "content"}}
