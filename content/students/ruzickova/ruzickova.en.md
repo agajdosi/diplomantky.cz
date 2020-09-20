@@ -15,8 +15,8 @@ study: "mga"
 location: "kunstat"
 ---
 
-graphic designer and illustrator
-mail@bara fun
+graphic designer and illustrator  
+mail@bara.fun  
 https://bara.fun/
 
 2018 — 2020 – master’s degree, Studio of Graphic Design 1, FaVU

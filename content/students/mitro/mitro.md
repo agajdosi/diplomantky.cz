@@ -20,6 +20,8 @@ Pre moju súčasnú tvorbu sú charakteristické post-mediálne tendencie s dô
 
 V uplynulých rokoch som prezentoval v Česku (Vasulka Kitchen, Studio Letná, Korespondance, Prototyp), na Slovensku (VUNU, Kasárne, DIG gallery) i v zahraničí (Gamma Festival, Petrohrad; Mediamatic, Amsterdam; JRM, Paríž; Trafó, Budapešť; Genius Loci, Weimar; Grey Space, den Haag; AV depot, Londýn). Okrem zmienených aktivít som členom výskumného telesa STELLA, ktoré mapuje prienik technológií a pohybového umenia v krajinách V4, a kurátorom priestoru ssesi.space.
 
+portfolio: [michalmitro.com](https://www.michalmitro.com)  
+mail: info@michalmitro.com
 
 ## Planetárna termodynamika: Energetická spravodlivosť
 

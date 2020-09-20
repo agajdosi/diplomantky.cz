@@ -15,8 +15,8 @@ study: "mga"
 location: "kunstat"
 ---
 
-grafická designérka a ilustrátorka
-mail@bara fun
+grafická designérka a ilustrátorka  
+mail@bara.fun  
 https://bara.fun/
 
 * 2018–2020 – magisterské studium, Ateliér grafického designu 1, FaVU

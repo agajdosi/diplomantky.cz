@@ -15,9 +15,9 @@ study: "mga"
 location: "kunstat"
 ---
 
-Datum narození: 22. 9. 1987
-Telefon: +420 737 462 426
-E-mail: martin.cab@email.cz
+\* 22/9/1987  
++420 737 462 426  
+martin.cab@email.cz
 
 ### Studium
 * 2003–2007 Střední uměleckoprůmyslová škola Uherské Hradiště, studijní obor Užitá

@@ -15,10 +15,9 @@ study: "mga"
 location: "kunstat"
 ---
 
-Date of birth: 22/9/1987
-Contact:
-Telephone: +420 737 462 426
-E-mail: martin.cab@email.cz
+\* 22/9/1987  
++420 737 462 426  
+martin.cab@email.cz
 
 ### Studies
 * 2003 – 2007 Secondary School of Applied Arts, Uherské Hradiště, field of study: Applied Photography

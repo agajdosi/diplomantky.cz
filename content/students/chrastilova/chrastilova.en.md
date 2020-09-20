@@ -17,6 +17,9 @@ location: "kanal"
 
 CLOTHING X BODY, BODY X PERSONALITY, PERSONALITY X STORY, STORY X CLOTHING
 
+* mail: s.chrastilova@seznam.cz  
+* portfolio: [sabinachrastilovaportfolio.tumblr.com](https://sabinachrastilovaportfolio.tumblr.com/)
+
 
 ## Pilgrimage Site 2020
 
@@ -24,7 +27,9 @@ CLOTHING X BODY, BODY X PERSONALITY, PERSONALITY X STORY, STORY X CLOTHING
 
 On the boundary between religious and secular ritualised motion. The project questions whether there is a line between pilgrimages and religious tourism today. It examines current principles of religious rituals and reflects upon contemporary approaches to the notion of pilgrimage sites. The final outcome of the project is an online gallery mapping out new forms of pilgrimage site and simultaneously offering the viewer participation in the project. The installation consists of the artist’s cloak and her video diary recording all the pilgrimage sites she visited during the last year. 
 
-Online gallery: https://pilgrimageplaces2020.tumblr.com/
+Online gallery: [pilgrimageplaces2020.tumblr.com](https://pilgrimageplaces2020.tumblr.com/)
 
 ![](/students/chrastilova/2.jpg)
 ![](/students/chrastilova/3.jpg)
+
+#bodydesign #pilgrimagesites

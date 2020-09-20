@@ -30,7 +30,7 @@ Trajektória výskumu, bibliografia a dokumentácia udalostí sú verejnosti dos
 
 V rámci projektu bola tiež zrealizovaná autorská interaktívna video inštalácia v berlínskej galérii Raum für Drastische Maßnahmen, ktorá využívala prvky rozšírenej reality.
 
-http://home-topia.eu/
+[home-topia.eu](http://home-topia.eu/)
 
 ![](/students/demovicova/2.jpg)
 ![](/students/demovicova/3.jpg)

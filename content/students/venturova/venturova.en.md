@@ -17,6 +17,9 @@ location: "zahradka"
 
 A new being has been created in the Studio of Body Design from an organic body and several found synthetic materials. This being thinks ecofeministically, but at the same time is aware that it arose from pollution and the material affluence of a post-capitalist society. It has appeared at three locations and in three states. First at the Rainbow Gallery in Prostějov, then in the Polish town of Zakopane in the Wladyslaw Hasior Gallery and finally at the Kruhovka festival in Vrbová in Slovakia. It is an arrogant creature that communicates with spectators through voguing regardless of whether those around understand.
 
+* a.venturova@seznam.cz
+* portfolio: [adelaventurova.tumblr.com](https://adelaventurova.tumblr.com/)
+
 
 ## Voguing Is Not White, Honey
 

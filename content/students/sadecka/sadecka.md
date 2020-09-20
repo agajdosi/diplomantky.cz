@@ -17,6 +17,8 @@ location: "byt"
 
 Na FaVU študujem od roku 2014, keď som nastúpila do Ateliéru video k Martinovi Zetovi. V začiatkoch štúdia som sa zameriavala na fotku a audiovizuálne médium. Po ročnej stáži na drážďanskej akadémii v Ateliéri scénografie a kostýmu som upustila od videa a práce za počítačom a začala tráviť viac času za šijacím strojom. Samovoľne som sa naučila šiť a skúšala používať odev ako prostriedok sebaprezentácie. V ateliéri sme vždy mali voľnosť a zmena vedúceho to len umocnila. Prišiel Martin Mazanec. Móda a odev bola vášeň, no postupom času mi to prestalo dávať zmysel. Nechcela som kupovať materiál a z neho produkovať. Začala som skúmať rastliny a materiály, ktoré sú vhodné do nášho podnebného pásma. Tradície a bohaté skúsenosti z minulosti sú mi nápomocné a súčasné životné podmienky a situácia vo svete motivujúca. Pestujem ľan. Žijem, pestujem a tvorím.
 
+* instagram: [@lusadilasa](https://instagram.com/lusadilasa)
+* lucka.sadecka@gmail.com
 
 ## Len *Len*
 
@@ -26,3 +28,5 @@ Len *Len* je o procese. S koreňmi v environmentálnych otázkach a odrážajúc
 
 ![](/students/sadecka/2.jpg)
 ![](/students/sadecka/3.jpg)
+
+#FROM_SEED_TO_CLOTH #homemade #little #miracle! #flaxseed #linen #fiber #clothes #sustainabilitymatters #naturalmaterials #hardwork #loomweaving #selfsufficient #oldschool #slowfashion #materialtimes

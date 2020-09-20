@@ -19,6 +19,7 @@ Moje práce se odvíjí převážně od kresby a jejích možných formálních 
 
 Pracuji převážně s kresbou a klasickými grafickými technikami. Často využívám specifické nalezené přírodní objekty, které přetvářím nebo vkládám do svých instalací.
 
+mail: kazdovak@gmail.com
 
 ## Stuff That Can Make Me Sad
 

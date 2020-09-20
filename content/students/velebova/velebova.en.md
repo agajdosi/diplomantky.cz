@@ -21,7 +21,7 @@ My work underwent a deep transformation during the master’s degree course when
 
 In my diploma work I deal with a new theme that directed me towards using what are new media for myself, such as video, installations and visual poetry. It was a challenge in terms of creating a new complex way of expressing myself without painting. This project also led me to collaborate with wonderful people. 
 
-http://leonavelebova.com
+[leonavelebova.com](http://leonavelebova.com)
 
 ## Maybe She’s Born With It
 

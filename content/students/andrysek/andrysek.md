@@ -19,7 +19,7 @@ Ve své tvorbě propojuji aspekty technologie a řemeslné dovednosti s intuitiv
 
 Absolvoval jsem magisterské studium oboru multimediální kompozice na JAMU, během kterého jsem strávil jeden semestr na Universität der Künste v Berlíně v ateliéru Computational Art. Aktuálně ukončuji studium v Ateliéru herních médií na FaVU.
 
-Portfolio: http://hernimedia.ffa.vutbr.cz/studentstvo/marek-andrysek/
+Portfolio: [hernimedia.ffa.vutbr.cz/studentstvo/marek-andrysek](http://hernimedia.ffa.vutbr.cz/studentstvo/marek-andrysek/)
 
 ## Beton
 

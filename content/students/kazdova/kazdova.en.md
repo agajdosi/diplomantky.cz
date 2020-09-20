@@ -19,6 +19,7 @@ My work is primarily based on drawing and with possible formal crossovers. In my
 
 Apart from drawing and traditional graphic techniques I often use specific found natural objects that I transform by incorporating them in my installations.
 
+mail: kazdovak@gmail.com
 
 ## Stuff That Can Make Me Sad
 

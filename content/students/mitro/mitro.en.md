@@ -23,6 +23,8 @@ Post-medial tendencies, sculpturality and visuality are defining pillars of my c
  
 In recent years I've exhibited and performed mainly in Czechia (Vasulka Kitchen, Letna Studio, Korespondance, Prototyp), Slovakia (Kasarne, DIG gallery, VUNU) and across Europe (Gamma Festival, Petersburg; Mediamatic, Amsterdam; JRM, Paris; Trafo, Budapest; Genius Loci, Weimar; Grey Space, den Haag; AV depot, London). Besides being an active art practitioner, I'm also part of the STELLA (Somatic Tech Lab) research unit that maps the convergences of technologies and movement-based arts in Central Europe. I, too, curate ssesi.space in Brno, Czechia.
 
+portfolio: [michalmitro.com](https://www.michalmitro.com)  
+mail: info@michalmitro.com
 
 ## Planetary Thermodynamics: Energy Justice
 

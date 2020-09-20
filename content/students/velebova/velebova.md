@@ -18,13 +18,13 @@ study: "mga"
 location: "byt"
 ---
 
-Studovala jsem v Ateliéru malířství 3 u Petra Kvíčaly. Celé bakalářské studium mě provázelo téma o mém dědovi spojené s kutilstvím/domácí výrobou a sběratelstvím/sběračstvím. Většinu času jsem se věnovala malbě. Typický pro mé obrazy je kolážovitý způsob práce, při němž kombinuji malbu s jinými materiály.
+Studovala jsem v Ateliéru malířství 3 u Petra Kvíčaly. Celé bakalářské studium mě provázelo téma o mém dědovi spojené s kutilstvím/domácí výrobou a sběratelstvím/sběračstvím. Většinu času jsem se věnovala malbě. Typické pro mé obrazy je kolážovitý způsob práce, při němž kombinuji malbu s jinými materiály.
 
 V magisterském studiu se má tvorba hodně proměnila díky odjezdu na stáže do Polska a Španělska. Zde jsem vystřídala několik ateliérů od malby, kresby až po interdisciplinární studio.
 
 V diplomové práci se věnuji novému tématu, které mě nasměrovalo k použití pro mě nových médií, jako jsou video, instalace a vizuální poezie. Byla to pro mě výzva vytvořit nový komplexní způsob, jak se vyjádřit jinak než malbou. Tento projekt mě navíc přivedl ke spolupráci se skvělými lidmi.
 
-http://leonavelebova.com
+[leonavelebova.com](http://leonavelebova.com)
 
 ## Možná se tak narodila
 
