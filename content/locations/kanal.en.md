@@ -12,10 +12,8 @@ weight: "1"
 opening: "25.09.2020 19:00"
 duration: "25.09.2020"
 hours: "Opening day only"
-map: "/en/sewer"
-#"https://en.mapy.cz/zakladni?x=16.6755548&y=49.1756518&z=17&source=coor&id=16.675404629967574%2C49.17613221437531"
-address: "TBA"
+map: "https://en.mapy.cz/zakladni?x=16.6755548&y=49.1756518&z=17&source=coor&id=16.675404629967574%2C49.17613221437531"
+address: "Tuřanka, Brno - Slatina"
 ---
 
-**Attention:** location will be revealed 25/9 at 10AM.
-Please watch the Facebook event or this site.
+Location: Tuřanka, Brno - Slatina. For the exact location click on the map.
