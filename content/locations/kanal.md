@@ -16,3 +16,14 @@ address: "Tuřanka, Brno - Slatina"
 ---
 
 Lokace: Tuřanka, Brno - Slatina. Pro přesné místo klikněte na mapu.
+
+### Jak se sem dostat:
+
+Zastávka Ericha Roučky
+- Bus 77, 75, E75, E50, N89 (noční)
+
+Zastávka Brněnky
+- Trolejbus 31
+
+Zastávka Pod Tuřankou:
+- Bus 75, 73
