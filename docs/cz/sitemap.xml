@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://diplomantky.cz/kan%C3%A1l/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diplomantky.cz/en/sewer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cz"
-                href="https://diplomantky.cz/kan%C3%A1l/"
-                />
-  </url>
-  
-  <url>
     <loc>https://diplomantky.cz/favu/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -149,6 +134,21 @@
                 rel="alternate"
                 hreflang="cz"
                 href="https://diplomantky.cz/d%C5%AFm-p%C3%A1n%C5%AF-z-kun%C5%A1t%C3%A1tu/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://diplomantky.cz/kan%C3%A1l/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diplomantky.cz/en/sewer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://diplomantky.cz/kan%C3%A1l/"
                 />
   </url>
   
