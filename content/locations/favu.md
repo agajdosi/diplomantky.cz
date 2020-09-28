@@ -14,5 +14,5 @@ opening: "26.09.2020 16:00"
 duration: "30.09-30.10.2020"
 hours: "st 14 – 20 h"
 map: "https://mapy.cz/zakladni?x=16.5922723&y=49.1981075&z=18&source=addr&id=8899132"
-address: "Údolní 53, Brno - Stránice"
+address: "FaVU - at. Sochařství 2, Údolní 53, Brno - Stránice"
 ---

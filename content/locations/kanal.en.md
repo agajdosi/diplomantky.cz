@@ -14,7 +14,8 @@ duration: "2.10.2020"
 hours: "Opening day only"
 map: ""
 #map: "https://en.mapy.cz/zakladni?x=16.6755548&y=49.1756518&z=17&source=coor&id=16.675404629967574%2C49.17613221437531"
-address: "Tuřanka, Brno - Slatina"
+#address: "Tuřanka, Brno - Slatina"
+address: "Brno"
 
 #Location: Tuřanka, Brno - Slatina. For the exact location click on the map.
 

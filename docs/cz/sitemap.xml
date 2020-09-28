@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://diplomantky.cz/koncepce/</loc>
+    <lastmod>2020-09-27T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diplomantky.cz/en/conception/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://diplomantky.cz/koncepce/"
+                />
+  </url>
+  
+  <url>
     <loc>https://diplomantky.cz/favu/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -224,36 +239,6 @@
                 rel="alternate"
                 hreflang="cz"
                 href="https://diplomantky.cz/programme/zahradka-verni/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://diplomantky.cz/programme/klubovna-verni/</loc>
-    <lastmod>2020-09-27T15:02:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diplomantky.cz/en/programme/klubovna-verni/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cz"
-                href="https://diplomantky.cz/programme/klubovna-verni/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://diplomantky.cz/programme/kaznice-verni/</loc>
-    <lastmod>2020-09-27T15:02:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diplomantky.cz/en/programme/kaznice-verni/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cz"
-                href="https://diplomantky.cz/programme/kaznice-verni/"
                 />
   </url>
   
