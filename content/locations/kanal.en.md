@@ -17,15 +17,4 @@ address: "Tuřanka, Brno - Slatina"
 
 ---
 
-Location: Tuřanka, Brno - Slatina. For the exact location click on the map.
-
-### How to get there:
-
-Bus stop Ericha Roučky
-- Bus 77, 75, E75, E50, N89 (noční)
-
-Bus stop Brněnky
-- Trolley 31
-
-Bus stop Pod Tuřankou:
-- Bus 75, 73
+Canal is over. But you can still visit other locations. They are open till 30.10.2020.

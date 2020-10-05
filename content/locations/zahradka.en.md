@@ -14,3 +14,5 @@ hours: "Wed, Fri, Sat 2 – 8 pm"
 map: "https://en.mapy.cz/zakladni?x=16.5664211&y=49.1995117&z=19&source=coor&id=16.56627895619667%2C49.199677283539614"
 address: "bus stop Pod Jurankou, Brno - Jundrov"
 ---
+
+From bus stop Pod Jurankou please call Michal Mitro [+421 949 208 926](tel:421949208926) and the artist will get you there!
