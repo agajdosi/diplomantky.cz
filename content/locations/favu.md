@@ -16,3 +16,6 @@ hours: "st 14 – 20 h"
 map: "https://mapy.cz/zakladni?x=16.5922723&y=49.1981075&z=18&source=addr&id=8899132"
 address: "FaVU - at. Sochařství 2, Údolní 53, Brno - Stránice"
 ---
+
+Po příchodu na FaVU, prosím, volejte [+420 774 690 089](tel:420774690089) pro příchod kustoda.
+Mimo středu pouze po předchozí telefonické domluvě.
