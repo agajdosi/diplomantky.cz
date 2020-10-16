@@ -13,9 +13,4 @@ aliases : [
 ---
 
 ## COVID-19 alert
-On arrival you will be asked to give your name and contact.
-Entry to the enclosed spaces will be allowed in smaller groups and only with mouth and nose protection.
-Please, bring your own refreshments and do not share these with others.
-Bottled beer and soft drinks will be available at each location.
-Consider using mouth and nose protection in the open-air spaces as well.
-Refrain from contact with people outside your closest circle and observe the safe distances.
+Due to exponential growth of the COVID-19 disease in czech population the exhibition has been finished.
