@@ -14,3 +14,5 @@ hours: "Tue, Fri, Sat 2 – 8 pm"
 map: "https://en.mapy.cz/zakladni?x=16.6179044&y=49.2018713&z=19&source=addr&id=8901237"
 address: "Francouzská 33, Brno - Zábrdovice"
 ---
+
+The exhibition is over due to COVID-19.

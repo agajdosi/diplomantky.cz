@@ -14,3 +14,5 @@ hours: "út, pá, so 14 – 20 h"
 map: "https://mapy.cz/zakladni?x=16.6179044&y=49.2018713&z=19&source=addr&id=8901237"
 address: "Francouzská 33, Brno - Zábrdovice"
 ---
+
+Výstava byla ukončena z důvodu pandemie COVID-19.

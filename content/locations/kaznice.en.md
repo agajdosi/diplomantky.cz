@@ -14,3 +14,5 @@ hours: "Tue, Fri, Sat 2 – 8 pm"
 map: "https://en.mapy.cz/zakladni?x=16.6224039&y=49.1996582&z=19&source=coor&id=16.622497767502523%2C49.19984485069221"
 address: "Bratislavská 68, Brno - Zábrdovice"
 ---
+
+The exhibition is over due to COVID-19.

@@ -8,27 +8,9 @@
     {{ .Title }}
   </h1>
 
-  <div class="info">
-    <div>
-      {{ T "duration" }}: {{ .Params.Duration}}
-    </div>
-    <div>
-      {{ T "hours" }}: {{ .Params.Hours }}
-    </div>
-    <div>
-      {{ T "opening" }}: {{ .Params.Opening }}
-    </div>
-  </div>
-
   <div class="warning">
     {{ .Content }}
   </div>
-
-  <h2>
-    {{ with .GetPage "programme"}}
-      <a href="{{ .Permalink }}">{{ T "programme" }}</a>
-    {{ end }}
-  </h2>
   
   <a href="{{ .Params.map }}">
     <figure>
@@ -41,10 +23,5 @@
       <a href="{{ .Permalink }}"> {{ .Title }} </a>
     </h2>
   {{ end }}
-
-  <p class="warning">
-    <b>{{ T "covid-warning" }}</b>
-    {{ T "covid" }}
-  </p>
 
 {{ end }}

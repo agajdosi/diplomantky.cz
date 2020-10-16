@@ -15,7 +15,4 @@ map: ""
 address: "Tuřanka, Brno - Slatina"
 ---
 
-Kanál je už bohužel za námi. Můžete se ale stavit na některou z jiných lokalit, které jsou v provozu až do 30.10.2020.
-
-
-
+Výstava byla ukončena z důvodu pandemie COVID-19.

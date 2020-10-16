@@ -17,4 +17,4 @@ address: "Tuřanka, Brno - Slatina"
 
 ---
 
-Canal is over. But you can still visit other locations. They are open till 30.10.2020.
+The exhibition is over due to COVID-19.

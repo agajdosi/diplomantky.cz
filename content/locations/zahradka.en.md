@@ -15,4 +15,4 @@ map: "https://en.mapy.cz/zakladni?x=16.5664211&y=49.1995117&z=19&source=coor&id=
 address: "bus stop Pod Jurankou, Brno - Jundrov"
 ---
 
-From bus stop Pod Jurankou please call Michal Mitro [+421 949 208 926](tel:421949208926) and the artist will get you there!
+The exhibition is over due to COVID-19.

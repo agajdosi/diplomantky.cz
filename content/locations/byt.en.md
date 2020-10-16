@@ -14,3 +14,5 @@ hours: "Tue, Fri, Sat 14.00 - 20.00"
 map: "https://en.mapy.cz/zakladni?x=16.6068876&y=49.1942815&z=19&source=addr&id=8896610"
 address: "Veselá 2, Brno - city centre"
 ---
+
+The exhibition is over due to COVID-19.

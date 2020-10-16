@@ -17,3 +17,5 @@ hours: "út – ne 10 – 18 h"
 map: "https://mapy.cz/zakladni?x=16.6066325&y=49.1929030&z=19&source=coor&id=16.606699585914583%2C49.19299500063662"
 address: "Dominikánská 9, Brno - Střed"
 ---
+
+Výstava byla ukončena z důvodu pandemie COVID-19.

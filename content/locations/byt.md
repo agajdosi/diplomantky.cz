@@ -15,3 +15,5 @@ hours: "út, pá, so 14:00 – 20:00"
 map: "https://mapy.cz/zakladni?x=16.6068876&y=49.1942815&z=19&source=addr&id=8896610"
 address: "Veselá 2, Brno - Střed"
 ---
+
+Výstava byla ukončena z důvodu pandemie COVID-19.
