@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://diplomantky.cz/en/conception/</loc>
-    <lastmod>2020-09-27T15:02:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cz"
-                href="https://diplomantky.cz/koncepce/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diplomantky.cz/en/conception/"
-                />
-  </url>
-  
-  <url>
     <loc>https://diplomantky.cz/en/sewer/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -33,6 +18,21 @@
   </url>
   
   <url>
+    <loc>https://diplomantky.cz/en/exhibition/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://diplomantky.cz/vystava/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diplomantky.cz/en/exhibition/"
+                />
+  </url>
+  
+  <url>
     <loc>https://diplomantky.cz/en/faculty-of-fine-arts/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -44,21 +44,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://diplomantky.cz/en/faculty-of-fine-arts/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://diplomantky.cz/en/locations/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cz"
-                href="https://diplomantky.cz/lokace/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diplomantky.cz/en/locations/"
                 />
   </url>
   

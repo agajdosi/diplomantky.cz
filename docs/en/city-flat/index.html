@@ -29,6 +29,8 @@
 
   <link rel="icon" href="https://www.favu.vut.cz/images/layout_favu_new//favicon/ostra.ico" type="image/x-icon">
   <link rel="shortcut icon" href="https://www.favu.vut.cz/images/layout_favu_new//favicon/ostra.ico" type="image/x-icon">
+<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.css">
+<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
 </head>
 
 <body>
@@ -38,7 +40,7 @@
     </a>
   
 
-  <a class="back" href="https://diplomantky.cz/en/locations/">
+  <a class="back" href="https://diplomantky.cz/en/exhibition/">
     &lt; back
   </a> 
 
@@ -54,11 +56,79 @@
 
   </div>
   
-  <a href="https://en.mapy.cz/zakladni?x=16.6068876&amp;y=49.1942815&amp;z=19&amp;source=addr&amp;id=8896610">
-    <figure>
-      <img src="/locations/byt.png">
-    </figure>
-  </a>
+  <div class="swiper-container">
+    
+    <div class="swiper-wrapper">
+      
+      
+      
+        <div class="swiper-slide">
+          <figure>
+            <img src="/locations/byt/1.jpg" alt="">
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      
+        <div class="swiper-slide">
+          <figure>
+            <img src="/locations/byt/2.jpg" alt="">
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      
+        <div class="swiper-slide">
+          <figure>
+            <img src="/locations/byt/3.jpg" alt="">
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      
+        <div class="swiper-slide">
+          <figure>
+            <img src="/locations/byt/4.jpg" alt="">
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      
+        <div class="swiper-slide">
+          <figure>
+            <img src="/locations/byt/5.jpg" alt="">
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      
+        <div class="swiper-slide">
+          <figure>
+            <img src="/locations/byt/6.jpg" alt="">
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      
+        <div class="swiper-slide">
+          <figure>
+            <img src="/locations/byt/7.jpg" alt="">
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      
+        <div class="swiper-slide">
+          <figure>
+            <img src="/locations/byt/8.jpg" alt="">
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      
+  </div>
+    
+    
+
+    
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+
+    
+    
+</div>
 
   
     <h2>
@@ -87,6 +157,8 @@
   
 
 
+
+
   </div>
 
   <footer>
@@ -96,4 +168,29 @@
   </footer>
 
 </body>
+  <script src="https://unpkg.com/swiper/swiper-bundle.js"></script>
+  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+  <script>
+    var mySwiper = new Swiper('.swiper-container', {
+      
+      
+      loop: true,
+    
+      
+      pagination: {
+        el: '.swiper-pagination',
+      },
+    
+      
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+    
+      
+      
+      
+      
+    })
+  </script>
 </html>

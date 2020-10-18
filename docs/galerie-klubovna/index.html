@@ -29,6 +29,8 @@
 
   <link rel="icon" href="https://www.favu.vut.cz/images/layout_favu_new//favicon/ostra.ico" type="image/x-icon">
   <link rel="shortcut icon" href="https://www.favu.vut.cz/images/layout_favu_new//favicon/ostra.ico" type="image/x-icon">
+<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.css">
+<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
 </head>
 
 <body>
@@ -38,7 +40,7 @@
     </a>
   
 
-  <a class="back" href="https://diplomantky.cz/lokace/">
+  <a class="back" href="https://diplomantky.cz/vystava/">
     &lt; zpět
   </a> 
 
@@ -54,17 +56,80 @@
 
   </div>
   
-  <a href="https://mapy.cz/zakladni?x=16.6179044&amp;y=49.2018713&amp;z=19&amp;source=addr&amp;id=8901237">
-    <figure>
-      <img src="/locations/klubovna.png">
-    </figure>
-  </a>
+  <div class="swiper-container">
+    
+    <div class="swiper-wrapper">
+      
+      
+      
+        <div class="swiper-slide">
+          <figure>
+            <img src="/locations/klubovna/1.jpg" alt="">
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      
+        <div class="swiper-slide">
+          <figure>
+            <img src="/locations/klubovna/2.jpg" alt="">
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      
+        <div class="swiper-slide">
+          <figure>
+            <img src="/locations/klubovna/3.jpg" alt="">
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      
+        <div class="swiper-slide">
+          <figure>
+            <img src="/locations/klubovna/4.jpg" alt="">
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      
+        <div class="swiper-slide">
+          <figure>
+            <img src="/locations/klubovna/5.jpg" alt="">
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      
+        <div class="swiper-slide">
+          <figure>
+            <img src="/locations/klubovna/6.jpg" alt="">
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      
+        <div class="swiper-slide">
+          <figure>
+            <img src="/locations/klubovna/7.jpg" alt="">
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      
+  </div>
+    
+    
+
+    
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+
+    
+    
+</div>
 
   
     <h2>
       <a href="https://diplomantky.cz/ilona-hovezakova/"> Ilona Hověžáková </a>
     </h2>
   
+
+
 
 
   </div>
@@ -76,4 +141,29 @@
   </footer>
 
 </body>
+  <script src="https://unpkg.com/swiper/swiper-bundle.js"></script>
+  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+  <script>
+    var mySwiper = new Swiper('.swiper-container', {
+      
+      
+      loop: true,
+    
+      
+      pagination: {
+        el: '.swiper-pagination',
+      },
+    
+      
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+    
+      
+      
+      
+      
+    })
+  </script>
 </html>

@@ -29,6 +29,8 @@
 
   <link rel="icon" href="https://www.favu.vut.cz/images/layout_favu_new//favicon/ostra.ico" type="image/x-icon">
   <link rel="shortcut icon" href="https://www.favu.vut.cz/images/layout_favu_new//favicon/ostra.ico" type="image/x-icon">
+<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.css">
+<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
 </head>
 
 <body>
@@ -38,7 +40,7 @@
     </a>
   
 
-  <a class="back" href="https://diplomantky.cz/lokace/">
+  <a class="back" href="https://diplomantky.cz/vystava/">
     &lt; zpět
   </a> 
 
@@ -54,11 +56,86 @@
 
   </div>
   
-  <a href="">
-    <figure>
-      <img src="/locations/kanal.png">
-    </figure>
-  </a>
+  <div class="swiper-container">
+    
+    <div class="swiper-wrapper">
+      
+      
+      
+        <div class="swiper-slide">
+          <figure>
+            <img src="/locations/kanal/1.jpg" alt="">
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      
+        <div class="swiper-slide">
+          <figure>
+            <img src="/locations/kanal/2.jpg" alt="">
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      
+        <div class="swiper-slide">
+          <figure>
+            <img src="/locations/kanal/3.jpg" alt="">
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      
+        <div class="swiper-slide">
+          <figure>
+            <img src="/locations/kanal/4.jpg" alt="">
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      
+        <div class="swiper-slide">
+          <figure>
+            <img src="/locations/kanal/5.jpg" alt="">
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      
+        <div class="swiper-slide">
+          <figure>
+            <img src="/locations/kanal/6.jpg" alt="">
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      
+        <div class="swiper-slide">
+          <figure>
+            <img src="/locations/kanal/7.jpg" alt="">
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      
+        <div class="swiper-slide">
+          <figure>
+            <img src="/locations/kanal/8.jpg" alt="">
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      
+        <div class="swiper-slide">
+          <figure>
+            <img src="/locations/kanal/9.jpg" alt="">
+            <figcaption></figcaption>
+          </figure>
+        </div>
+      
+  </div>
+    
+    
+
+    
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+
+    
+    
+</div>
 
   
     <h2>
@@ -79,6 +156,8 @@
   
 
 
+
+
   </div>
 
   <footer>
@@ -88,4 +167,29 @@
   </footer>
 
 </body>
+  <script src="https://unpkg.com/swiper/swiper-bundle.js"></script>
+  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+  <script>
+    var mySwiper = new Swiper('.swiper-container', {
+      
+      
+      loop: true,
+    
+      
+      pagination: {
+        el: '.swiper-pagination',
+      },
+    
+      
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+    
+      
+      
+      
+      
+    })
+  </script>
 </html>
