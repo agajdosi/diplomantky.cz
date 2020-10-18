@@ -9,6 +9,12 @@ aliases : [
 ]
 weight: "3"
 
+images: [
+    ["favu.png", "blablabla"],
+    ["byt.png", "blebleble"],
+    ["zahradka.png", "blublublu"]
+]
+
 opening: "26.09. 18:00"
 duration: "30.09 - 30.10."
 hours: "út, pá, so 14:00 – 20:00"

@@ -10,6 +10,12 @@ aliases : [
 ]
 weight: "2"
 
+images: [
+    ["favu.png", "blablabla"],
+    ["byt.png", "blebleble"],
+    ["zahradka.png", "blublublu"]
+]
+
 opening: "26.09.2020 16:00"
 duration: "30.09-30.10.2020"
 hours: "st 14 – 20 h"

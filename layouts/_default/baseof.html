@@ -29,6 +29,9 @@
 
   <link rel="icon" href="https://www.favu.vut.cz/images/layout_favu_new//favicon/ostra.ico" type="image/x-icon">
   <link rel="shortcut icon" href="https://www.favu.vut.cz/images/layout_favu_new//favicon/ostra.ico" type="image/x-icon">
+
+  {{- block `carousel-lib` . -}}{{- end -}}
+
 </head>
 
 <body>
@@ -53,4 +56,7 @@
   </footer>
 
 </body>
+
+{{- block `carousel-script` . -}}{{- end -}}
+
 </html>

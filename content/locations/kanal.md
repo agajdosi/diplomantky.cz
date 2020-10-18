@@ -8,6 +8,12 @@ aliases : [
 ]
 weight: "10"
 
+images: [
+    ["favu.png", "blablabla"],
+    ["byt.png", "blebleble"],
+    ["zahradka.png", "blublublu"]
+]
+
 opening: "2.10.2020 19:00"
 duration: "pouze 2.10.2020"
 hours: "Pouze vernisáž"
