@@ -1,5 +1,5 @@
 
-{{- define "pageimage" -}}{{ $ogImage := path.Join `/locations` .Page.File.TranslationBaseName}}{{absURL $ogImage}}.png{{- end -}}
+{{- define "pageimage" -}}{{ $ogImage := path.Join `/locations` .Page.File.TranslationBaseName}}{{absURL $ogImage}}/1.jpg{{- end -}}
 {{ define "pagetitle"}} {{.Title}} - {{ T "locationOfExhibition" }} @ {{.Page.Params.address}} {{end}}
 
 {{ define "content"}}
