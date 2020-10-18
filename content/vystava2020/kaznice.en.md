@@ -9,9 +9,10 @@ aliases : [
 weight: "5"
 
 images: [
-    ["favu.png", "blablabla"],
-    ["byt.png", "blebleble"],
-    ["zahradka.png", "blublublu"]
+    ["1.jpg", ""],
+    ["2.jpg", ""],
+    ["3.jpg", ""],
+    ["4.jpg", ""]
 ]
 
 opening: "27.09.2020 19:00"

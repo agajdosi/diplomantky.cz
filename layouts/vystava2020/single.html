@@ -16,10 +16,11 @@
     <!-- Additional required wrapper -->
     <div class="swiper-wrapper">
       <!-- Slides -->
+      {{ $file := .Page.File.TranslationBaseName }}
       {{ range .Params.images }}
         <div class="swiper-slide">
           <figure>
-            <img src="/locations/{{ index . 0 }}" alt="{{ index . 1 }}">
+            <img src="/locations/{{$file}}/{{ index . 0 }}" alt="{{ index . 1 }}">
             <figcaption>{{ index . 1 }}</figcaption>
           </figure>
         </div>
