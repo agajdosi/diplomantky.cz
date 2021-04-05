@@ -20,6 +20,7 @@ Bio, artist statement, případně jej dále doplnit o seznam výstav, či absol
 
 Celý tento dokument ja potřeba psát jako prostý text (běžně přípona .txt, v tomto případě .md jako markdown).
 Soubor je ideální editovat v jednoduchém editoru jako nepříklad poznámkový blok, textedit atd.
+Nejjednodušší způsob je otevřít soubor přímo v Google Disku v aplikaci třetí strany nazvané "Text Editor", při uložení v aplikaci se text automaticky uloží i na Google Disk...
 Ideálně tento soubor neupravovat v složitějších editorech jako MS Office, Open Office, nebo podobné, které umožňují formátování.
 Tento text musí být bez formátování, slouží jako "noty" pro vytvoření HTML souboru.
 

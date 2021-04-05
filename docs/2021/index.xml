@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2021s on Diplomantky.cz</title>
+    <title>Seznam vystavujících diplomantek FaVU 2021 on Diplomantky.cz</title>
     <link>https://diplomantky.cz/2021/</link>
-    <description>Recent content in 2021s on Diplomantky.cz</description>
+    <description>Recent content in Seznam vystavujících diplomantek FaVU 2021 on Diplomantky.cz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cz</language>
-    <lastBuildDate>Mon, 17 Aug 2020 15:02:56 +0200</lastBuildDate><atom:link href="https://diplomantky.cz/2021/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Feb 2021 16:02:56 +0200</lastBuildDate><atom:link href="https://diplomantky.cz/2021/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Marek Andrýsek</title>
-      <link>https://diplomantky.cz/marek-andrysek/</link>
+      <title>Jméno Příjmení</title>
+      <link>https://diplomantky.cz/portfolio-ukazka/</link>
       <pubDate>Mon, 17 Aug 2020 15:02:56 +0200</pubDate>
       
-      <guid>https://diplomantky.cz/marek-andrysek/</guid>
-      <description>Ve své tvorbě propojuji aspekty technologie a řemeslné dovednosti s intuitivním přístupem k estetické stránce díla. Znalost a způsob použití zvolené technologie vytváří předem definované pole pro působení estetiky a toto působení si zpětně klade nároky na přizpůsobení technologie svým potřebám. Typickou formou díla je prostorová instalace zahrnující zvuk a video. Často používaným prvkem v mé tvorbě je interaktivní forma obsahu, díky kterému může divák průběh díla ovlivňovat. Kombinace nároků na přizpůsobitelnost technologie a interaktivitu díla vedla k odklonu mé tvorby do diskurzu počítačových her se zachováním kontinuity s předešlými zkušenostmi.</description>
+      <guid>https://diplomantky.cz/portfolio-ukazka/</guid>
+      <description>Zde můžeme přidat nějaký text o sobě. Bio, artist statement, případně jej dále doplnit o seznam výstav, či absolvovaných stážích a studiích, jak budeme chtít.
+Celý tento dokument ja potřeba psát jako prostý text (běžně přípona .txt, v tomto případě .md jako markdown). Soubor je ideální editovat v jednoduchém editoru jako nepříklad poznámkový blok, textedit atd. Nejjednodušší způsob je otevřít soubor přímo v Google Disku v aplikaci třetí strany nazvané &amp;ldquo;Text Editor&amp;rdquo;, při uložení v aplikaci se text automaticky uloží i na Google Disk&amp;hellip; Ideálně tento soubor neupravovat v složitějších editorech jako MS Office, Open Office, nebo podobné, které umožňují formátování.</description>
     </item>
     
   </channel>

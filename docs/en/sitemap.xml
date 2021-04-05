@@ -63,6 +63,21 @@
   </url>
   
   <url>
+    <loc>https://diplomantky.cz/en/2021/</loc>
+    <lastmod>2021-02-17T16:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://diplomantky.cz/2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diplomantky.cz/en/2021/"
+                />
+  </url>
+  
+  <url>
     <loc>https://diplomantky.cz/en/2020/</loc>
     <lastmod>2020-08-17T16:02:56+02:00</lastmod>
     <xhtml:link
@@ -134,21 +149,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://diplomantky.cz/en/the-house-of-the-lords-of-kunstat/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://diplomantky.cz/en/2021/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cz"
-                href="https://diplomantky.cz/2021/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diplomantky.cz/en/2021/"
                 />
   </url>
   
@@ -359,21 +359,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://diplomantky.cz/en/lucia-sadecka/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://diplomantky.cz/en/marek-andrysek/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cz"
-                href="https://diplomantky.cz/marek-andrysek/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diplomantky.cz/en/marek-andrysek/"
                 />
   </url>
   
