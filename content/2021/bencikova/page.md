@@ -1,59 +1,43 @@
 ---
 title: "Barbora Benčíková"
 date: 2020-08-17T15:02:56+02:00
-description: "Toto je ukázkový profil diplomantky."
-draft: true
+description: "Diplomová práce se týká mého životního projektu ZaBřehem a mé aktivity v tomto projektu, která má charakter spolupráce, organizace, DIY, bytového designu, webdesignu, malířství, řemesla a časem i kulturní organizace až kurátorství."
+draft: false
 url: "barbora-bencikova"
 
 name: "Barbora"
 surname: "Benčíková"
-artwork: "Moje umělecké dílo"
-medium: "Všechna média světa"
-dimensions: "10x10cm"
+artwork: "ZaBřehem"
+medium: "site specific instalace"
+dimensions: "-"
 year: "2021"
 study: "mga"
 # Zde jsou uvedená metadata, která se přímo nezobrazují, ale slouží při generování webu - tagů pro Facebook a Twitter, atd.
 ---
 
-Zde můžeme přidat nějaký text o sobě.
-Bio, artist statement, případně jej dále doplnit o seznam výstav, či absolvovaných stážích a studiích, jak budeme chtít.
+\* 1993, Zlín  
+email: bencikova.b@gmail.com
 
-Celý tento dokument ja potřeba psát jako prostý text (běžně přípona .txt, v tomto případě .md jako markdown).
-Soubor je ideální editovat v jednoduchém editoru jako nepříklad poznámkový blok, textedit atd.
-Nejjednodušší způsob je otevřít soubor přímo v Google Disku v aplikaci třetí strany nazvané "Text Editor", při uložení v aplikaci se text automaticky uloží i na Google Disk...
-Ideálně tento soubor neupravovat v složitějších editorech jako MS Office, Open Office, nebo podobné, které umožňují formátování.
-Tento text musí být bez formátování, slouží jako "noty" pro vytvoření HTML souboru.
-
-Můžeme přidat odkazy, například na vlastní online portfolio: [moje online portfolio](http://hernimedia.ffa.vutbr.cz/studentstvo/marek-andrysek/).
-
-Nový odstavec můžeme vytvořit pomocí jednoho prázdného řádku.
-Nadpis pro podsekci, například právě studia, vytvoříme pomocí tří křížků a za nimi následujícího nadpisu podsekce:
+### Stáže
+* Studio performance, Przemysław Kwiek
+* Dream World Performance Art in Berlin, Germany
+* ACUD Theatre, Berlin, Germany
 
 ### Studium
-* 2010-2014 Gymnázium LS Zlín
-* 2014–2018 FaVU - AVI
-* 2018-2021 FaVU - AIN, ATD
+* 2020–2021 Fakulta výtvarných umění VUT v Brně, Ateliér tělového designu – Lenka Klodová (magisterské studium)
+* 2019–2020 Fakulta výtvarných umění VUT v Brně, Ateliér intermédií – Pavel Sterec (magisterské studium)
+* 2016 Accademia di belle arti di Brera Milano, Italy (Erasmus), Ateliér malby
+* 2014–2018 Fakulta výtvarných umění VUT v Brně, Ateliér videa (bakalářské studium)
 
-Pomocí hvězdiček můžeme vytvářet odrážky.
 
-### Kontakty
+## ZaBřehem
+![](/2021/bencikova/1.jpg)
 
-telefon: 605 372 905  
-email: bencikova.b@gmail.com  
+Moje závěrečná diplomová práce se týká mého životního projektu ZaBřehem a mé aktivity v tomto projektu, která má charakter spolupráce, organizace, DIY, bytového designu, webdesignu, malířství, řemesla a časem i kulturní organizace až kurátorství.
+Proto jsem se v práci rozhodla projít několika složkami celého projektu, které mám na svědomí, a obstát tak v roli umělce při vzniku nového místa, jež má ambice změnit přístup k lidem s diagnostikovaným duševním onemocněním.
+Zároveň jsem se zaměřila na prostor konkrétně jedné z místností, jejíž uspořádání pokládám za své autorské dílo stejně jako způsob přenosu tohoto prostoru do prostor školy k obhajobě, díky čemuž vznikne další místně specifická instalace. 
 
-(Aby se telefon, email a odkaz nezobrazily na jednom řádku jako obyčejné věty, dali jsme na jejich konec dvě mezery.)
-
-## Název díla / diplomové práce
-
-![](/2021/bencikova/stena.jpg)
-
-Sekci věnující se dílu můžeme začít fotografií díla, způsob vložení vidíme o dva řádky výše.
-Zde můžeme umístit popis diplomové práce / uměleckého díla.
-Je možné návštěvnicím webu vysvětlit historii a koncept díla, výrobní postup atd.
-
-Při vkládání obrázků dejte pozor, aby cesta k obrázku byla správná:  
-2021/vase-prijmeni/nazev-obrazku.jpg
-
-![Popisek fotografie](/2021/prijmeni/2.jpg)
-![](/2021/prijmeni/3.jpg)
-![](/2021/prijmeni/4.jpg)
+![](/2021/bencikova/2.jpg)
+![](/2021/bencikova/3.jpg)
+![](/2021/bencikova/4.jpg)
+![](/2021/bencikova/5.jpg)
