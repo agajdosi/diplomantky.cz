@@ -1,59 +1,49 @@
 ---
-title: "Jméno Příjmení"
+title: "Kateřina Rafaelová"
 date: 2020-08-17T15:02:56+02:00
-description: "Toto je ukázkový profil diplomantky."
-draft: true
-url: "portfolio-ukazka"
+description: "Má diplomová práce s názvem As long as I don’t remember who is wearing trousers anymore sestává ze série velkoformátových maleb."
+draft: false
+url: "katerina-rafaelova"
 
-name: "Jméno"
-surname: "Příjmení"
-artwork: "Moje umělecké dílo"
-medium: "Všechna média světa"
-dimensions: "10x10cm"
+name: "Kateřina"
+surname: "Rafaelová"
+artwork: "As long as I don’t remember who is wearing trousers anymore "
+medium: "malba"
+dimensions: "-"
 year: "2021"
 study: "mga"
 # Zde jsou uvedená metadata, která se přímo nezobrazují, ale slouží při generování webu - tagů pro Facebook a Twitter, atd.
 ---
 
-Zde můžeme přidat nějaký text o sobě.
-Bio, artist statement, případně jej dále doplnit o seznam výstav, či absolvovaných stážích a studiích, jak budeme chtít.
+\* 1994, Brno  
+mail: katka.rafaelova@gmail.com  
+instagram: [@katerinarafaelova](https://www.instagram.com/katerinarafaelova/)
 
-Celý tento dokument ja potřeba psát jako prostý text (běžně přípona .txt, v tomto případě .md jako markdown).
-Soubor je ideální editovat v jednoduchém editoru jako nepříklad poznámkový blok, textedit atd.
-Nejjednodušší způsob je otevřít soubor přímo v Google Disku v aplikaci třetí strany nazvané "Text Editor", při uložení v aplikaci se text automaticky uloží i na Google Disk...
-Ideálně tento soubor neupravovat v složitějších editorech jako MS Office, Open Office, nebo podobné, které umožňují formátování.
-Tento text musí být bez formátování, slouží jako "noty" pro vytvoření HTML souboru.
-
-Můžeme přidat odkazy, například na vlastní online portfolio: [moje online portfolio](http://hernimedia.ffa.vutbr.cz/studentstvo/marek-andrysek/).
-
-Nový odstavec můžeme vytvořit pomocí jednoho prázdného řádku.
-Nadpis pro podsekci, například právě studia, vytvoříme pomocí tří křížků a za nimi následujícího nadpisu podsekce:
+### Stáže
+* 2020 Fakulta výtvarných umění VUT v Brně, Ateliér hostujícího pedagoga – Karol Radziszewski
+* 2019 The Czech Centre Berlin, Germany
+* 2018 Faculty of Painting, Akademia Sztuk Pięknych w Warszawie, Warsaw, Poland
+* 2017 Faculty of Fine Arts, Universitate de Arte și Design, Cluj-Napoca, Romania, Painting Department
 
 ### Studium
-* 2010-2014 SŠ
-* 2014–2018 FaVU - AGD1
-* 2018-2021 FaVU - AM2
+* 2019–2021 Fakulta výtvarných umění VUT v Brně, Ateliér malířství 1
+* 2015–2018 Fakulta výtvarných umění VUT v Brně, Ateliér malířství 1
+* 2014–2015 Fakulta výtvarných umění VUT v Brně, Ateliér environmentu
 
-Pomocí hvězdiček můžeme vytvářet odrážky.
+## As long as I don’t remember who is wearing trousers anymore 
 
-### Kontakty
+![](/2021/rafaelova/1.jpg)
 
-telefon: 736 893 982  
-email: asdkajhsd@gmail.com  
+Má diplomová práce s názvem As long as I don’t remember who is wearing trousers anymore sestává ze série velkoformátových maleb.
+Ve své práci se zabývám figurální malbou zejména technikou pastelu a atmosférou.
+Skrze atmosféru obrazu ve své práci vytvářím prostor pro naraci a tajemno.
 
-(Aby se telefon, email a odkaz nezobrazily na jednom řádku jako obyčejné věty, dali jsme na jejich konec dvě mezery.)
+Zajímá mě atmosféra, která není časem ani světlem determinovaná.
+Není to ani noc a ani plné světlo dne.
+Je to atmosféra nad ránem nebo před nocí.
+Prostor, který není úplně vyjasněný, s měkkým polovičatým světlem.
+Atmosféra lesa, který důvěrně znám a cítím se v něm v bezpečí.
+Přesto to není můj les a vůbec ho neznám tak blízce, jak si romanticky tvrdím.
+V obrazech mě zajímá ambivalentní atmosféra a prostor.
 
-## Název díla / diplomové práce
-
-![](/2021/prijmeni/1.jpg)
-
-Sekci věnující se dílu můžeme začít fotografií díla, způsob vložení vidíme o dva řádky výše.
-Zde můžeme umístit popis diplomové práce / uměleckého díla.
-Je možné návštěvnicím webu vysvětlit historii a koncept díla, výrobní postup atd.
-
-Při vkládání obrázků dejte pozor, aby cesta k obrázku byla správná:  
-2021/vase-prijmeni/nazev-obrazku.jpg
-
-![Popisek fotografie](/2021/prijmeni/2.jpg)
-![](/2021/prijmeni/3.jpg)
-![](/2021/prijmeni/4.jpg)
+![](/2021/rafaelova/2.jpg)
