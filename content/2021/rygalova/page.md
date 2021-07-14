@@ -1,13 +1,13 @@
 ---
-title: "Jméno Příjmení"
+title: "Monika Rygálová"
 date: 2020-08-17T15:02:56+02:00
 description: "Toto je ukázkový profil diplomantky."
-draft: true
-url: "portfolio-ukazka"
+draft: false
+url: "monika-rygálová"
 
-name: "Jméno"
-surname: "Příjmení"
-artwork: "Moje umělecké dílo"
+name: "Monika"
+surname: "Rygálová"
+artwork: "Steal Me Your €motion"
 medium: "Všechna média světa"
 dimensions: "10x10cm"
 year: "2021"
@@ -15,45 +15,26 @@ study: "mga"
 # Zde jsou uvedená metadata, která se přímo nezobrazují, ale slouží při generování webu - tagů pro Facebook a Twitter, atd.
 ---
 
-Zde můžeme přidat nějaký text o sobě.
-Bio, artist statement, případně jej dále doplnit o seznam výstav, či absolvovaných stážích a studiích, jak budeme chtít.
+\* 1994, Kroměříž  
+mail: monika.rygalova@gmail.com  
+osobní portfolio: [animal.ffa.vutbr.cz/~xvrygalova/](http://animal.ffa.vutbr.cz/~xvrygalova/)  
+web skupiny: [lilky.wtf](https://lilky.wtf)  
 
-Celý tento dokument ja potřeba psát jako prostý text (běžně přípona .txt, v tomto případě .md jako markdown).
-Soubor je ideální editovat v jednoduchém editoru jako nepříklad poznámkový blok, textedit atd.
-Nejjednodušší způsob je otevřít soubor přímo v Google Disku v aplikaci třetí strany nazvané "Text Editor", při uložení v aplikaci se text automaticky uloží i na Google Disk...
-Ideálně tento soubor neupravovat v složitějších editorech jako MS Office, Open Office, nebo podobné, které umožňují formátování.
-Tento text musí být bez formátování, slouží jako "noty" pro vytvoření HTML souboru.
-
-Můžeme přidat odkazy, například na vlastní online portfolio: [moje online portfolio](http://hernimedia.ffa.vutbr.cz/studentstvo/marek-andrysek/).
-
-Nový odstavec můžeme vytvořit pomocí jednoho prázdného řádku.
-Nadpis pro podsekci, například právě studia, vytvoříme pomocí tří křížků a za nimi následujícího nadpisu podsekce:
+### Stáže
+* 2018–2019 Art Academy of Latvia, Department of visual communication – Jānis Murovskis, Līga Marcinkeviča
+* 2020 Ateliér hostující pedagožky, Virtual body politics – Sidsel Meineche Hansen
 
 ### Studium
-* 2010-2014 SŠ
-* 2014–2018 FaVU - AGD1
-* 2018-2021 FaVU - AM2
+* 2015–2021 Fakulta výtvarných umění VUT v Brně, Ateliér intermédií – Pavel Sterec
+* 2014–2015 Fakulta výtvarných umění VUT v Brně, Ateliér intermédií – Václav Stratil
 
-Pomocí hvězdiček můžeme vytvářet odrážky.
+## Steal Me Your €motion
 
-### Kontakty
+![](/2021/rygalova/1.jpg)
 
-telefon: 736 893 982  
-email: asdkajhsd@gmail.com  
+Ve své diplomové práci se zabývám vztahem strojového učení a emocionality.
+Do jaké míry je umělá inteligence schopná absolvovat emocionální vztahy a prožitky definované fyzikalitou a zkušeností lidského těla.
+Námětem práce je vytváření (fiktivní) nelidské entity, která se touží naučit od lidí co nejvíce tělesných úkonů, jež jí pomůžou infiltrovat se do lidského společenství.
 
-(Aby se telefon, email a odkaz nezobrazily na jednom řádku jako obyčejné věty, dali jsme na jejich konec dvě mezery.)
-
-## Název díla / diplomové práce
-
-![](/2021/prijmeni/1.jpg)
-
-Sekci věnující se dílu můžeme začít fotografií díla, způsob vložení vidíme o dva řádky výše.
-Zde můžeme umístit popis diplomové práce / uměleckého díla.
-Je možné návštěvnicím webu vysvětlit historii a koncept díla, výrobní postup atd.
-
-Při vkládání obrázků dejte pozor, aby cesta k obrázku byla správná:  
-2021/vase-prijmeni/nazev-obrazku.jpg
-
-![Popisek fotografie](/2021/prijmeni/2.jpg)
-![](/2021/prijmeni/3.jpg)
-![](/2021/prijmeni/4.jpg)
+![](/2021/rygalova/2.jpg)
+![](/2021/rygalova/3.jpg)
