@@ -1,59 +1,45 @@
 ---
-title: "Jméno Příjmení"
+title: "Natálie Bálková"
 date: 2020-08-17T15:02:56+02:00
-description: "Toto je ukázkový profil diplomantky."
-draft: true
-url: "portfolio-ukazka"
+description: "V diplomové práci se zaměřuji na možná půdorysná řešení obytného přívěsu.
+V této souvislosti se zabývám také různými způsoby jeho obývání a užívání."
+draft: false
+url: "natalie-balkova"
 
-name: "Jméno"
-surname: "Příjmení"
-artwork: "Moje umělecké dílo"
-medium: "Všechna média světa"
-dimensions: "10x10cm"
+name: "Natálie"
+surname: "Bálková"
+artwork: "Obytný přívěs"
+medium: "produktový design"
+dimensions: "-"
 year: "2021"
 study: "mga"
 # Zde jsou uvedená metadata, která se přímo nezobrazují, ale slouží při generování webu - tagů pro Facebook a Twitter, atd.
 ---
 
-Zde můžeme přidat nějaký text o sobě.
-Bio, artist statement, případně jej dále doplnit o seznam výstav, či absolvovaných stážích a studiích, jak budeme chtít.
+\* 1995, Opava  
+telefon: 774 280 195  
+mail: nataliebalkova@gmail.com
 
-Celý tento dokument ja potřeba psát jako prostý text (běžně přípona .txt, v tomto případě .md jako markdown).
-Soubor je ideální editovat v jednoduchém editoru jako nepříklad poznámkový blok, textedit atd.
-Nejjednodušší způsob je otevřít soubor přímo v Google Disku v aplikaci třetí strany nazvané "Text Editor", při uložení v aplikaci se text automaticky uloží i na Google Disk...
-Ideálně tento soubor neupravovat v složitějších editorech jako MS Office, Open Office, nebo podobné, které umožňují formátování.
-Tento text musí být bez formátování, slouží jako "noty" pro vytvoření HTML souboru.
-
-Můžeme přidat odkazy, například na vlastní online portfolio: [moje online portfolio](http://hernimedia.ffa.vutbr.cz/studentstvo/marek-andrysek/).
-
-Nový odstavec můžeme vytvořit pomocí jednoho prázdného řádku.
-Nadpis pro podsekci, například právě studia, vytvoříme pomocí tří křížků a za nimi následujícího nadpisu podsekce:
+### Stáže
+* od 2019 Společnost Cargo design pomocný konstruktér (navrhování karavanů od roku 2019)
+* 2018–2019 Interreg program: Interreg V-A Austria – Czech Republic – spolupráce mezi Moravskou galerií a Mak Museum Wien (návrh a výroba kontejneru ke vzdělávání dětí v Muzeu Josefa Hoffmanna v Brtnici)
+* 2016 Firma Zetor (přepracování pracovní konzole v interiéru traktoru Forterra), 1. semestr 2. ročníku
+* 2016 Studijní návrh městského mobiliáře pro město Šlapanice, 2. semestr 1. ročníku
 
 ### Studium
-* 2010-2014 SŠ
-* 2014–2018 FaVU - AGD1
-* 2018-2021 FaVU - AM2
+* 2019–2021 Fakulta výtvarných umění VUT v Brně, Ateliér produktového designu (magisterské studium)
+* 2015–2019 Fakulta výtvarných umění VUT v Brně, Ateliér produktového designu (bakalářské studium)
 
-Pomocí hvězdiček můžeme vytvářet odrážky.
+## Obytný přívěs
 
-### Kontakty
+![](/2021/balkova/1.jpg)
 
-telefon: 736 893 982  
-email: asdkajhsd@gmail.com  
+V diplomové práci se zaměřuji na možná půdorysná řešení obytného přívěsu.
+V této souvislosti se zabývám také různými způsoby jeho obývání a užívání.
+Mým záměrem je smysluplně propojit jeho obytné zóny – hygienickou, aktivní a klidovou určenou pro spánek –, a to tak, aby si vzájemně neodporovaly a aby byly pro uživatele co možná nejoptimálněji rozvrženy.
+Při pobytu v obytném přívěsu by se člověk neměl cítit nijak zásadně omezován a jeho vybavení by nemělo představovat překážku, nýbrž pomoc při využívání prostorově omezeného modulu.
+Současně se snažím nalézt a vyhodnotit potenciál malého prostoru při maximálně funkčním využití pro dlouhodobější pobyt.
 
-(Aby se telefon, email a odkaz nezobrazily na jednom řádku jako obyčejné věty, dali jsme na jejich konec dvě mezery.)
-
-## Název díla / diplomové práce
-
-![](/2021/prijmeni/1.jpg)
-
-Sekci věnující se dílu můžeme začít fotografií díla, způsob vložení vidíme o dva řádky výše.
-Zde můžeme umístit popis diplomové práce / uměleckého díla.
-Je možné návštěvnicím webu vysvětlit historii a koncept díla, výrobní postup atd.
-
-Při vkládání obrázků dejte pozor, aby cesta k obrázku byla správná:  
-2021/vase-prijmeni/nazev-obrazku.jpg
-
-![Popisek fotografie](/2021/prijmeni/2.jpg)
-![](/2021/prijmeni/3.jpg)
-![](/2021/prijmeni/4.jpg)
+![](/2021/balkova/2.jpg)
+![](/2021/balkova/3.jpg)
+![](/2021/balkova/4.jpg)
