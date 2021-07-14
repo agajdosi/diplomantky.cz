@@ -1,8 +1,8 @@
 ---
 title: "Jana Hrádková"
 date: 2020-08-17T15:02:56+02:00
-description: "Diplomová  práce Anthology of Unspoken je forma osobní  terapie, vyrovnávací  mechanismus v podobě rozsáhlého osobního výzkumu prezentovaného formou vizuálně eklektického webu, který mapuje vnímání
-deprese a melancholie v rámci historického, uměleckého a částečně tak vědeckého diskurzu."
+description: "Diplomová práce Anthology of Unspoken je forma osobní terapie, vyrovnávací mechanismus v podobě rozsáhlého osobního výzkumu prezentovaného formou vizuálně eklektického webu, který mapuje vnímání
+deprese a melancholie v rámci historického, uměleckého a částečně tak vědeckého diskurzu."
 draft: false
 url: "jana-hradkova"
 
@@ -34,11 +34,11 @@ email: janahrdkov@gmail.com
 
 ![](/2021/hradkova/1.jpg)
 
-Diplomová  práce Anthology of Unspoken je forma osobní  terapie, vyrovnávací  mechanismus v podobě rozsáhlého osobního výzkumu prezentovaného formou vizuálně eklektického webu, který mapuje vnímání
-deprese a melancholie v rámci historického, uměleckého a částečně tak vědeckého diskurzu.
-AoU má podobu webové stránky na pomezí archivu, a výzknnmé ho blogu vizu lně připom naj c  pozn mkový blok, využívající texty ve formě zápisků, “reader view” eseje a doprovodný obrazový
+Diplomová práce Anthology of Unspoken je forma osobní terapie, vyrovnávací mechanismus v podobě rozsáhlého osobního výzkumu prezentovaného formou vizuálně eklektického webu, který mapuje vnímání
+deprese a melancholie v rámci historického, uměleckého a částečně tak vědeckého diskurzu.
+AoU má podobu webové stránky na pomezí archivu, a výzkumného blogu vizuálně připomínající poznámkový blok, využívající texty ve formě zápisků, “reader view” eseje a doprovodný obrazový
 materiál (od dobových maleb, pop kulturních referencí, emotikon atd.)
-Hledám tak prostředky k artikulaci a (aspoň částečnému) porozumění vlastních problémů a zároveň také odpovědi na otázky: Je deprese opravdu moderní záležitost 21. století ?
+Hledám tak prostředky k artikulaci a (aspoň částečnému) porozumění vlastních problémů a zároveň také odpovědi na otázky: Je deprese opravdu moderní záležitost 21. století?
 A proč je tak těžké o ní mluvit?
 Kde se vzala hanba a pocit viny, s níž je neodmyslitelně spojena?
 Je melancholie synonymem deprese, nebo se od sebe tyto termíny
