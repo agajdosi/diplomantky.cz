@@ -1,59 +1,52 @@
 ---
-title: "Jméno Příjmení"
+title: "Judita Levitnerová"
 date: 2020-08-17T15:02:56+02:00
-description: "Toto je ukázkový profil diplomantky."
-draft: true
-url: "portfolio-ukazka"
+description: "Název diplomové práce Ruka v rukávu odkazuje k frázi označující úspěšnou dohodu mezi dvěma stranami. Výhodnost takové dohody však nemusí být oboustranná."
+draft: false
+url: "judita-levitnerova"
 
-name: "Jméno"
-surname: "Příjmení"
-artwork: "Moje umělecké dílo"
-medium: "Všechna média světa"
-dimensions: "10x10cm"
+name: "Judita"
+surname: "Levitnerová"
+artwork: "Ruka v rukávu"
+medium: "textil"
+dimensions: "-"
 year: "2021"
 study: "mga"
 # Zde jsou uvedená metadata, která se přímo nezobrazují, ale slouží při generování webu - tagů pro Facebook a Twitter, atd.
 ---
 
-Zde můžeme přidat nějaký text o sobě.
-Bio, artist statement, případně jej dále doplnit o seznam výstav, či absolvovaných stážích a studiích, jak budeme chtít.
+\* 1994, Opočno  
+email: levitnerova.judita@gmail.com
 
-Celý tento dokument ja potřeba psát jako prostý text (běžně přípona .txt, v tomto případě .md jako markdown).
-Soubor je ideální editovat v jednoduchém editoru jako nepříklad poznámkový blok, textedit atd.
-Nejjednodušší způsob je otevřít soubor přímo v Google Disku v aplikaci třetí strany nazvané "Text Editor", při uložení v aplikaci se text automaticky uloží i na Google Disk...
-Ideálně tento soubor neupravovat v složitějších editorech jako MS Office, Open Office, nebo podobné, které umožňují formátování.
-Tento text musí být bez formátování, slouží jako "noty" pro vytvoření HTML souboru.
-
-Můžeme přidat odkazy, například na vlastní online portfolio: [moje online portfolio](http://hernimedia.ffa.vutbr.cz/studentstvo/marek-andrysek/).
-
-Nový odstavec můžeme vytvořit pomocí jednoho prázdného řádku.
-Nadpis pro podsekci, například právě studia, vytvoříme pomocí tří křížků a za nimi následujícího nadpisu podsekce:
+### Stáže
+* 2020 Academy of Art Riga, Textile department
+* 2020 Studio of visiting artist – Karol Radziszewski
+* 2019 Fakulta výtvarných umění VUT v Brně, Ateliér intermédií – Pavel Sterec
+* 2018 Ateliér hostujícího profesora – Gregor Eldarb
+* 2017 Akademia Sztuk Pięknych w Warszawie – prof. Wojciech Zubala
 
 ### Studium
-* 2010-2014 SŠ
-* 2014–2018 FaVU - AGD1
-* 2018-2021 FaVU - AM2
+* 2019–2021 Fakulta výtvarných umění VUT v Brně, Ateliér intermédií – Pavel Sterec
+* 2018 Fakulta výtvarných umění VUT v Brně, Ateliér malby 2 – Luděk Rathouský
+* 2015–2018 Ostravská univerzita, Ateliér malby – Daniel Balabán
 
-Pomocí hvězdiček můžeme vytvářet odrážky.
+## Ruka v rukávu
 
-### Kontakty
+![](/2021/levitnerova/1.jpg)
 
-telefon: 736 893 982  
-email: asdkajhsd@gmail.com  
+Název diplomové práce Ruka v rukávu odkazuje k frázi označující úspěšnou dohodu mezi dvěma stranami.
+Výhodnost takové dohody však nemusí být oboustranná.
+Označuje bilanci úspěchu zúčastněných.
+V práci sleduji aspekt tělesnosti, distinkci fyzického těla a textilu, transformační charakter mezi užitým předmětem, oděvem a volným uměním.
+Odkaz na DIY kulturu, svépomocné šití a upcyklování slouží jako příklad disharmonie: juxtapozice nedostatku a přebytku.
 
-(Aby se telefon, email a odkaz nezobrazily na jednom řádku jako obyčejné věty, dali jsme na jejich konec dvě mezery.)
+Plastiková „výšivka“ v mé práci reprezentuje řadu selhání.
+Je pokusem zpochybnit vlastní zručnost i znovunalézání vztahu k tradičním řemeslným technikám.
+Pomocí pájky spékám polyesterovou tkaninu a snažím se při tom napodobit tradiční řemeslo výšivky.
+Využívám metodu „zkoušky ohněm“, při které se zjišťuje organický nebo syntetický původ textilního materiálu.
+Tento postup však využívám nad rámec testování k produkci díla samého.
+V [digitální reprezentaci mého textilního obrazu](https://yudex.xyz/) dávám možnost detailního zobrazení a nechávám tak pronikat pohled diváka až do samotné struktury díla.
 
-## Název díla / diplomové práce
+Dílo je dostupné online na: https://yudex.xyz/.
 
-![](/2021/prijmeni/1.jpg)
-
-Sekci věnující se dílu můžeme začít fotografií díla, způsob vložení vidíme o dva řádky výše.
-Zde můžeme umístit popis diplomové práce / uměleckého díla.
-Je možné návštěvnicím webu vysvětlit historii a koncept díla, výrobní postup atd.
-
-Při vkládání obrázků dejte pozor, aby cesta k obrázku byla správná:  
-2021/vase-prijmeni/nazev-obrazku.jpg
-
-![Popisek fotografie](/2021/prijmeni/2.jpg)
-![](/2021/prijmeni/3.jpg)
-![](/2021/prijmeni/4.jpg)
+![](/2021/levitnerova/2.jpg)
