@@ -37,7 +37,7 @@ email: filipkovalentyna@gmail.com
 
 Projekt vznikl s cílem sdílet podklady se studenty designu a designéry, kterým není lhostejné zacházení s materiálovými zdroji a kteří by se chtěli vydat novou odpovědnější cestou, ale neví, kde a jak začít. Výstupem je online platforma [consciousdesign.cz](https://consciousdesign.cz) skládající se z volně přístupné databáze inovativních materiálů, výzkumných textů, tematických odkazů a rozhovorů s designéry, materiálovými specialisty, vědci a technology. 
 
-![](/2021/filipkova/3.png)
+![](/2021/filipkova/3.jpg)
 
 Volba tématu diplomové práce vyplynula především ze zamýšlení se nad tím, jak správně a zodpovědně pracovat a fungovat v designérské praxi. Pojem „udržitelný“ se stal v posledních letech nadužívaným – možná až zneužívaným. Slovo „odpovědný“ pojem udržitelnosti obohacuje o kontext etiky, smysluplnosti procesů a obecné ohleduplnosti. 
 
