@@ -1,59 +1,44 @@
 ---
-title: "Jméno Příjmení"
+title: "Nikola Machačová"
 date: 2020-08-17T15:02:56+02:00
-description: "Toto je ukázkový profil diplomantky."
-draft: true
-url: "portfolio-ukazka"
+description: "Diplomová práce Podobnosti v latentnosti se zabývá konceptem latentnosti ve fotografii a jejím spojením s prostředím betonárny."
+draft: false
+url: "nikola-machacova"
 
-name: "Jméno"
-surname: "Příjmení"
-artwork: "Moje umělecké dílo"
-medium: "Všechna média světa"
-dimensions: "10x10cm"
+name: "Nikola"
+surname: "Machačová"
+artwork: "Podobnosti v latentnosti"
+medium: "mixed media"
+dimensions: "-"
 year: "2021"
 study: "mga"
 # Zde jsou uvedená metadata, která se přímo nezobrazují, ale slouží při generování webu - tagů pro Facebook a Twitter, atd.
 ---
 
-Zde můžeme přidat nějaký text o sobě.
-Bio, artist statement, případně jej dále doplnit o seznam výstav, či absolvovaných stážích a studiích, jak budeme chtít.
+\* 1994, Hranice  
+email: nikola.machacova@seznam.cz  
+portfolio: obyvakcreativestudio.com
 
-Celý tento dokument ja potřeba psát jako prostý text (běžně přípona .txt, v tomto případě .md jako markdown).
-Soubor je ideální editovat v jednoduchém editoru jako nepříklad poznámkový blok, textedit atd.
-Nejjednodušší způsob je otevřít soubor přímo v Google Disku v aplikaci třetí strany nazvané "Text Editor", při uložení v aplikaci se text automaticky uloží i na Google Disk...
-Ideálně tento soubor neupravovat v složitějších editorech jako MS Office, Open Office, nebo podobné, které umožňují formátování.
-Tento text musí být bez formátování, slouží jako "noty" pro vytvoření HTML souboru.
-
-Můžeme přidat odkazy, například na vlastní online portfolio: [moje online portfolio](http://hernimedia.ffa.vutbr.cz/studentstvo/marek-andrysek/).
-
-Nový odstavec můžeme vytvořit pomocí jednoho prázdného řádku.
-Nadpis pro podsekci, například právě studia, vytvoříme pomocí tří křížků a za nimi následujícího nadpisu podsekce:
+### Stáže
+* 2019 Lauren Baker Art, Londýn, Velká Británie
+* 2018 PBlok Creative studio, Istanbul, Turecko (postgraduální stáž)
 
 ### Studium
-* 2010-2014 SŠ
-* 2014–2018 FaVU - AGD1
-* 2018-2021 FaVU - AM2
+* 2019 Akdeniz University in Antalya, Department of Photography (studijní program Erasmus+)
+* 2018–2021 Fakulta výtvarných umění VUT v Brně, Intermédia a digitální umění, Ateliér fotografie (magisterské studium)
+* 2017 Mimar Sinan Fine Arts University in Istanbul, Department of Photography (studijní program Erasmus+)
+* 2016 University of West Bohemia, Art Camp pod vedením fotografa Miry Švolíka
+* 2014–2018 Univerzita Tomáše Bati ve Zlíně, Multimédia a design – reklamní fotografie (bakalářské studium)
 
-Pomocí hvězdiček můžeme vytvářet odrážky.
+## Podobnosti v latentnosti
 
-### Kontakty
+![](/2021/machacova/1.jpg)
 
-telefon: 736 893 982  
-email: asdkajhsd@gmail.com  
+Diplomová práce Podobnosti v latentnosti se zabývá konceptem latentnosti ve fotografii a jejím spojením s prostředím betonárny.
+Jedná se o soubor objektů tvořených ze zbytkových materiálů z procesu výroby betonových prefabrikátů, které jsou následně pohřbívány hluboko pod zemský povrch.
+Na artefakty z výroby jsou přenášeny fotografie pomocí historické techniky fotografie kyanotypie.
+Celý soubor zkoumá analogie dvou rozlišných procesů a propojuje je v jeden celek.
 
-(Aby se telefon, email a odkaz nezobrazily na jednom řádku jako obyčejné věty, dali jsme na jejich konec dvě mezery.)
-
-## Název díla / diplomové práce
-
-![](/2021/prijmeni/1.jpg)
-
-Sekci věnující se dílu můžeme začít fotografií díla, způsob vložení vidíme o dva řádky výše.
-Zde můžeme umístit popis diplomové práce / uměleckého díla.
-Je možné návštěvnicím webu vysvětlit historii a koncept díla, výrobní postup atd.
-
-Při vkládání obrázků dejte pozor, aby cesta k obrázku byla správná:  
-2021/vase-prijmeni/nazev-obrazku.jpg
-
-![Popisek fotografie](/2021/prijmeni/2.jpg)
-![](/2021/prijmeni/3.jpg)
-![](/2021/prijmeni/4.jpg)
+![](/2021/machacova/2.jpg)
+![](/2021/machacova/3.jpg)
+![](/2021/machacova/4.jpg)
