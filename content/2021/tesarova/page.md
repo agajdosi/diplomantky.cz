@@ -1,59 +1,52 @@
 ---
-title: "Jméno Příjmení"
+title: "Anna Tesařová"
 date: 2020-08-17T15:02:56+02:00
-description: "Toto je ukázkový profil diplomantky."
-draft: true
-url: "portfolio-ukazka"
+description: "Diplomová práce se zabývá tématy symboliky, tarotu a sdílení."
+draft: false
+url: "anna-tesarova"
 
-name: "Jméno"
-surname: "Příjmení"
-artwork: "Moje umělecké dílo"
-medium: "Všechna média světa"
-dimensions: "10x10cm"
+name: "Anna"
+surname: "Tesařová"
+artwork: "Rozložení přítomnosti / Laying Out of Presence"
+medium: "akce"
+dimensions: "série"
 year: "2021"
 study: "mga"
 # Zde jsou uvedená metadata, která se přímo nezobrazují, ale slouží při generování webu - tagů pro Facebook a Twitter, atd.
 ---
 
-Zde můžeme přidat nějaký text o sobě.
-Bio, artist statement, případně jej dále doplnit o seznam výstav, či absolvovaných stážích a studiích, jak budeme chtít.
+\* 1994, Prachatice  
+mail: avecalvariam@gmail.com  
+portfolio: [environment.ffa.vutbr.cz/cs/anna-tesarova](http://environment.ffa.vutbr.cz/cs/anna-tesarova)
 
-Celý tento dokument ja potřeba psát jako prostý text (běžně přípona .txt, v tomto případě .md jako markdown).
-Soubor je ideální editovat v jednoduchém editoru jako nepříklad poznámkový blok, textedit atd.
-Nejjednodušší způsob je otevřít soubor přímo v Google Disku v aplikaci třetí strany nazvané "Text Editor", při uložení v aplikaci se text automaticky uloží i na Google Disk...
-Ideálně tento soubor neupravovat v složitějších editorech jako MS Office, Open Office, nebo podobné, které umožňují formátování.
-Tento text musí být bez formátování, slouží jako "noty" pro vytvoření HTML souboru.
-
-Můžeme přidat odkazy, například na vlastní online portfolio: [moje online portfolio](http://hernimedia.ffa.vutbr.cz/studentstvo/marek-andrysek/).
-
-Nový odstavec můžeme vytvořit pomocí jednoho prázdného řádku.
-Nadpis pro podsekci, například právě studia, vytvoříme pomocí tří křížků a za nimi následujícího nadpisu podsekce:
+### Stáže
+* 2017 Akademia Sztuk Pięknych, Warszawa, Polsko
+* 2019 Fakulta výtvarných umění VUT v Brně, Ateliér fotografie – Ivars Gravlejs, Tomáš Javůrek
+* 2020 The Wick Heritage Museum, Wick, Skotsko
 
 ### Studium
-* 2010-2014 SŠ
-* 2014–2018 FaVU - AGD1
-* 2018-2021 FaVU - AM2
+* 2014–2021 Fakulta výtvarných umění VUT v Brně, Ateliér environmentu – Barbora Klímová, Matěj Smetana
+* 2013–2014 Filozofická fakulta Jihočeské univerzity, České Budějovice, Estetika
 
-Pomocí hvězdiček můžeme vytvářet odrážky.
+## Rozložení přítomnosti / Laying Out of Presence
 
-### Kontakty
+![](/2021/tesarova/1.jpg)
 
-telefon: 736 893 982  
-email: asdkajhsd@gmail.com  
+Diplomová práce se zabývá tématy symboliky, tarotu a sdílení.
 
-(Aby se telefon, email a odkaz nezobrazily na jednom řádku jako obyčejné věty, dali jsme na jejich konec dvě mezery.)
+Studium symbolů a tarotu mě dovedlo k vytvoření práce, která mi dovoluje s divákem sdílet moji vášeň pro kresbu a prožitky specifickým způsobem.
 
-## Název díla / diplomové práce
+Prostřednictvím kresby pastelkami na velký formát zaznamenávám známé symboly tarotu zkombinované s mnou vytvořenou osobní symbolikou.
+Obrazy mají specifický charakter adjustace, a to překládáním, obdobně jako origami.
 
-![](/2021/prijmeni/1.jpg)
+Divák má možnost prožít výklad jednoho obrazu, kdy obraz postupně díky překladům rozevíráme.
+Během toho společně nad obrazem vedeme dialog; rozvíjíme významy symboliky, noříme se hlouběji do témat a příběhů na obraze zobrazených.
+Výklad obrazu může působit obdobně jako výklad u kartářky, jen vykladačem je především divák sám.
 
-Sekci věnující se dílu můžeme začít fotografií díla, způsob vložení vidíme o dva řádky výše.
-Zde můžeme umístit popis diplomové práce / uměleckého díla.
-Je možné návštěvnicím webu vysvětlit historii a koncept díla, výrobní postup atd.
+Já jsem jen zprostředkovatelkou a autorkou obrazů.
 
-Při vkládání obrázků dejte pozor, aby cesta k obrázku byla správná:  
-2021/vase-prijmeni/nazev-obrazku.jpg
+Po ukončení studia budu v práci na obrazech a akcích pokračovat.
 
-![Popisek fotografie](/2021/prijmeni/2.jpg)
-![](/2021/prijmeni/3.jpg)
-![](/2021/prijmeni/4.jpg)
+![](/2021/tesarova/2.jpg)
+![](/2021/tesarova/3.jpg)
+![](/2021/tesarova/4.jpg)
