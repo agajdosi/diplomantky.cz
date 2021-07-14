@@ -1,59 +1,48 @@
 ---
-title: "Jméno Příjmení"
+title: "Barbora Smékalová"
 date: 2020-08-17T15:02:56+02:00
-description: "Toto je ukázkový profil diplomantky."
-draft: true
-url: "portfolio-ukazka"
+description: "Série realizovaných akcí je postavena na hranicích sociálního, uměleckého experimentu a intimního realismu."
+draft: false
+url: "barbora-smekalova"
 
-name: "Jméno"
-surname: "Příjmení"
-artwork: "Moje umělecké dílo"
-medium: "Všechna média světa"
-dimensions: "10x10cm"
+name: "Barbora"
+surname: "Smékalová"
+artwork: "NEWkus — Sára a Bára/Bára a Sára, Žít s námi, ne vedle nás"
+medium: "akce"
+dimensions: "-"
 year: "2021"
 study: "mga"
 # Zde jsou uvedená metadata, která se přímo nezobrazují, ale slouží při generování webu - tagů pro Facebook a Twitter, atd.
 ---
 
-Zde můžeme přidat nějaký text o sobě.
-Bio, artist statement, případně jej dále doplnit o seznam výstav, či absolvovaných stážích a studiích, jak budeme chtít.
+\* 1995, Vítkov  
+mail: barkasmekalka@seznam.cz  
+facebook: [facebook.com/wearenewkus](https://facebook.com/wearenewkus)
 
-Celý tento dokument ja potřeba psát jako prostý text (běžně přípona .txt, v tomto případě .md jako markdown).
-Soubor je ideální editovat v jednoduchém editoru jako nepříklad poznámkový blok, textedit atd.
-Nejjednodušší způsob je otevřít soubor přímo v Google Disku v aplikaci třetí strany nazvané "Text Editor", při uložení v aplikaci se text automaticky uloží i na Google Disk...
-Ideálně tento soubor neupravovat v složitějších editorech jako MS Office, Open Office, nebo podobné, které umožňují formátování.
-Tento text musí být bez formátování, slouží jako "noty" pro vytvoření HTML souboru.
+Jedna ze dvou členek uskupení NEWkus.
+Spoluautorka: Sara Wollasch.
 
-Můžeme přidat odkazy, například na vlastní online portfolio: [moje online portfolio](http://hernimedia.ffa.vutbr.cz/studentstvo/marek-andrysek/).
-
-Nový odstavec můžeme vytvořit pomocí jednoho prázdného řádku.
-Nadpis pro podsekci, například právě studia, vytvoříme pomocí tří křížků a za nimi následujícího nadpisu podsekce:
+### Stáže
+* 2019 Fakulta výtvarných umění VUT v Brně, Ateliér hostujícího pedagoga – Przemyszlaw Kviek
+* 2017 Fakulta výtvarných umění VUT v Brně, Ateliér multimédií – Slávo Krekovič
 
 ### Studium
-* 2010-2014 SŠ
-* 2014–2018 FaVU - AGD1
-* 2018-2021 FaVU - AM2
+* 2015–2021 Fakulta výtvarných umění VUT v Brně, Ateliér tělového designu – Lenka Klodová
 
-Pomocí hvězdiček můžeme vytvářet odrážky.
+## NEWkus — Sára a Bára/Bára a Sára, Žít s námi, ne vedle nás
 
-### Kontakty
+![](/2021/smekalova/1.jpg)
 
-telefon: 736 893 982  
-email: asdkajhsd@gmail.com  
+Umělecké duo NEWkus pojednává o transformaci vztahů a celkové definici konceptu těla NEWkusu.
+Vyrovnává se s izolací způsobenou koronavirovou pandemií i s apatií zapříčiněnou jednotvárným stylem života v uzavřeném prostoru se stále stejným člověkem a nemožností se setkat v rámci dua NEWkus. 
 
-(Aby se telefon, email a odkaz nezobrazily na jednom řádku jako obyčejné věty, dali jsme na jejich konec dvě mezery.)
+Díky sérii akcí v domácím prostředí si skupina uvědomuje vlastní existenci v daleko širším rozsahu, zjišťuje, že není pouze dvoučlennou, že její struktura je obsáhlejší.
+Série realizovaných akcí je postavena na hranicích sociálního, uměleckého experimentu a intimního realismu. 
 
-## Název díla / diplomové práce
+Celá zkušenost se promítá v jediném prostoru, v rámci festivalu Dny NEWkusu.
+Prostor je definován objektem inspirovaným paravánem, jehož vnitřní prostředí je uzpůsobeno obrazu i potřebám obou autorek. 
+Divákovi je tak umožněno setkání s příběhem, který bude během festivalu představen z mnoha úhlů pohledu a poskytne tak možnost prolnout se s tělem NEWkusu v reálném čase a prostoru.
 
-![](/2021/prijmeni/1.jpg)
-
-Sekci věnující se dílu můžeme začít fotografií díla, způsob vložení vidíme o dva řádky výše.
-Zde můžeme umístit popis diplomové práce / uměleckého díla.
-Je možné návštěvnicím webu vysvětlit historii a koncept díla, výrobní postup atd.
-
-Při vkládání obrázků dejte pozor, aby cesta k obrázku byla správná:  
-2021/vase-prijmeni/nazev-obrazku.jpg
-
-![Popisek fotografie](/2021/prijmeni/2.jpg)
-![](/2021/prijmeni/3.jpg)
-![](/2021/prijmeni/4.jpg)
+![](/2021/smekalova/2.jpg)
+![](/2021/smekalova/3.jpg)
+![](/2021/smekalova/4.jpg)
