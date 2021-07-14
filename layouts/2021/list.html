@@ -11,12 +11,9 @@
     </h1>
     {{ end }}
   {{ else }}
-
-  {{ range .Translations }}
-  {{ .Site.GetPage "foo" }}
-  {{ end }}
-
-
+    {{ range .Translations }}
+    <meta http-equiv="Refresh" content="0; url='{{.Permalink}}'" />
+    {{ end }}
   {{ end }}
 
 {{ end }}
