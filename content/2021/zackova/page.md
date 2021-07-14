@@ -1,59 +1,51 @@
 ---
-title: "Jméno Příjmení"
+title: "Kristýna Žáčková"
 date: 2020-08-17T15:02:56+02:00
-description: "Toto je ukázkový profil diplomantky."
-draft: true
-url: "portfolio-ukazka"
+description: "Ve své diplomová práci se věnuji základním principům fungování technologie mobilní tiskárny HandJet."
+draft: false
+url: "kristyna-zackova"
 
-name: "Jméno"
-surname: "Příjmení"
-artwork: "Moje umělecké dílo"
-medium: "Všechna média světa"
-dimensions: "10x10cm"
+name: "Kristýna"
+surname: "Žáčková"
+artwork: "HandJet"
+medium: "ruční tiskárna HandJet"
+dimensions: ""
 year: "2021"
 study: "mga"
-# Zde jsou uvedená metadata, která se přímo nezobrazují, ale slouží při generování webu - tagů pro Facebook a Twitter, atd.
 ---
 
-Zde můžeme přidat nějaký text o sobě.
-Bio, artist statement, případně jej dále doplnit o seznam výstav, či absolvovaných stážích a studiích, jak budeme chtít.
-
-Celý tento dokument ja potřeba psát jako prostý text (běžně přípona .txt, v tomto případě .md jako markdown).
-Soubor je ideální editovat v jednoduchém editoru jako nepříklad poznámkový blok, textedit atd.
-Nejjednodušší způsob je otevřít soubor přímo v Google Disku v aplikaci třetí strany nazvané "Text Editor", při uložení v aplikaci se text automaticky uloží i na Google Disk...
-Ideálně tento soubor neupravovat v složitějších editorech jako MS Office, Open Office, nebo podobné, které umožňují formátování.
-Tento text musí být bez formátování, slouží jako "noty" pro vytvoření HTML souboru.
-
-Můžeme přidat odkazy, například na vlastní online portfolio: [moje online portfolio](http://hernimedia.ffa.vutbr.cz/studentstvo/marek-andrysek/).
-
-Nový odstavec můžeme vytvořit pomocí jednoho prázdného řádku.
-Nadpis pro podsekci, například právě studia, vytvoříme pomocí tří křížků a za nimi následujícího nadpisu podsekce:
-
 ### Studium
-* 2010-2014 SŠ
-* 2014–2018 FaVU - AGD1
-* 2018-2021 FaVU - AM2
-
-Pomocí hvězdiček můžeme vytvářet odrážky.
+* 2019–2021 FaVU VUT, Ateliér grafického designu 2, magisterské studium
+* 2017 Ryerson University, Graphic Communications Management, jeden semestr v rámci bakalářského studia
+* 2015–2019 FaVU VUT, Ateliér grafického designu 2, bakalářské studium
 
 ### Kontakty
+email: zackovatyna@gmail.com 
 
-telefon: 736 893 982  
-email: asdkajhsd@gmail.com  
+## HandJet
 
-(Aby se telefon, email a odkaz nezobrazily na jednom řádku jako obyčejné věty, dali jsme na jejich konec dvě mezery.)
+![mobilní tiskárna HandJet EBS 260.](/2021/zackova/1.jpg)
 
-## Název díla / diplomové práce
+Ve své diplomová práci se věnuji základním principům fungování technologie mobilní tiskárny HandJet. Tiskárna je nejvíce uplatňována v průmyslovém odvětví při označování produktů a prostorů formou 2D a EAN kódů. Navzdory původně čistě užitné funkci vybraného zařízení jsem se rozhodla převést tuto technologii do uměleckého provozu. Hledám její potenciál v možnostech aplikace v oblasti grafického designu a výtvarného umění. Proces práce zaznamenávám do zažitého postupu grafického designéra při plnění zadání skrze rešerši, skicování a automatickou kresbu. Klíčovým zřetelem je přitom zkoumání možností vizuální formy. Výsledkem je série tisků prezentovaných ve formě instalace.	
 
-![](/2021/prijmeni/1.jpg)
+![Instalace tisků a skic na FaVU, budova U1 k potřebám obhajoby](/2021/zackova/2.jpg)
+![Základní zvolený element 100 × 30 tiskových bodů](/2021/zackova/3.jpg)
+![Ukázka tisku s HandJetem](/2021/zackova/4.jpg)
+![Instalace tisků a skic na FaVU, budova U1 k potřebám obhajoby](/2021/zackova/5.jpg)
 
-Sekci věnující se dílu můžeme začít fotografií díla, způsob vložení vidíme o dva řádky výše.
-Zde můžeme umístit popis diplomové práce / uměleckého díla.
-Je možné návštěvnicím webu vysvětlit historii a koncept díla, výrobní postup atd.
+### tisky formátu B1 707 × 1000 mm
 
-Při vkládání obrázků dejte pozor, aby cesta k obrázku byla správná:  
-2021/vase-prijmeni/nazev-obrazku.jpg
-
-![Popisek fotografie](/2021/prijmeni/2.jpg)
-![](/2021/prijmeni/3.jpg)
-![](/2021/prijmeni/4.jpg)
+![](/2021/zackova/6.png)
+![](/2021/zackova/7.png)
+![](/2021/zackova/8.png)
+![](/2021/zackova/9.png)
+![](/2021/zackova/10.png)
+![](/2021/zackova/11.png)
+![](/2021/zackova/12.png)
+![](/2021/zackova/13.png)
+![](/2021/zackova/14.png)
+![](/2021/zackova/15.png)
+![](/2021/zackova/16.png)
+![](/2021/zackova/17.png)
+![](/2021/zackova/18.png)
+![](/2021/zackova/19.png)

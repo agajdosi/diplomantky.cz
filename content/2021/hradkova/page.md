@@ -1,59 +1,57 @@
 ---
-title: "Jméno Příjmení"
+title: "Jana Hrádková"
 date: 2020-08-17T15:02:56+02:00
-description: "Toto je ukázkový profil diplomantky."
-draft: true
-url: "portfolio-ukazka"
+description: "Diplomová  práce Anthology of Unspoken je forma osobní  terapie, vyrovnávací  mechanismus v podobě rozsáhlého osobního výzkumu prezentovaného formou vizuálně eklektického webu, který mapuje vnímání
+deprese a melancholie v rámci historického, uměleckého a částečně tak vědeckého diskurzu."
+draft: false
+url: "jana-hradkova"
 
-name: "Jméno"
-surname: "Příjmení"
-artwork: "Moje umělecké dílo"
-medium: "Všechna média světa"
-dimensions: "10x10cm"
+name: "Jana"
+surname: "Hrádková"
+artwork: "Anthology of Unspoken"
+medium: "webová stránka"
+dimensions: "1920x1080px"
 year: "2021"
 study: "mga"
 # Zde jsou uvedená metadata, která se přímo nezobrazují, ale slouží při generování webu - tagů pro Facebook a Twitter, atd.
 ---
 
-Zde můžeme přidat nějaký text o sobě.
-Bio, artist statement, případně jej dále doplnit o seznam výstav, či absolvovaných stážích a studiích, jak budeme chtít.
-
-Celý tento dokument ja potřeba psát jako prostý text (běžně přípona .txt, v tomto případě .md jako markdown).
-Soubor je ideální editovat v jednoduchém editoru jako nepříklad poznámkový blok, textedit atd.
-Nejjednodušší způsob je otevřít soubor přímo v Google Disku v aplikaci třetí strany nazvané "Text Editor", při uložení v aplikaci se text automaticky uloží i na Google Disk...
-Ideálně tento soubor neupravovat v složitějších editorech jako MS Office, Open Office, nebo podobné, které umožňují formátování.
-Tento text musí být bez formátování, slouží jako "noty" pro vytvoření HTML souboru.
-
-Můžeme přidat odkazy, například na vlastní online portfolio: [moje online portfolio](http://hernimedia.ffa.vutbr.cz/studentstvo/marek-andrysek/).
-
-Nový odstavec můžeme vytvořit pomocí jednoho prázdného řádku.
-Nadpis pro podsekci, například právě studia, vytvoříme pomocí tří křížků a za nimi následujícího nadpisu podsekce:
+Jana Hrádková je absolventka Ateliéru Grafického designu 2. Věnuje se ilustraci, knižní grafice a webové tvorbě. Její práce je zaměřena především na prolínání tradičních a nových postupů (viz. Anthology of Unspoken níže) se zaměřením na teorii, research a jeho formu. 
 
 ### Studium
-* 2010-2014 SŠ
-* 2014–2018 FaVU - AGD1
-* 2018-2021 FaVU - AM2
+* 2011-2015 Střední škola průmyslová a umělecká, Opava
+* 2015–2019 FaVU - AGD2
+* 2019-2021 FaVU - AGD2
 
-Pomocí hvězdiček můžeme vytvářet odrážky.
+### Stáže
+* 2020 Grafické studio Dipozitiv v Praze
 
 ### Kontakty
 
-telefon: 736 893 982  
-email: asdkajhsd@gmail.com  
+email: janahrdkov@gmail.com    
 
-(Aby se telefon, email a odkaz nezobrazily na jednom řádku jako obyčejné věty, dali jsme na jejich konec dvě mezery.)
+## Anthology of Unspoken
 
-## Název díla / diplomové práce
+![](/2021/hradkova/1.jpg)
 
-![](/2021/prijmeni/1.jpg)
+Diplomová  práce Anthology of Unspoken je forma osobní  terapie, vyrovnávací  mechanismus v podobě rozsáhlého osobního výzkumu prezentovaného formou vizuálně eklektického webu, který mapuje vnímání
+deprese a melancholie v rámci historického, uměleckého a částečně tak vědeckého diskurzu.
+AoU má podobu webové stránky na pomezí archivu, a výzknnmé ho blogu vizu lně připom naj c  pozn mkový blok, využívající texty ve formě zápisků, “reader view” eseje a doprovodný obrazový
+materiál (od dobových maleb, pop kulturních referencí, emotikon atd.)
+Hledám tak prostředky k artikulaci a (aspoň částečnému) porozumění vlastních problémů a zároveň také odpovědi na otázky: Je deprese opravdu moderní záležitost 21. století ?
+A proč je tak těžké o ní mluvit?
+Kde se vzala hanba a pocit viny, s níž je neodmyslitelně spojena?
+Je melancholie synonymem deprese, nebo se od sebe tyto termíny
+odlišují?
+A je deprese opravdu nemocí nebo jen mým vlastním selháním?
 
-Sekci věnující se dílu můžeme začít fotografií díla, způsob vložení vidíme o dva řádky výše.
-Zde můžeme umístit popis diplomové práce / uměleckého díla.
-Je možné návštěvnicím webu vysvětlit historii a koncept díla, výrobní postup atd.
+Abych si mohla odpovědět na tyto otázky, musela jsem se podívat na úplný začátek
+Ani Řím nepostavili za den, stejně jako se deprese neobjevila se vstupem do nového milénia, a to jak ji dnes vnímáme a co o ni víme je výsledkem několika staletí kumulace informací a společenského vývoje.
 
-Při vkládání obrázků dejte pozor, aby cesta k obrázku byla správná:  
-2021/vase-prijmeni/nazev-obrazku.jpg
+Dílo je dostupné na: https://www.anthologyofunspoken.com
 
-![Popisek fotografie](/2021/prijmeni/2.jpg)
-![](/2021/prijmeni/3.jpg)
-![](/2021/prijmeni/4.jpg)
+![](/2021/hradkova/2.jpg)
+![](/2021/hradkova/3.jpg)
+![](/2021/hradkova/4.jpg)
+![](/2021/hradkova/5.jpg)
+![](/2021/hradkova/6.jpg)

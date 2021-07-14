@@ -3,10 +3,20 @@
 
 {{ define "content"}}
 
-  {{ range sort .Pages ".Params.surname" }}
+  {{ $profiles := .Pages}}
+  {{ if gt (len $profiles) 0 }}
+    {{ range sort $profiles ".Params.surname" }}
     <h1>
       <a href="{{ .Permalink }}"> {{ .Title }} </a>
     </h1>
+    {{ end }}
+  {{ else }}
+
+  {{ range .Translations }}
+  {{ .Site.GetPage "foo" }}
+  {{ end }}
+
+
   {{ end }}
 
 {{ end }}
