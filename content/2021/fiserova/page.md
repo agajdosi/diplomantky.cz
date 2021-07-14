@@ -1,59 +1,41 @@
 ---
-title: "Jméno Příjmení"
+title: "Barbora Fišerová"
 date: 2020-08-17T15:02:56+02:00
-description: "Toto je ukázkový profil diplomantky."
-draft: true
-url: "portfolio-ukazka"
+description: "V rámci dlouhodobého kolaborativního projektu co.llaborate.online se zaměřujeme na vývoj balíčku webových aplikací pro změnu workflow a zjednodušení online spolupráce při DTP."
+draft: false
+url: "barbora-fiserova"
 
-name: "Jméno"
-surname: "Příjmení"
-artwork: "Moje umělecké dílo"
-medium: "Všechna média světa"
-dimensions: "10x10cm"
+name: "Barbora"
+surname: "Fišerová"
+artwork: "Service design"
+medium: "webová aplikace"
+dimensions: "-"
 year: "2021"
 study: "mga"
 # Zde jsou uvedená metadata, která se přímo nezobrazují, ale slouží při generování webu - tagů pro Facebook a Twitter, atd.
 ---
 
-Zde můžeme přidat nějaký text o sobě.
-Bio, artist statement, případně jej dále doplnit o seznam výstav, či absolvovaných stážích a studiích, jak budeme chtít.
-
-Celý tento dokument ja potřeba psát jako prostý text (běžně přípona .txt, v tomto případě .md jako markdown).
-Soubor je ideální editovat v jednoduchém editoru jako nepříklad poznámkový blok, textedit atd.
-Nejjednodušší způsob je otevřít soubor přímo v Google Disku v aplikaci třetí strany nazvané "Text Editor", při uložení v aplikaci se text automaticky uloží i na Google Disk...
-Ideálně tento soubor neupravovat v složitějších editorech jako MS Office, Open Office, nebo podobné, které umožňují formátování.
-Tento text musí být bez formátování, slouží jako "noty" pro vytvoření HTML souboru.
-
-Můžeme přidat odkazy, například na vlastní online portfolio: [moje online portfolio](http://hernimedia.ffa.vutbr.cz/studentstvo/marek-andrysek/).
-
-Nový odstavec můžeme vytvořit pomocí jednoho prázdného řádku.
-Nadpis pro podsekci, například právě studia, vytvoříme pomocí tří křížků a za nimi následujícího nadpisu podsekce:
+\* 1995, Stod  
+email: fiserovabarbor@gmail.com
 
 ### Studium
-* 2010-2014 SŠ
-* 2014–2018 FaVU - AGD1
-* 2018-2021 FaVU - AM2
+* 2019–2021 Fakulta výtvarných umění VUT v Brně, Ateliér grafického designu 1/X (magisterské studium)
+* 2015–2019 Fakulta výtvarných umění VUT v Brně, Ateliér grafického designu 1 (bakalářské studium)
 
-Pomocí hvězdiček můžeme vytvářet odrážky.
+## Service Design
 
-### Kontakty
+![](/2021/fiserova/1.jpg)
 
-telefon: 736 893 982  
-email: asdkajhsd@gmail.com  
+V rámci dlouhodobého kolaborativního projektu [co.llaborate.online](https://co.llaborate.online) se zaměřujeme na vývoj balíčku webových aplikací pro změnu workflow a zjednodušení online spolupráce při DTP.
+Designérům, autorům textu, editorům a dalším tvůrcům chceme poskytnout nové nástroje postavené na výhodách webových technologií.
+Vyvíjíme aplikace pro navrhování grafických výstupů (co.design), snadnou organizaci dat (co.manage), psaní a úpravu textu (co.edit).
 
-(Aby se telefon, email a odkaz nezobrazily na jednom řádku jako obyčejné věty, dali jsme na jejich konec dvě mezery.)
+Naším východiskem je známý princip DRY aka Neopakuj se.
+Chceme eliminovat nadbytečné kroky a automatizovat určité pracovní postupy při DTP.
+Přínosem služby [co.llaborate.online](https://co.llaborate.online) je kompatibilita aplikací a formátů, real-time spolupráce nebo přenositelnost zdrojových dat a aplikací.
 
-## Název díla / diplomové práce
-
-![](/2021/prijmeni/1.jpg)
-
-Sekci věnující se dílu můžeme začít fotografií díla, způsob vložení vidíme o dva řádky výše.
-Zde můžeme umístit popis diplomové práce / uměleckého díla.
-Je možné návštěvnicím webu vysvětlit historii a koncept díla, výrobní postup atd.
-
-Při vkládání obrázků dejte pozor, aby cesta k obrázku byla správná:  
-2021/vase-prijmeni/nazev-obrazku.jpg
-
-![Popisek fotografie](/2021/prijmeni/2.jpg)
-![](/2021/prijmeni/3.jpg)
-![](/2021/prijmeni/4.jpg)
+![](/2021/fiserova/4.jpg)
+![](/2021/fiserova/5.jpg)
+![](/2021/fiserova/6.jpg)
+![](/2021/fiserova/7.jpg)
+![](/2021/fiserova/8.jpg)
