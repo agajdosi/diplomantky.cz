@@ -4,11 +4,11 @@
 {{ define "content"}}
   <h1 class="h1index">{{.Title}}</h1>
   {{ range sort .Pages "Weight" "desc"}}
-    {{ if ne .File.Dir "2021/"}}
+
   <h2 class="black">
     <a href="{{ .Permalink }}"> {{ .Params.ShortTitle }} </a>
   </h2>
-    {{ end }}
+
   {{ end }}
 
 {{ end }}

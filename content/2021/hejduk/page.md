@@ -2,7 +2,7 @@
 title: "Jméno Příjmení"
 date: 2020-08-17T15:02:56+02:00
 description: "Toto je ukázkový profil diplomantky."
-draft: false
+draft: true
 url: "portfolio-ukazka"
 
 name: "Jméno"
