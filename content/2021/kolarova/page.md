@@ -1,59 +1,36 @@
 ---
-title: "Jméno Příjmení"
+title: "Vendula Kolářová"
 date: 2020-08-17T15:02:56+02:00
-description: "Toto je ukázkový profil diplomantky."
-draft: true
-url: "portfolio-ukazka"
+description: "Magisterská práce se zabývá posunem od vizuálního k multisenzorickému vnímání."
+draft: false
+url: "vendula-kolarova"
 
-name: "Jméno"
-surname: "Příjmení"
-artwork: "Moje umělecké dílo"
-medium: "Všechna média světa"
-dimensions: "10x10cm"
+name: "Vendula"
+surname: "Kolářová"
+artwork: "Presence"
+medium: "environment"
+dimensions: "-"
 year: "2021"
 study: "mga"
 # Zde jsou uvedená metadata, která se přímo nezobrazují, ale slouží při generování webu - tagů pro Facebook a Twitter, atd.
 ---
 
-Zde můžeme přidat nějaký text o sobě.
-Bio, artist statement, případně jej dále doplnit o seznam výstav, či absolvovaných stážích a studiích, jak budeme chtít.
+\* 1995, Opava  
+email: vendy.kolarova@gmail.com
 
-Celý tento dokument ja potřeba psát jako prostý text (běžně přípona .txt, v tomto případě .md jako markdown).
-Soubor je ideální editovat v jednoduchém editoru jako nepříklad poznámkový blok, textedit atd.
-Nejjednodušší způsob je otevřít soubor přímo v Google Disku v aplikaci třetí strany nazvané "Text Editor", při uložení v aplikaci se text automaticky uloží i na Google Disk...
-Ideálně tento soubor neupravovat v složitějších editorech jako MS Office, Open Office, nebo podobné, které umožňují formátování.
-Tento text musí být bez formátování, slouží jako "noty" pro vytvoření HTML souboru.
-
-Můžeme přidat odkazy, například na vlastní online portfolio: [moje online portfolio](http://hernimedia.ffa.vutbr.cz/studentstvo/marek-andrysek/).
-
-Nový odstavec můžeme vytvořit pomocí jednoho prázdného řádku.
-Nadpis pro podsekci, například právě studia, vytvoříme pomocí tří křížků a za nimi následujícího nadpisu podsekce:
+### Stáže
+* 2020 Van Abbe Museum, Holandsko
+* 2019 Display, Praha
 
 ### Studium
-* 2010-2014 SŠ
-* 2014–2018 FaVU - AGD1
-* 2018-2021 FaVU - AM2
+* 2018–2021 Fakulta výtvarných umění VUT v Brně (magisterské studium), Ateliér tělového designu
+* 2018–2020 Bludný kámen, Opava
+* 2014–2018 Fakulta výtvarných umění VUT v Brně (bakalářské studium), Ateliér sochařství 2 / Ateliér tělového designu
 
-Pomocí hvězdiček můžeme vytvářet odrážky.
+## Presence
 
-### Kontakty
+![](/2021/kolarova/1.jpg)
 
-telefon: 736 893 982  
-email: asdkajhsd@gmail.com  
-
-(Aby se telefon, email a odkaz nezobrazily na jednom řádku jako obyčejné věty, dali jsme na jejich konec dvě mezery.)
-
-## Název díla / diplomové práce
-
-![](/2021/prijmeni/1.jpg)
-
-Sekci věnující se dílu můžeme začít fotografií díla, způsob vložení vidíme o dva řádky výše.
-Zde můžeme umístit popis diplomové práce / uměleckého díla.
-Je možné návštěvnicím webu vysvětlit historii a koncept díla, výrobní postup atd.
-
-Při vkládání obrázků dejte pozor, aby cesta k obrázku byla správná:  
-2021/vase-prijmeni/nazev-obrazku.jpg
-
-![Popisek fotografie](/2021/prijmeni/2.jpg)
-![](/2021/prijmeni/3.jpg)
-![](/2021/prijmeni/4.jpg)
+Magisterská práce se zabývá posunem od vizuálního k multisenzorickému vnímání.
+V tomto kontextu pracuji s pojmem komfort, který aplikuji jak na fyzické, tak psychické aspekty zkušenosti návštěvníků uměleckých institucí.
+Vytvoření pocitu komfortu pro mě není důležité jen na konci procesu – tedy vyvolání tohoto pocitu u návštěvníků –, ale také v procesu tvorby.
