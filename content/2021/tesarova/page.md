@@ -49,4 +49,13 @@ Po ukončení studia budu v práci na obrazech a akcích pokračovat.
 
 ![](/2021/tesarova/2.jpg)
 ![](/2021/tesarova/3.jpg)
+![](/2021/tesarova/3b.jpg)
 ![](/2021/tesarova/4.jpg)
+![](/2021/tesarova/4a.jpg)
+![](/2021/tesarova/4b.jpg)
+![](/2021/tesarova/5.jpg)
+![](/2021/tesarova/5a.jpg)
+![](/2021/tesarova/6.jpg)
+![](/2021/tesarova/5955.jpg)
+![](/2021/tesarova/6416.jpg)
+![](/2021/tesarova/6647.jpg)

@@ -1,0 +1,1 @@
+mogrify -resize '1200' -quality 92  *.jpg 
