@@ -80,6 +80,19 @@
                 href="https://diplomantky.cz/en/2020/"
                 />
   </url><url>
+    <loc>https://diplomantky.cz/en/2022/</loc>
+    <lastmod>2020-08-17T16:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://diplomantky.cz/2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diplomantky.cz/en/2022/"
+                />
+  </url><url>
     <loc>https://diplomantky.cz/en/klubovna-gallery/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -143,6 +156,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://diplomantky.cz/en/adam-turzo/"
+                />
+  </url><url>
+    <loc>https://diplomantky.cz/en/adela-venturova/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://diplomantky.cz/adela-venturova/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diplomantky.cz/en/adela-venturova/"
                 />
   </url><url>
     <loc>https://diplomantky.cz/en/adela-venturova/</loc>

@@ -7,6 +7,6 @@ weight: 4
 
 url: "2020"
 aliases : [
-  "students"
+  "graduates"
 ]
 ---
