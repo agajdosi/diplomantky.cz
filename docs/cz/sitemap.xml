@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://diplomantky.cz/vystava/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
@@ -15,9 +14,7 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/vystava/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/favu/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -30,9 +27,7 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/favu/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/m%C4%9Bstsk%C3%BD-byt/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -45,9 +40,7 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/m%C4%9Bstsk%C3%BD-byt/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/2021/</loc>
     <lastmod>2021-02-17T16:02:56+02:00</lastmod>
     <xhtml:link
@@ -60,9 +53,7 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/2021/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/2020/</loc>
     <lastmod>2020-08-17T16:02:56+02:00</lastmod>
     <xhtml:link
@@ -75,9 +66,7 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/2020/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/galerie-klubovna/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -90,9 +79,7 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/galerie-klubovna/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/k%C3%A1znice/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -105,9 +92,7 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/k%C3%A1znice/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/zahr%C3%A1dka/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -120,9 +105,7 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/zahr%C3%A1dka/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/d%C5%AFm-p%C3%A1n%C5%AF-z-kun%C5%A1t%C3%A1tu/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -135,9 +118,7 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/d%C5%AFm-p%C3%A1n%C5%AF-z-kun%C5%A1t%C3%A1tu/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/kan%C3%A1l/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -150,14 +131,10 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/kan%C3%A1l/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/adam-hejduk/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/adam-turzo/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -170,9 +147,7 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/adam-turzo/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/adela-venturova/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -185,9 +160,7 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/adela-venturova/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/alina-matejova/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -200,44 +173,10 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/alina-matejova/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/anna-tesarova/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diplomantky.cz/barbora-bencikova/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diplomantky.cz/barbora-demovicova/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diplomantky.cz/en/barbora-demovicova/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cz"
-                href="https://diplomantky.cz/barbora-demovicova/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://diplomantky.cz/barbora-fiserova/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diplomantky.cz/barbora-smekalova/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/bara-ruzickova/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -250,19 +189,35 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/bara-ruzickova/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://diplomantky.cz/barbora-bencikova/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+  </url><url>
+    <loc>https://diplomantky.cz/barbora-demovicova/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diplomantky.cz/en/barbora-demovicova/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://diplomantky.cz/barbora-demovicova/"
+                />
+  </url><url>
+    <loc>https://diplomantky.cz/barbora-fiserova/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+  </url><url>
+    <loc>https://diplomantky.cz/barbora-smekalova/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+  </url><url>
     <loc>https://diplomantky.cz/daria-serebrianska/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/elena-giertlova/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/ilona-hovezakova/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -275,19 +230,13 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/ilona-hovezakova/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/jana-hradkova/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/judita-levitnerova/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/katarina-macenkova/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -300,19 +249,13 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/katarina-macenkova/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/katerina-molisova/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/katerina-rafaelova/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/kristina-reisova/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -325,9 +268,7 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/kristina-reisova/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/kristyna-coufalova/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -340,9 +281,7 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/kristyna-coufalova/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/kristyna-kazdova/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -355,14 +294,10 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/kristyna-kazdova/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/kristyna-zackova/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/kseniia-gorchakova/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -375,9 +310,7 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/kseniia-gorchakova/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/leona-velebova/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -390,9 +323,7 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/leona-velebova/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/lucia-sadecka/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -405,9 +336,7 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/lucia-sadecka/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/marek-andrysek/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -420,9 +349,7 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/marek-andrysek/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/martin-cab/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -435,19 +362,13 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/martin-cab/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/martin-res/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/martina-valcharova/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/matej-jindrak/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -460,9 +381,7 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/matej-jindrak/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/matej-picek/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -475,9 +394,7 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/matej-picek/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/michal-mitro/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -490,24 +407,16 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/michal-mitro/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/monika-ryg%C3%A1lov%C3%A1/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/natalie-balkova/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/nikola-machacova/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/petr-kadanka/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -520,14 +429,10 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/petr-kadanka/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/petr-mucha/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/sabina-chrastilova/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -540,59 +445,7 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/sabina-chrastilova/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://diplomantky.cz/tomas-lorenc/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diplomantky.cz/valentyna-filipkova/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diplomantky.cz/vendula-kolarova/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diplomantky.cz/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diplomantky.cz/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cz"
-                href="https://diplomantky.cz/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://diplomantky.cz/zita-elznic/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://diplomantky.cz/zuzana-risianova/</loc>
-    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://diplomantky.cz/en/zuzana-risianova/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cz"
-                href="https://diplomantky.cz/zuzana-risianova/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/stepan-broz/</loc>
     <lastmod>2020-08-17T15:02:56+02:00</lastmod>
     <xhtml:link
@@ -605,14 +458,48 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/stepan-broz/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://diplomantky.cz/tomas-lorenc/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+  </url><url>
+    <loc>https://diplomantky.cz/valentyna-filipkova/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+  </url><url>
+    <loc>https://diplomantky.cz/vendula-kolarova/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+  </url><url>
+    <loc>https://diplomantky.cz/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diplomantky.cz/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://diplomantky.cz/"
+                />
+  </url><url>
+    <loc>https://diplomantky.cz/zita-elznic/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+  </url><url>
+    <loc>https://diplomantky.cz/zuzana-risianova/</loc>
+    <lastmod>2020-08-17T15:02:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://diplomantky.cz/en/zuzana-risianova/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://diplomantky.cz/zuzana-risianova/"
+                />
+  </url><url>
     <loc>https://diplomantky.cz/jan-svatos/</loc>
     <lastmod>2020-07-14T15:02:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -624,9 +511,7 @@
                 hreflang="cz"
                 href="https://diplomantky.cz/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://diplomantky.cz/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -639,5 +524,4 @@
                 href="https://diplomantky.cz/tags/"
                 />
   </url>
-  
 </urlset>
