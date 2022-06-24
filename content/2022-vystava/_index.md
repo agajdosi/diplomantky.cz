@@ -1,6 +1,6 @@
 ---
-title: "Výstava diplomujících 2022"
-shortTitle: "Výstava 2022"
+title: "LOST FOCUS - výstava diplomantek FaVU 2022"
+shortTitle: "LOST FOCUS - výstava 2022"
 date: 2022-06-17T15:02:56+02:00
 draft: false
 url: "vystava-2022"
@@ -10,9 +10,8 @@ images: [
     ["1.jpg", ""],
     ["2.jpg", ""],
     ["3.jpg", ""],
-    ["1.jpg", ""],
-    ["2.jpg", ""],
-    ["3.jpg", ""],
+    ["4.jpg", ""],
+    ["5.jpg", ""],
 ]
 
 opening: "19.06.2022 16:00"
