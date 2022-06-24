@@ -35,7 +35,7 @@ Medium:
 - date of the event: conference: 19/9/2020, Industra
 - accompanying programme: exhibition: 16/9 (date to be confirmed by Industra)
 
-![](/students/matejova/1.jpg)
+![](/2020/matejova/1.jpg)
 
 HUMAIN is a project, conference and platform opening up, associating, and connecting themes and experts from the areas of artificial intelligence, art, design and humanities. 
 
@@ -47,6 +47,6 @@ Artificial intelligence is a mirror of ourselves, our values, beliefs and goals.
                                                                                                      
 The project is a collaboration between theorists and practitioners from the Faculty of Fine Arts of Brno University of Technology and the Faculty of Arts of Masaryk University and elsewhere.
 
-![](/students/matejova/2.jpg)
-![](/students/matejova/3.jpg)
-![](/students/matejova/4.jpg)
+![](/2020/matejova/2.jpg)
+![](/2020/matejova/3.jpg)
+![](/2020/matejova/4.jpg)

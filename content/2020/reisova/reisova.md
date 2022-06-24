@@ -24,7 +24,7 @@ Pracujem s textom. Vytvárala som rôzne objekty, audio príbehy, zvukové inšt
 
 ## Cez chodník prebehuje ježko
 
-![](/students/reisova/1.jpg)
+![](/2020/reisova/1.jpg)
 
 Cez chodník prebehuje ježko je zbierka textov o všednej kráse sveta, o pomalosti a sústredení.  Sú to príbehy mnou videné, vnímané, vypočuté. Príbehy, pri ktorých som sa zastavila, alebo ma zastavili ony.  
 
@@ -32,6 +32,6 @@ O tom, ako slnko a rastlina vytvárajú tieň, ako nad nami do kruhu lietajú bo
 
 Tieto texty zapisujem a prenášam ich na ručný papier, ktorý som vyrobila zo zozbieraných papierov a rastlín. Špendlíkom do nich vydierkovávam príbeh po príbehu. Spoločne sa potom schádzajú na okrúhlom stole, kde sa s nimi môžu stretnúť ľudia a zažiť si ich svojím pohľadom a hmatom.
 
-![](/students/reisova/2.jpg)
-![](/students/reisova/3.jpg)
-![](/students/reisova/4.jpg)
+![](/2020/reisova/2.jpg)
+![](/2020/reisova/3.jpg)
+![](/2020/reisova/4.jpg)

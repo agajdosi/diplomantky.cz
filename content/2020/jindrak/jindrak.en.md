@@ -34,7 +34,7 @@ After school leaving exams at Lepař Grammar School in Jičín in 2011, I enroll
 
 medium: sculpture/installation/performance
 
-![sand relief: 12 squares, 60x60 cm, cast plaster of Paris with sand](/students/jindrak/1.jpg)
+![sand relief: 12 squares, 60x60 cm, cast plaster of Paris with sand](/2020/jindrak/1.jpg)
 
 My creation process starts by searching for correlations between what is natural, from nature, and what is artificial. I experimented with layering during pencil drawing with a single stroke and the changes caused by the posture of the body or position of the arm. I gradually abandoned drawing with pigment and using only a fine needle I recorded the imprint in an aluminium foil. They were minor works which were sketches by nature. They were significant for me in the shift towards the structure of a low relief. These drawings and reliefs invoked the form of annual rings and an overall impression of a cross-section of wood, a trunk. The level of imitation was so strong that I started to think about it as a theme.
 
@@ -46,6 +46,6 @@ Although I did not attempt to stick to a single concept and the resulting work c
 * Filling – Destruction: https://youtu.be/Zw0on_N_Y7Q
 * After Destruction: https://youtu.be/62R2oSPmAvo
 
-![aluminium relief: 7 pieces, 97x45 cm each, aluminium foil 99 microns thick](/students/jindrak/2.jpg)
-![vessel 60x60x60 cm, glass 6 mm thick, water, hazel stick](/students/jindrak/3.jpg)
-![](/students/jindrak/4.jpg)
+![aluminium relief: 7 pieces, 97x45 cm each, aluminium foil 99 microns thick](/2020/jindrak/2.jpg)
+![vessel 60x60x60 cm, glass 6 mm thick, water, hazel stick](/2020/jindrak/3.jpg)
+![](/2020/jindrak/4.jpg)

@@ -22,11 +22,11 @@ I have been studying at the Faculty of Fine Arts since 2014, when I enrolled in 
 
 ## Flax Facts (Len *Len*)
 
-![](/students/sadecka/1.jpg)
+![](/2020/sadecka/1.jpg)
 
 Flax Facts (Len *Len*) is about a process. One rooted in environmental issues and reflecting the processuality of the creation of a work of art. A process from produce to product, from tradition to the present day, from a memory to experience, from fast to slow, from imperfection to perfection, from impersonal to personal, from the beginning to the end. I work with textile as a classic medium, whereby I cultivate flax myself as an original and our traditional raw material for the production of textile. From the start I carefully watch it grow, care for it and patiently wait for the time of harvest and following processing. This phase is essential for me as it brings along the different procedures employed in old tried and tested technologies, in interaction with people from whom I learn the trade and who shape the whole process, add the final touches and most importantly watch from a distance how I am doing, how I succeeded, It is a personal and a technical record of a two-year effort.
 
-![](/students/sadecka/2.jpg)
-![](/students/sadecka/3.jpg)
+![](/2020/sadecka/2.jpg)
+![](/2020/sadecka/3.jpg)
 
 #FROM_SEED_TO_CLOTH #homemade #little #miracle! #flaxseed #linen #fiber #clothes #sustainabilitymatters #naturalmaterials #hardwork #loomweaving #selfsufficient #oldschool #slowfashion #materialtimes

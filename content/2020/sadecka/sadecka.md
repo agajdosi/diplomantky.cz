@@ -22,11 +22,11 @@ Na FaVU študujem od roku 2014, keď som nastúpila do Ateliéru video k Martino
 
 ## Len *Len*
 
-![](/students/sadecka/1.jpg)
+![](/2020/sadecka/1.jpg)
 
 Len *Len* je o procese. S koreňmi v environmentálnych otázkach a odrážajúci procesuálnosť vzniku umeleckého diela. O procese od výroby k produktu, od tradície k súčasnosti, od spomienky k skúsenosti, od rýchleho k pomalému, od nedokonalosti k dokonalosti, od neosobného k osobnému, od začiatku do konca. Zaoberám sa prácou s textíliou ako klasickým médiom, pričom sa sama venujem pestovaniu ľanu ako pôvodnej, u nás tradičnej, surovine pre výrobu textílie. Od začiatku pozorne pozorujem, ako rastie, starám sa o neho a trpezlivo očakávam čas zberu a následného spracovania. Táto fáza je pre mňa veľmi podstatná, keďže so sebou prináša jednotlivé postupy, uplatnené v starých osvedčených technológiách, v interakcii s ľuďmi, od ktorých sa učím remeslu a ktorí celý proces formujú, dotvárajú, no najmä pozorujú, ako sa mi darí, čo sa mi podarilo. Ide o osobný a zároveň technický záznam dvojročného úsilia.
 
-![](/students/sadecka/2.jpg)
-![](/students/sadecka/3.jpg)
+![](/2020/sadecka/2.jpg)
+![](/2020/sadecka/3.jpg)
 
 #FROM_SEED_TO_CLOTH #homemade #little #miracle! #flaxseed #linen #fiber #clothes #sustainabilitymatters #naturalmaterials #hardwork #loomweaving #selfsufficient #oldschool #slowfashion #materialtimes

@@ -25,7 +25,7 @@ mail: info@michalmitro.com
 
 ## Planetárna termodynamika: Energetická spravodlivosť
 
-![](/students/mitro/1.jpg)
+![](/2020/mitro/1.jpg)
 
 Dielom Planetary Thermodynamics: Energy Justice zamýšľam vykresliť históriu jednej utópie. Táto sa nikdy nestala. Čo je však dôležitejšie, stať sa môže. Začiatočným hýbateľom je osobná skúsenosť  ̶  snaha vytvoriť dočasnú autonómnu zónu v istej záhradkárskej kolónii v Brnenskom Jundrove. Tento doku-fiktívny príbeh začína tam, kde moja osobná skúsenosť končí.
 
@@ -35,6 +35,6 @@ Priestorovo-vizuálnym usporiadaním objektov zamýšľam prerozprávať príb
 
 Práca je vyústením môjho dlhodobého záujmu o vzťah človeka, prírody a technológie vo svojích rozmanitých súčasných a možných budúcich polohách.
 
-![](/students/mitro/2.jpg)
-![](/students/mitro/3.jpg)
-![](/students/mitro/4.jpg)
+![](/2020/mitro/2.jpg)
+![](/2020/mitro/3.jpg)
+![](/2020/mitro/4.jpg)

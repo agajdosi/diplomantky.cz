@@ -20,7 +20,7 @@ Ilona Hověžáková (b. 1991) completed studies for a bachelor's degree in film
 
 ## Dialogue
 
-![](/students/hovezakova/1.jpg)
+![](/2020/hovezakova/1.jpg)
 
 The subject of the diploma work is partly based on my personal experience gained during my internship at the Galería De Arte Servando in Havana. In Cuba I had an opportunity to become acquainted with the great obstacles to gallery operation caused by the communist government and, in general, by Cuban culture and temperament. The diploma work builds on historical facts when cultural exchange between Czechoslovak and Cuban art was a standard component of the operation of state institutions in the past. It was going on in the House of Czechoslovak Culture in Havana just as in the House of Cuban Culture in Prague. After the fall of the USSR both cultural houses were closed and cultural and artistic links have not been re-established to this day. The aim of the diploma work is an attempt to re-enter into a dialogue between Cuba and the Czech Republic (formerly part of Czechoslovakia), which today may be in many aspects different and even alienated. The cultural and artistic relationship between Cuba and Czechoslovakia used to be very warm and could be inspirational in many respects. The current political government in Cuba could be a great obstacle for re-establishment of the connection and continuing the history when we were united by the same political system. The Dialogue exhibition asks questions and searches for answers which are reflected upon in the installation.
 
@@ -32,6 +32,6 @@ Dialogue reflects upon the process of making the exhibition but it also presents
 
 A series of planned exchange exhibitions will follow in the steps of the Dialogue event which is to highlight the history and open up discussion on the current relationships between the countries. The exchange exhibition should present Czech contemporary art, exhibition organisation and gallery life in Cuba, as well as to showcase Cuban art without restrictions here in the Czech Republic. The first installation from the VVČSKSU (Exchange Exhibition of Czech-Slovak and Cuban Contemporary Art) series will concentrate on the issues of identity, culture and the reforming of Cuba. The curator Yenisel Osuna Morales made a list of contemporary artists who share the themes of pluriculturalism, migration and the diaspora. The exhibition will be held within the framework of the diploma exhibitions during September in the Klubovna Gallery in Brno.
 
-![](/students/hovezakova/2.jpg)
-![](/students/hovezakova/3.jpg)
-![](/students/hovezakova/4.jpg)
+![](/2020/hovezakova/2.jpg)
+![](/2020/hovezakova/3.jpg)
+![](/2020/hovezakova/4.jpg)

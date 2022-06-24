@@ -23,9 +23,9 @@ A new being has been created in the Studio of Body Design from an organic body a
 
 ## Voguing Is Not White, Honey
 
-![](/students/venturova/1.jpg)
+![](/2020/venturova/1.jpg)
 
 In my diploma work I deal with the term “naturalness”. I am interested in knowing what society considers natural and what not. For this “research“ I borrowed the Vogue dance genre invented by the trans subculture as a celebration of the otherness of sexual identities. The questions of normality and naturalness are posed through new entities that I create from found synthetic materials and my body. Artificial materials simultaneously illustrate the issue of naturalness, both in society and in the environment. The result is an assemblage, not in the sense of combining different materials but in the sense of bringing together different media, feelings, themes and thoughts, which culminate in a single whole. However, one that by its creation slowly fades out again. The result is an installation made up of disintegrating costumes that I used in the three executed performances. The installation creates an environment for a new action, specifically a dance “battle” of two newly-created beings.
 
-![](/students/venturova/2.jpg)
-![](/students/venturova/3.jpg)
+![](/2020/venturova/2.jpg)
+![](/2020/venturova/3.jpg)

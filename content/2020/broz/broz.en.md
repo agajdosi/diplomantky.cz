@@ -20,11 +20,11 @@ location: "kanal"
 
 ## You Must Gather Your Party Before Venturing Forth
 
-![](/students/broz/1.jpg)
+![](/2020/broz/1.jpg)
 
 As my diploma work I created a series of expressive figurative paintings. The series narrates fragments of stories unwinding in the wings of romantic fantasy sceneries and combined with contemporary subculture and leisure motifs. My art is based on extensive experience with the PC gaming worlds and a deep emotional bond with Central European landscape. The story takes place somewhere between a fairy tale past and a dystopic future.
 
-![](/students/broz/2.jpg)
-![](/students/broz/3.jpg)
-![](/students/broz/4.jpg)
+![](/2020/broz/2.jpg)
+![](/2020/broz/3.jpg)
+![](/2020/broz/4.jpg)
 

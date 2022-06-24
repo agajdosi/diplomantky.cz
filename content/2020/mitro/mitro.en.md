@@ -28,7 +28,7 @@ mail: info@michalmitro.com
 
 ## Planetary Thermodynamics: Energy Justice
 
-![](/students/mitro/1.jpg)
+![](/2020/mitro/1.jpg)
 
 With the work called Planetary Thermodynamics: Energy Justice I aim to depict the history of a utopia. One which has never happened. But what is more important, one which may happen. The initial stimulus is personal experience – an effort to create a temporary autonomous zone in a particular garden colony in Brno-Jundrov. This docufiction story starts where my personal experience ends. 
 
@@ -38,6 +38,6 @@ Through the spatial-visual arrangement of objects I intend to retell the story o
 
 The work is an outcome of my long-term interest in the relationship of man, nature and technology in its multiple present and possible future positions.
 
-![](/students/mitro/2.jpg)
-![](/students/mitro/3.jpg)
-![](/students/mitro/4.jpg)
+![](/2020/mitro/2.jpg)
+![](/2020/mitro/3.jpg)
+![](/2020/mitro/4.jpg)

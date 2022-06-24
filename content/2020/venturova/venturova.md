@@ -22,9 +22,9 @@ V Ateliéru tělového designu vznikla z organického těla a několika nalezen�
 
 ## Voguing Is Not White, Honey
 
-![](/students/venturova/1.jpg)
+![](/2020/venturova/1.jpg)
 
 Ve své diplomové práci se zabývám pojmem „přirozenost“. Zajímá mě, co společnost pokládá za přirozené a co ne. Pro tento „výzkum“ jsem si vypůjčila taneční žánr vogue, který byl vynalezen trans subkulturou jako oslava jinakosti sexuálních identit. Otázky normality a přirozenosti otevírám prostřednictvím nových entit, které tvořím z nalezených syntetických materiálů a svého těla. Umělé materiály zároveň ilustrují otázku přirozenosti nejen ve společnosti, ale také v environmentu. Jedná se o asambláž, ne ve smyslu spojení různých materiálů, ale ve smyslu spojení rozdílných médií, pocitů, témat a myšlenek, které kulminují do jednoho celku. Ten však svým vznikem zase pomalu zaniká. Ve výsledku půjde o instalaci složenou z rozkládajících se kostýmů, které jsem použila ve třech již uskutečněných performancích. Instalace tvoří prostředí pro novou akci, konkrétně pro taneční „battle“ dvou nově vzniklých bytostí.
 
-![](/students/venturova/2.jpg)
-![](/students/venturova/3.jpg)
+![](/2020/venturova/2.jpg)
+![](/2020/venturova/3.jpg)

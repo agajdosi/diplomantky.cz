@@ -22,7 +22,7 @@ Barbora Demovičová je slovenská grafická dizajnérka, ktorá momentálne pô
 
 ## Home-Topia
 
-![](/students/demovicova/1.jpg)
+![](/2020/demovicova/1.jpg)
 
 Home—Topia je prebiehajúci výskumný a výstavný projekt, ktorý sa zameriava na súčasné formy migrácie, vykoreňovania a života medzi kultúrami. Home—Topia skúma pojem domov, pocit spolupatričnosti a jeho väzby na fyzický priestor. Home—Topia vychádza z predpokladu, že rôzne podoby mobility, migrácie a života v pohybe sa stali jedným zo základných charakteristík dnešného sveta. 
 
@@ -32,6 +32,6 @@ V rámci projektu bola tiež zrealizovaná autorská interaktívna video inštal
 
 [home-topia.eu](http://home-topia.eu/)
 
-![](/students/demovicova/2.jpg)
-![](/students/demovicova/3.jpg)
-![](/students/demovicova/4.jpg)
+![](/2020/demovicova/2.jpg)
+![](/2020/demovicova/3.jpg)
+![](/2020/demovicova/4.jpg)

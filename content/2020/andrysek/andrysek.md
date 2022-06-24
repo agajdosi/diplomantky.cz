@@ -23,7 +23,7 @@ Portfolio: [hernimedia.ffa.vutbr.cz/studentstvo/marek-andrysek](http://hernimedi
 
 ## Beton
 
-![](/students/andrysek/1.jpg)
+![](/2020/andrysek/1.jpg)
 
 Beton je diplomovým projektem, který se nachází na pomezí diskurzu interactive art a počítačové hry. Dílo se skládá z autorského kontroleru (interaktivního objektu) a digitálního obsahu, který je tímto kontrolerem ovlivňován. Dílo je představeno ve stavu funkčního prototypu.
 
@@ -31,6 +31,6 @@ Původní představa o díle vznikla propojením dřívějšího nezávislého k
 
 Podoba kontroleru vychází z mechaniky Rubikovy kostky, která může měnit uspořádání jednotlivých segmentů v rámci pevně dané struktury. Vizuálně je přizpůsobena digitálnímu obsahu. Tento obsah je tvořen architektonickými objekty a situacemi. Estetika této architektury je přímo inspirována architektonickým směrem brutalismus, který byl podnětem k myšlence volného uspořádání prefabrikovaných prvků v prostoru. Vizuální stránka obsahu je tvořena texturovanými 3D modely, jejichž předem dané části mohou být přeskupovány, a to na základě interakce hráče či diváka s kontrolerem. Tyto 3D modely jsou autorskými interpretacemi znaků a konkrétních architektonických řešení, které jsou typické pro brutalistní architekturu. Základní vrstvu textur tvoří fotografie daných materiálů, které jsou dále manipulovány pomocí generovaných prvků. Kombinací fotografií s generovaným materiálem byla zajištěna větší variabilita užitých textur. Interaktivita obsahu je zajištěna herním enginem Unity, který s kontrolerem komunikuje bezdrátově pomocí wi-fi sítě.
 
-![](/students/andrysek/2.jpg)
-![](/students/andrysek/3.jpg)
-![](/students/andrysek/4.jpg)
+![](/2020/andrysek/2.jpg)
+![](/2020/andrysek/3.jpg)
+![](/2020/andrysek/4.jpg)

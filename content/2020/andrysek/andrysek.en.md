@@ -24,7 +24,7 @@ Portfolio: [hernimedia.ffa.vutbr.cz/studentstvo/marek-andrysek](http://hernimedi
 
 ## Concrete
 
-![](/students/andrysek/1.jpg)
+![](/2020/andrysek/1.jpg)
 
 Concrete is a diploma project situated on the boundary between a discourse of interactive art and a computer game. The work consists of an original controller (interactive object) and digital content, which is influenced by the controller. It is presented in the state of a functional prototype.
 
@@ -33,6 +33,6 @@ The original idea of the work arose by linking an earlier independent concept of
 The form of the controller is based on the mechanics of Rubik's Cube, which can change the arrangement of the individual segments within a fixed structure. Visually it is adapted to the digital content. The content is made up of architectural objects and situations. The aesthetics of this architecture are directly inspired by the architectural movement of Brutalism, which, within the framework of the project, stimulated the idea of free arrangement of prefabricated elements in space. The visual aspect of the content is created of textured 3D models, whose predefined parts may be regrouped based on the interaction of the player or viewer with the controller. These 3D models are original interpretations of signs and concrete architectural designs typical of Brutalist architecture. The basic layer of the textures is made up of photographs of the given materials which are further manipulated using generated elements. The combination of photographs with generated material ensured greater variability of the textures used. The interactivity of the content is provided for by the Unity game engine which communicates with the controller via a wireless Wi-Fi network.
 
 
-![](/students/andrysek/2.jpg)
-![](/students/andrysek/3.jpg)
-![](/students/andrysek/4.jpg)
+![](/2020/andrysek/2.jpg)
+![](/2020/andrysek/3.jpg)
+![](/2020/andrysek/4.jpg)

@@ -44,7 +44,8 @@
 
 {{ range sort (where .Site.Pages "Params.year" "2022") ".Params.surname" }}
   <h2>
-    <a href="{{ .Permalink }}"> {{ .Title }} </a>
+    {{ .Title }}
+    <!-- <a href="{{ .Permalink }}"> {{ .Title }} </a> -->
   </h2>
 {{ end }}
 

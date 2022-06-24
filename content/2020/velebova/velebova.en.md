@@ -25,7 +25,7 @@ In my diploma work I deal with a new theme that directed me towards using what a
 
 ## Maybe She’s Born With It
 
-![Maybe She’s Born With It, video, 2:56 min](/students/velebova/1.jpg)
+![Maybe She’s Born With It, video, 2:56 min](/2020/velebova/1.jpg)
 
 The diploma work Maybe She’s Born With It is about my cosmetics. About objects and activities related to superficiality and vanity. I examine the subject from the perspective of shopping, consumption, rituals, fetishising of cosmetic products in the household, advertising related to the cosmetic industry, beauty reviews on the internet and resulting effect of the everyday efforts of a woman in order to look like she was born with it.
 
@@ -33,7 +33,7 @@ The whole work is pervaded with an emphasis on quantity. The quantity of cultiva
 
 #andwhatdoyoudoinyourbathroom
 
-![1 Body 237 Cosmetics 17 402 Millilitres, book, 20 x 15 cm](/students/velebova/2.jpg)
-![My Cosmetics 2018-2020, installation, ca 2 x 2.5 m](/students/velebova/3.jpg)
-![My Cosmetics 2018-2020, installation, ca 2 x 2.5 m](/students/velebova/4.jpg)
-![My Cosmetics 2018-2020, installation, ca 2 x 2.5 m](/students/velebova/5.jpg)
+![1 Body 237 Cosmetics 17 402 Millilitres, book, 20 x 15 cm](/2020/velebova/2.jpg)
+![My Cosmetics 2018-2020, installation, ca 2 x 2.5 m](/2020/velebova/3.jpg)
+![My Cosmetics 2018-2020, installation, ca 2 x 2.5 m](/2020/velebova/4.jpg)
+![My Cosmetics 2018-2020, installation, ca 2 x 2.5 m](/2020/velebova/5.jpg)

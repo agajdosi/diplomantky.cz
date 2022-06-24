@@ -21,7 +21,7 @@ location: "kanal"
 
 ## Sasha
 
-![](/students/kadanka/1.jpg)
+![](/2020/kadanka/1.jpg)
 
 The central theme of the work is the interpretation of the feelings connected with the problem of disappearing landscape values at the expense of uncontrolled development of suburban areas. It is a subjective thought product of several years of experience from architectural practice, including the author's own participation in similar invasive development. This empirical evidence resulted in incessant questioning of ethical behaviour and responsibility. The keywords are suburbanisation, urban sprawl, development, satellite town, periphery, and the transformation of a place’s “aura" into a "non-aura"”.
 
@@ -29,6 +29,6 @@ An indelible part of the work is constituted by thoughts on the general position
 
 The title Sasha reflects the theme of the suburbs and peripheral architecture in general — it is an abbreviation for Suburbs aka Self-harming Architecture. Development undermining the foundations of architecture. However, it is primarily a neutral title allowing for subjective confrontation without previous deep insight.
 
-![](/students/kadanka/2.jpg)
-![](/students/kadanka/3.jpg)
-![](/students/kadanka/4.jpg)
+![](/2020/kadanka/2.jpg)
+![](/2020/kadanka/3.jpg)
+![](/2020/kadanka/4.jpg)

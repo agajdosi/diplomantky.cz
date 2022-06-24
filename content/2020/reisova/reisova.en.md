@@ -24,7 +24,7 @@ I have studied in the Studio of Body Design, and I completed a study placement i
 
 ## A Hedgehog Is Running across the Pavement
 
-![](/students/reisova/1.jpg)
+![](/2020/reisova/1.jpg)
 
 A Hedgehog is Running across the Pavement is a collection of texts about the ordinary beauty of the world, about slowing down and concentration. They are stories seen, perceived and heard by myself. Stories during which I stopped or which made me stop.  
 
@@ -32,6 +32,6 @@ About how the sun and a plant create shade, how storks fly in circles above us, 
 
 I write down these texts and transfer them onto hand-made paper, which I made from collected paper and plants. Using a pin I perforate story after story into them. They all gather on a round table where people can meet them and experience them by sight or touch.
 
-![](/students/reisova/2.jpg)
-![](/students/reisova/3.jpg)
-![](/students/reisova/4.jpg)
+![](/2020/reisova/2.jpg)
+![](/2020/reisova/3.jpg)
+![](/2020/reisova/4.jpg)

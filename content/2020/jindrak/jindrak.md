@@ -34,7 +34,7 @@ Po maturitě na Lepařově gymnáziu v Jičíně v roce 2011 jsem byl přijat na
 
 médium: socha/instalace/performance
 
-![Pískový reliéf: 12 čtverců, 60 x 60 centimetrů, litá sádra s pískem](/students/jindrak/1.jpg)
+![Pískový reliéf: 12 čtverců, 60 x 60 centimetrů, litá sádra s pískem](/2020/jindrak/1.jpg)
 
 Proces tvorby u mě začínal hledáním souvztažnosti mezi přirozeným, přírodním a umělým. Zkoumal jsem vrstvení při kresbě tužkou jedním tahem a proměnami, které způsobuje celkové držení těla, poloha ruky. Postupně jsem opustil kresbu pigmentem a pouze jsem jemnou jehlou zaznamenával otisk do hliníkové fólie. Byly to drobné práce, které měly charakter skic. Práce pro mě měly význam právě v posunu ke struktuře nízkého reliéfu. Tyto kresby a reliéfy vzbuzovaly podobu letokruhů a celkové vyznění příčného řezu dřevem, kmenem. Míra nápodoby byla tak silná, že jsem o ní začal přemýšlet jako o tématu. 
 
@@ -48,6 +48,6 @@ https://youtu.be/Zw0on_N_Y7Q
 * Po zániku:
 https://youtu.be/62R2oSPmAvo
 
-![Aluminiový reliéf: 7 kusů, à 97 x 45 centimetrů, hliníková fólie tl. 99 mikronů](/students/jindrak/2.jpg)
-![Nádoba 60 x 60 x 60 centimetrů, sklo tl. 6 milimetrů, voda, lísková hůl](/students/jindrak/3.jpg)
-![](/students/jindrak/4.jpg)
+![Aluminiový reliéf: 7 kusů, à 97 x 45 centimetrů, hliníková fólie tl. 99 mikronů](/2020/jindrak/2.jpg)
+![Nádoba 60 x 60 x 60 centimetrů, sklo tl. 6 milimetrů, voda, lísková hůl](/2020/jindrak/3.jpg)
+![](/2020/jindrak/4.jpg)

@@ -20,7 +20,7 @@ Narozena 1991. Dokončila bakalářské studium na Multimediální fakultě ve Z
 
 ## Dialog
 
-![](/students/hovezakova/1.jpg)
+![](/2020/hovezakova/1.jpg)
 
 Téma diplomové práce částečně vychází z mých osobních zkušeností z pracovní stáže v Galería De Arte Servando v Havaně. Na Kubě jsem měla možnost poznat velká úskalí, která přináší omezení galerijního provozu způsobená komunistickou vládou, ale obecně také kubánskou kulturu a její náturu. Kulturní výměna československého a kubánského umění byla v minulosti běžnou součástí provozu státních institucí. Docházelo k ní jednak v Domě československé kultury v Havaně, jednak v Domě kubánské kultury v Praze. Po pádu SSSR byly oba kulturní domy uzavřeny a kulturně-umělecké vztahy se dodnes neobnovily. Cílem diplomové práce je pokus o znovunavázání jistého dialogu mezi Kubou a Českou republikou (dříve ČSSR), tedy mezi zeměmi, které dnes mohou být v mnoha ohledech odlišné, či dokonce navzájem odcizené. Kulturně-umělecký vztah Kuby a ČSSR býval vřelý a mohl být také v mnoha ohledech inspirativní. Aktuální politická vláda na Kubě může být velkou překážkou pro obnovu vztahů a navázání na historii, kdy nás spojoval stejný politický systém. Realizace výstavy pod názvem Dialog si klade otázky a hledá na ně odpovědi, které reflektuje v instalaci.
 
@@ -32,6 +32,6 @@ Výstava Dialog tedy reflektuje nejen celý proces realizace, ale také prezentu
 
 Na výstavu Dialog plynule naváže série výměnných výstav. Ty mají nejen představit naše současné umění, výstavnictví i galerijní provoz Kubě, ale také prezentovat kubánské umění bez omezení zde v České republice. První instalací ze série VVČSKSU (Výměnná výstava českého, slovenského a kubánského současného umění) bude výstava zaměřující se na otázky identity, kultury a znovuformování Kuby. Kurátorka Yenisel Osuna Morales sestavila výběr současných umělců, které spojuje téma plurikulturalismu, migrace a diaspory. Výstava bude realizována v rámci diplomových výstav během září v brněnské galerii Klubovna.
 
-![](/students/hovezakova/2.jpg)
-![](/students/hovezakova/3.jpg)
-![](/students/hovezakova/4.jpg)
+![](/2020/hovezakova/2.jpg)
+![](/2020/hovezakova/3.jpg)
+![](/2020/hovezakova/4.jpg)

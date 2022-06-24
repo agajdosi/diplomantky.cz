@@ -28,7 +28,7 @@ V diplomové práci se věnuji novému tématu, které mě nasměrovalo k použi
 
 ## Možná se tak narodila
 
-![Maybe She’s born with it, video, 2:56 min](/students/velebova/1.jpg)
+![Maybe She’s born with it, video, 2:56 min](/2020/velebova/1.jpg)
 
 Diplomová práce Možná se tak narodila je o mé kosmetice. O předmětech a činnostech spojených s povrchností a zbytečností. Zkoumám toto téma z pohledu nakupování, spotřeby, rituálů, fetišizace kosmetických výrobků v domácnosti, reklamy spojené s kosmetickým průmyslem, beauty recenzí na internetu a výsledného efektu každodenních úkonů ženy, které dělá, aby vypadala, že se tak opravdu narodila.
 
@@ -36,7 +36,7 @@ Celou prací prostupuje důraz na množství. Množství pěstících činností
 
 #andwhatdoyoudoinyourbathroom
 
-![1 body, 237 cosmetics, 17 402 millilitres; kniha, 20 x 15 cm](/students/velebova/2.jpg)
-![Moje kosmetika 2018–2020, instalace, cca 2 x 2,5 m](/students/velebova/3.jpg)
-![Moje kosmetika 2018–2020, instalace, cca 2 x 2,5 m](/students/velebova/4.jpg)
-![Moje kosmetika 2018–2020, instalace, cca 2 x 2,5 m](/students/velebova/5.jpg)
+![1 body, 237 cosmetics, 17 402 millilitres; kniha, 20 x 15 cm](/2020/velebova/2.jpg)
+![Moje kosmetika 2018–2020, instalace, cca 2 x 2,5 m](/2020/velebova/3.jpg)
+![Moje kosmetika 2018–2020, instalace, cca 2 x 2,5 m](/2020/velebova/4.jpg)
+![Moje kosmetika 2018–2020, instalace, cca 2 x 2,5 m](/2020/velebova/5.jpg)

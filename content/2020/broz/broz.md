@@ -20,10 +20,10 @@ Narodil se v roce 1992 ve vesnici Řež blízko Prahy. Věnuje se hlavně malbě
 
 ## You Must Gather Your Party Before Venturing Forth
 
-![](/students/broz/1.jpg)
+![](/2020/broz/1.jpg)
 
 Jako svou diplomovou práci jsem vytvořil sérii expresivních figurativních obrazů. Série vypráví fragmenty příběhů odehrávajících se v kulisách romantických fantasy scenerií a kombinovaných se současnými subkulturními a volnočasovými motivy. Vycházím ze silné zkušenosti s PC herními světy a hlubokého emocionálního spojení se středoevropskou krajinou. Děj se odehrává někde mezi pohádkovou dávnominulostí a dystopickou budoucností.
 
-![](/students/broz/2.jpg)
-![](/students/broz/3.jpg)
-![](/students/broz/4.jpg)
+![](/2020/broz/2.jpg)
+![](/2020/broz/3.jpg)
+![](/2020/broz/4.jpg)

@@ -22,10 +22,10 @@ I have a bachelor’s degree from Tomáš Baťa University in Zlín, where I stu
 
 ## Mechanical Wave of Air Particles Set to Motion by a Vibrating Body
 
-![](/students/coufalova/1.jpg)
+![](/2020/coufalova/1.jpg)
 
 Sound can be characterised as a mechanic wave of air particles set to motion by a vibrating body. During the wave motion energy is transferred between the particles. The title of the work alludes to the importance of live contact and interaction between people. During the coronavirus pandemic I collected poor quality sound recordings – echo, reverberation and other unwanted noise, system sounds of applications, etc. which became symbols of social isolation for myself. I created a sound collage from them which makes for uneasy listening. By installing the collage in a sound studio with perfect acoustics designed for listening in top quality and its reproduction by high quality sound equipment I create a paradox and hint at the deformation and loss of data during transmission over the internet. I also highlight the importance of sound quality during listening to music thanks to which sound perfectly passes through our body and creates a unique experience invoking moods, feelings, affects as well as changes in behaviour and is capable of affecting the physiological and vegetative functions of the human body.
 
-![](/students/coufalova/2.jpg)
-![](/students/coufalova/3.jpg)
-![](/students/coufalova/4.jpg)
+![](/2020/coufalova/2.jpg)
+![](/2020/coufalova/3.jpg)
+![](/2020/coufalova/4.jpg)

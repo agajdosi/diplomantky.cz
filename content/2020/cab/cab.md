@@ -47,7 +47,7 @@ Intermédia (Václav Stratil, Pavel Sterec)
 
 ## Bez názvu (Levou zadní)
 
-![](/students/cab/1.jpg)
+![](/2020/cab/1.jpg)
 
 V září roku 2018, v čase mé hluboké stagnace a nicnedělání, se mi přihodila jedna nešťastná a vcelku dost trapná událost.
 Navštívil jsem vernisáž výstavy diplomových prací, která se tehdy odehrávala v Domě pánů z Kunštátu v Brně.
@@ -73,5 +73,5 @@ lze ji tedy vnímat z více ohledů, nežli jen jako generační výpověď dne�
 a vyčerpaných kulturním provozem. Z aktu destrukce uměleckého díla vzešlo nové metadílo,
 ze stagnace vzešla radost, duchovní prostor.
 
-![](/students/cab/2.jpg)
-![](/students/cab/3.jpg)
+![](/2020/cab/2.jpg)
+![](/2020/cab/3.jpg)

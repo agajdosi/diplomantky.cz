@@ -21,7 +21,7 @@ Narozen 1982. Vizuální umělec obecně, aktuálně především nezávislý fi
 
 ## Sasha
 
-![](/students/kadanka/1.jpg)
+![](/2020/kadanka/1.jpg)
 
 Ústředním tématem práce je interpretace pocitů týkajících se mizejících krajinných hodnot z důvodu neřízeného extenzivního rozvoje příměstských oblastí. Jedná se o subjektivní myšlenkový produkt několikaleté zkušenosti v rámci architektonické praxe, zahrnující mimo jiné i vlastní účast na obdobné invazivní výstavbě. Tato empirie vyústila v nepřetržité kladení si otázek dotýkajících se etického jednání a zodpovědnosti. Klíčovými pojmy jsou suburbanizace, sídelní kaše, development, satelitní město, periferie, transformace aury místa v „neauru“.
 
@@ -29,6 +29,6 @@ Nedílnou součást práce reprezentují úvahy o obecné pozici objektu v rám
 
 Název Sasha reflektuje téma suburbií a periferní architektury obecně – jedná se o zkratku, kterou lze volně přeložit následovně: Suburbánní výstavba jako sebepoškozující akt! Výstavba podkopávající základy architektury. Primárně ovšem jde o neutrální název umožňující bez předchozího hlubšího vhledu subjektivní konfrontaci.
 
-![](/students/kadanka/2.jpg)
-![](/students/kadanka/3.jpg)
-![](/students/kadanka/4.jpg)
+![](/2020/kadanka/2.jpg)
+![](/2020/kadanka/3.jpg)
+![](/2020/kadanka/4.jpg)

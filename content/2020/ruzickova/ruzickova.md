@@ -28,7 +28,7 @@ https://bara.fun/
 
 ## Credit Cards Accepted
 
-![](/students/ruzickova/1.jpg)
+![](/2020/ruzickova/1.jpg)
 
 Ve své diplomové práci se věnuji pracovním podmínkám v oblasti grafického designu, jejich kritice a hledání způsobů, jak si nastavit udržitelné podmínky pro vlastní práci a život – tedy jak nebýt závislý pouze na zakázkách od zadavatele a jak diverzifikovat vlastní práci. Zajímala jsem se o témata, jako je prekarizace a entreprekarizace práce v oblasti umění a designu, co konkrétně prekarizace  představuje a snažila jsem se ji řešit a předejít jí ve své vlastní praxi.
 
@@ -36,6 +36,6 @@ Jako designérka se ve své praxi setkávám s mnoha fenomény, které pre
 
 Zajímalo mě tedy, zda je možné z tohoto „koloběhu věcí“ nějak vystoupit a nastavit si lépe vyhovující podmínky pro vlastní práci. Myslím si, že v současném systému je téměř nemožné vyhnout se všem zmíněným aspektům jinak, než že se dostanu do pozice toho, kdo může pravidla sám sobě určovat. Proto jsem se rozhodla věnovat se vývoji vlastních projektů a produktů, ve kterých mohu nastavovat etické hodnoty a postoje tak, jak mi vyhovují. Moje diplomová práce tedy není jeden ucelený projekt, ale myšlenka a způsob práce, od kterého se odvíjí několik projektů najednou.
 
-![](/students/ruzickova/2.jpg)
-![](/students/ruzickova/3.jpg)
-![](/students/ruzickova/4.jpg)
+![](/2020/ruzickova/2.jpg)
+![](/2020/ruzickova/3.jpg)
+![](/2020/ruzickova/4.jpg)

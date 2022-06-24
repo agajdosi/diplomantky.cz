@@ -28,7 +28,7 @@ https://bara.fun/
 
 ## Credit Cards Accepted
 
-![](/students/ruzickova/1.jpg)
+![](/2020/ruzickova/1.jpg)
 
 In my diploma work I am concerned with working conditions in the field of graphic design, their criticism and searching for ways of setting sustainable conditions for one’s own work and life – i.e. how not be dependent only on commissions by the client and how to diversify one’s work. I was interested in the themes of the precarisation and entreprecarisation of work in the area of art and design, what precarisation represents in concrete terms and I attempted to address it and avoid it in my own practise.
 
@@ -36,6 +36,6 @@ In my practise as a graphic designer I encounter many phenomena that accompany p
 
 I was therefore interested in whether it is possible to quit this “vicious circle" and to set conditions that would be better suited for my own work. I think that in the current system it is nearly impossible to avoid all of the aspects mentioned above in any other way than to get oneself into the position of someone who makes the rules for oneself. As a result I decided to dedicate myself to developing my own projects and products where I can set the ethical values and attitudes to my liking. My diploma work is not a single complete project but an idea and a way of working from which a number of projects are derived simultaneously.
 
-![](/students/ruzickova/2.jpg)
-![](/students/ruzickova/3.jpg)
-![](/students/ruzickova/4.jpg)
+![](/2020/ruzickova/2.jpg)
+![](/2020/ruzickova/3.jpg)
+![](/2020/ruzickova/4.jpg)

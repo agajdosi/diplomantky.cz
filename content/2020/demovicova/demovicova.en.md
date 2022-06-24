@@ -22,7 +22,7 @@ Part of her Home–Topia diploma work was displayed in the Raum für drastische 
 
 ## Home-Topia
 
-![](/students/demovicova/1.jpg)
+![](/2020/demovicova/1.jpg)
 
 Home—Topia is an ongoing research and exhibition project putting focus  on current forms of migration, uprooting and life between cultures. Home—Topia examines the notion of home, the sense  of belonging and  its connection to  a physical space. Home—Topia is based on the assumption that different forms of mobility, migration and life on the move have become one of the basic characteristics of today’s world.
 
@@ -32,6 +32,6 @@ Among the development of an online platform, the project also includes an author
 
 [home-topia.eu](http://home-topia.eu/)
 
-![](/students/demovicova/2.jpg)
-![](/students/demovicova/3.jpg)
-![](/students/demovicova/4.jpg)
+![](/2020/demovicova/2.jpg)
+![](/2020/demovicova/3.jpg)
+![](/2020/demovicova/4.jpg)
